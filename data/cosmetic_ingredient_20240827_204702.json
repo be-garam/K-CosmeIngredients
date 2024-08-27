@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "글리세릴스테아레이트/말레이트",
+        "INGR_ENG_NAME": "Glyceryl Stearate/Malate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아릭애씨드와 말릭애씨드의 혼합물을 에스터화한 글리세린의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코암포아세테이트",
+        "INGR_ENG_NAME": "Sodium Cocoamphoacetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 양쪽성 유기화합물이다. RCO-는 코코넛애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코암포프로피오네이트",
+        "INGR_ENG_NAME": "Sodium Cocoamphopropionate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 양쪽성 유기화합물이다. RCO-는 코코넛애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코에이트",
+        "INGR_ENG_NAME": "Sodium Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일글루타메이트",
+        "INGR_ENG_NAME": "Sodium Cocoyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코일글루타믹애씨드의 소듐염이다. RCO-는 코코넛애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일글라이시네이트",
+        "INGR_ENG_NAME": "Sodium Cocoyl Glycinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 유기화합물이다. RCO-는 코코일모이어티를 나타낸다.",
+        "INGR_SYNONYM": "소듐코코일글리시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일사코시네이트",
+        "INGR_ENG_NAME": "Sodium Cocoyl Sarcosinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코일사코신의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일아미노산",
+        "INGR_ENG_NAME": "Sodium Cocoyl Amino Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코일클로라이드로 아실화 된 아미노산 혼합물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일알라니네이트",
+        "INGR_ENG_NAME": "Sodium Cocoyl Alaninate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다. RCO-는 코코넛애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일이세티오네이트",
+        "INGR_ENG_NAME": "Sodium Cocoyl Isethionate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 이세티오닉애씨드의 코코넛지방산에스터의 소듐염이다. RCO-는 코코넛오일로부터 유래된 지방산을 나타낸다.",
+        "INGR_SYNONYM": "소듐코코일이세치오네이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일콜라겐아미노산",
+        "INGR_ENG_NAME": "Sodium Cocoyl Collagen Amino Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드클로라이드와 콜라겐아미노산 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴스테아레이트시트레이트",
+        "INGR_ENG_NAME": "Glyceryl Stearate Citrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 글리세릴스테아레이트의 시트릭애씨드에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일하이드롤라이즈드귀리단백질",
+        "INGR_ENG_NAME": "Sodium Cocoyl Hydrolyzed Oat Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드클로라이드와 가수분해된 귀리단백질과의 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일하이드롤라이즈드밀단백질",
+        "INGR_ENG_NAME": "Sodium Cocoyl Hydrolyzed Wheat Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드클로라이드와 가수분해된 밀 단백질의 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일하이드롤라이즈드밀단백질글루타메이트",
+        "INGR_ENG_NAME": "Sodium Cocoyl Hydrolyzed Wheat Protein Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소듐코코일하이드롤라이즈드밀단백질과 글루타믹애씨드의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일하이드롤라이즈드실크",
+        "INGR_ENG_NAME": "Sodium Cocoyl Hydrolyzed Silk",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드클로라이드와 가수분해된 실크와의 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일하이드롤라이즈드쌀단백질",
+        "INGR_ENG_NAME": "Sodium Cocoyl Hydrolyzed Rice Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드클로라이드와 가수분해된 쌀 단백질과의 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일하이드롤라이즈드콜라겐",
+        "INGR_ENG_NAME": "Sodium Cocoyl Hydrolyzed Collagen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드클로라이드와 가수분해된 콜라겐과의 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코일하이드롤라이즈드콩단백질",
+        "INGR_ENG_NAME": "Sodium Cocoyl Hydrolyzed Soy Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드클로라이드와 가수분해된 콩단백질과의 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐코코피지-다이모늄클로라이드포스페이트",
+        "INGR_ENG_NAME": "Sodium Coco PG-Dimonium Chloride Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다. R은 코코넛오일에서 유래한 알킬 그룹이다.",
+        "INGR_SYNONYM": "소듐코코피지-디모늄클로라이드포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐콘드로이틴설페이트",
+        "INGR_ENG_NAME": "Sodium Chondroitin Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 천연의 뮤코폴리사카라이드 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐클로라이드",
+        "INGR_ENG_NAME": "Sodium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴스테아레이트에스이",
+        "INGR_ENG_NAME": "Glyceryl Stearate SE",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 자기유화형 글리세릴스테아레이트이며 소듐 및/또는 포타슘스테아레이트를 함유한다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐탈로우에이트",
+        "INGR_ENG_NAME": "Sodium Tallowate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탈로우애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐토코페릴포스페이트",
+        "INGR_ENG_NAME": "Sodium Tocopheryl Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포스포릭애씨드와 토코페롤의 에스터의 혼합물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐트라이데세스설페이트",
+        "INGR_ENG_NAME": "Sodium Trideceth Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 황산화된 에톡실레이티드트라이데실알코올의 소듐염이다. n은 1~4이다.",
+        "INGR_SYNONYM": "소듐트리데세스설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐트라이데세스-3카복실레이트",
+        "INGR_ENG_NAME": "Sodium Trideceth-3 Carboxylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 트라이데세스-3카복실릭애씨드의 소듐염이다.",
+        "INGR_SYNONYM": "소듐트리데세스-3카복실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐트라이데세스-4카복실레이트",
+        "INGR_ENG_NAME": "Sodium Trideceth-4 Carboxylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 트라이데세스-4카복실릭애씨드의 소듐염이다.",
+        "INGR_SYNONYM": "소듐트리데세스-4카복실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐트라이데세스-7카복실레이트",
+        "INGR_ENG_NAME": "Sodium Trideceth-7 Carboxylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 트라이데세스-7카복실릭애씨드의 소듐염이다.",
+        "INGR_SYNONYM": "소듐트리데세스-7카복실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐/티이에이-라우로일콜라겐아미노산",
+        "INGR_ENG_NAME": "Sodium/TEA-Lauroyl Collagen Amino Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라우릭애씨드클로라이드와 콜라겐아미노산의 축합생산물의 트라이에탄올아민염과 소듐의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐C12-14알케스-3설페이트",
+        "INGR_ENG_NAME": "Sodium C12-14 Alketh-3 Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 C12-14알케스-3의 설페이트에스터의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐C12-15알케스설페이트",
+        "INGR_ENG_NAME": "Sodium C12-15 Alketh Sulfate",
+        "CAS_NO": "91648-56-5",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 합성 C12-15 지방알코올 혼합물의 설페이티드폴리에칠렌글라이콜에텔의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐파이테이트",
+        "INGR_ENG_NAME": "Sodium Phytate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피틱애씨드의 혼합소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴아라키도네이트",
+        "INGR_ENG_NAME": "Glyceryl Arachidonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글리세린과 아라키도닉애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐팔메이트",
+        "INGR_ENG_NAME": "Sodium Palmate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 기름야자 (Elaeis guineensis)의 오일에서 유래된 지방산의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐팔모일글루타메이트",
+        "INGR_ENG_NAME": "Sodium Palmoyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 팔미토일글루타믹애씨드의 소듐염이다. RCO-는 팔모일라디칼이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐팔미테이트",
+        "INGR_ENG_NAME": "Sodium Palmitate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 팔미틱애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐팔미토일사코시네이트",
+        "INGR_ENG_NAME": "Sodium Palmitoyl Sarcosinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 팔미토일사코신의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐팔미토일프롤린",
+        "INGR_ENG_NAME": "Sodium Palmitoyl Proline",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드클로라이드와 프롤린의 축합반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐팜글리세라이드설포네이트",
+        "INGR_ENG_NAME": "Sodium Palm Glyceride Sulfonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐팜커넬레이트",
+        "INGR_ENG_NAME": "Sodium Palm Kernelate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팜커넬오일에서 유래된 지방산의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐퍼설페이트",
+        "INGR_ENG_NAME": "Sodium Persulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐o-페닐페네이트",
+        "INGR_ENG_NAME": "Sodium o-Phenylphenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 o-페닐페놀의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐포메이트",
+        "INGR_ENG_NAME": "Sodium Formate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴아비에테이트",
+        "INGR_ENG_NAME": "Glyceryl Abietate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글리세린과 아비에틱애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐포스페이트",
+        "INGR_ENG_NAME": "Sodium Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐포타슘알루미늄실리케이트",
+        "INGR_ENG_NAME": "Sodium Potassium Aluminum Silicate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 자연적으로 생기거나 합성적으로 파생된 자원에서 정제된 혼합규산염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리나프탈렌설포네이트",
+        "INGR_ENG_NAME": "Sodium Polynaphthalenesulfonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 나프탈렌설포닉애씨드와 포름알데하이드의 축합중합 반응물의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리메타크릴레이트",
+        "INGR_ENG_NAME": "Sodium Polymethacrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리스타이렌설포네이트",
+        "INGR_ENG_NAME": "Sodium Polystyrene Sulfonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리아스파테이트",
+        "INGR_ENG_NAME": "Sodium Polyaspartate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아스파틱애씨드 폴리머의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리아크릴레이트",
+        "INGR_ENG_NAME": "Sodium Polyacrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 폴리아크릴릭애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리아크릴레이트스타치",
+        "INGR_ENG_NAME": "Sodium Polyacrylate Starch",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소듐아클리레이트 폴리머가 결합된 전분이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리포스페이트",
+        "INGR_ENG_NAME": "Sodium Polyphosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 폴리포스포릭애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐프로필파라벤",
+        "INGR_ENG_NAME": "Sodium Propylparaben",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 프로필파라벤의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴아크릴레이트/아크릴릭애씨드코폴리머",
+        "INGR_ENG_NAME": "Glyceryl Acrylate/Acrylic Acid Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글리세릴아크릴레이트와 아크릴릭애씨드의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐피씨에이",
+        "INGR_ENG_NAME": "Sodium PCA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 피롤리돈카복실릭애씨드(PCA)의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐피이지-7올리브오일카복실레이트",
+        "INGR_ENG_NAME": "Sodium PEG-7 Olive Oil Carboxylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올리브오일 피이지-7에스터와 소듐모노클로로아세테이트의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐피이지-4코카마이드설페이트",
+        "INGR_ENG_NAME": "Sodium PEG-4 Cocamide Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이드로설파이트",
+        "INGR_ENG_NAME": "Sodium Hydrosulfite",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이드로제네이티드탈로우오일글루타메이트",
+        "INGR_ENG_NAME": "Sodium Hydrogenated Tallowoyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 글루타믹애씨드의 하이드로제네이티드탈로우애씨드아마이드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이드록사이드",
+        "INGR_ENG_NAME": "Sodium Hydroxide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염기이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이드록시메칠글리시네이트",
+        "INGR_ENG_NAME": "Sodium Hydroxymethylglycinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 아미노산의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이알루로네이트",
+        "INGR_ENG_NAME": "Sodium Hyaluronate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이알루로닉애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이알루로네이트다이메틸실란올",
+        "INGR_ENG_NAME": "Sodium Hyaluronate Dimethylsilanol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이알루로닉애씨드 에스터의 소듐염이다.",
+        "INGR_SYNONYM": "소듐하이알루로네이트디메칠실란올"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴에틸헥사노에이트/스테아레이트/아디페이트",
+        "INGR_ENG_NAME": "Glyceryl Ethylhexanoate/Stearate/Adipate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 2-에틸헥사노익애씨드, 스테아릭애씨드 및 아디픽애씨드의 혼합물을 에스터화한 글리세린이다.",
+        "INGR_SYNONYM": "글리세릴에칠헥사노에이트/스테아레이트/아디페이트"
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이알루로네이트크로스폴리머",
+        "INGR_ENG_NAME": "Sodium Hyaluronate Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 비닐설폰과 가교된 하이알루로닉애씨드 중합체의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐하이포클로라이트",
+        "INGR_ENG_NAME": "Sodium Hypochlorite",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 하이포클로로우스애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐헥사메타포스페이트",
+        "INGR_ENG_NAME": "Sodium Hexametaphosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-30",
+        "INGR_ENG_NAME": "Sorbeth-30",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 30몰인 솔비톨의 폴리에틸렌글라이콜에터이다.",
+        "INGR_SYNONYM": "소르베스-30"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-6라우레이트",
+        "INGR_ENG_NAME": "Sorbeth-6 Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 6몰인 솔비톨의 폴리에틸렌글라이콜에터와 라우릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "소르베스-6라우레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-6비즈왁스",
+        "INGR_ENG_NAME": "Sorbeth-6 Beeswax",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균6몰의 에틸렌옥사이드와 비즈왁스에서 유래된 에톡실레이트솔비탄이다.",
+        "INGR_SYNONYM": "소르베스-6비즈왁스"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-20비즈왁스",
+        "INGR_ENG_NAME": "Sorbeth-20 Beeswax",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 20몰의 에틸렌옥사이드와 비즈왁스에서 유래된 에톡실레이트솔비탄이다.",
+        "INGR_SYNONYM": "소르베스-20비즈왁스"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-60테트라스테아레이트",
+        "INGR_ENG_NAME": "Sorbeth-60 Tetrastearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 20몰의 에틸렌옥사이드와 비즈왁스에서 유래된 에톡실레이트솔비탄이다.",
+        "INGR_SYNONYM": "소르베스-60테트라스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-4테트라올리에이트",
+        "INGR_ENG_NAME": "Sorbeth-4 Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 4몰인 솔비톨의 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "소르베스-4테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-6테트라올리에이트",
+        "INGR_ENG_NAME": "Sorbeth-6 Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 6몰인 솔비톨의 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "소르베스-6테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴올리베이트",
+        "INGR_ENG_NAME": "Glyceryl Olivate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 RCO-기가 올리브오일에서 유래된 지방산과 글리세린의 모노에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-30테트라올리에이트",
+        "INGR_ENG_NAME": "Sorbeth-30 Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 30몰인 솔비톨의 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "소르베스-30테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-40테트라올리에이트",
+        "INGR_ENG_NAME": "Sorbeth-40 Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 40몰인 솔비톨의 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "소르베스-40테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-60테트라올리에이트",
+        "INGR_ENG_NAME": "Sorbeth-60 Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 60몰인 솔비톨의 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "소르베스-60테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-3트라이스테아레이트",
+        "INGR_ENG_NAME": "Sorbeth-3 Tristearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 3몰인 솔비톨의 폴리에틸렌글라이콜에터와 스테아릭애씨드의 트라이에스터이다.",
+        "INGR_SYNONYM": "소르베스-3트리스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔베스-6헥사스테아레이트",
+        "INGR_ENG_NAME": "Sorbeth-6 Hexastearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 6몰의 에틸렌옥사이드를 포함하는 솔비톨의 폴리에틸렌글라이콜에터와 스테아릭애씨드의 헥사에스터이다.",
+        "INGR_SYNONYM": "소르베스-6헥사스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄라우레이트",
+        "INGR_ENG_NAME": "Sorbitan Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 솔비톨로 부터 얻은 헥시톨무수물과 라우릭애씨드이 모노에스터이다.",
+        "INGR_SYNONYM": "소르비탄라우레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄세스퀴스테아레이트",
+        "INGR_ENG_NAME": "Sorbitan Sesquistearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비톨에서 유래된 헥시톨안하이드라이드와 스테아릭애씨드의 모노 및 디에스터의 혼합물이다.",
+        "INGR_SYNONYM": "소르비탄세스퀴스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄세스퀴올리에이트",
+        "INGR_ENG_NAME": "Sorbitan Sesquioleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비톨에서 유래된 헥시톨안하이드라이드와 올레익애씨드의 모노 및 다이에스터의 혼합물이다.",
+        "INGR_SYNONYM": "소르비탄세스퀴올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄세스퀴아이소스테아레이트",
+        "INGR_ENG_NAME": "Sorbitan Sesquiisostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비톨에서 유래된 헥시톨안하이드라이드와 아이소스테아릭애씨드의 모노 및 디에스터의 혼합물이다.",
+        "INGR_SYNONYM": "소르비탄세스퀴이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄스테아레이트",
+        "INGR_ENG_NAME": "Sorbitan Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 솔비톨에서 유래된 헥시톨안하이드라이드와 스테아릭애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "소르비탄스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴올리에이트",
+        "INGR_ENG_NAME": "Glyceryl Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글리세린과 올레익애씨드의 모노에스터이다. 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄올리베이트",
+        "INGR_ENG_NAME": "Sorbitan Olivate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 솔비톨에서 유래한 헥시톨안하이드라이드와 올리브오일에서 유래한 지방산의 모노에스터이다. RCO-는 올리브오일에서 유래한 지방산이다.",
+        "INGR_SYNONYM": "소르비탄올리베이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄올리에이트",
+        "INGR_ENG_NAME": "Sorbitan Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 솔비톨로부터 얻은 헥시톨무수물과 올레익애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "소르비탄올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄아이소스테아레이트",
+        "INGR_ENG_NAME": "Sorbitan Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비톨에서 얻은 헥시톨무수물과 아이소스테아릭애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "소르비탄이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄코코에이트",
+        "INGR_ENG_NAME": "Sorbitan Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 솔비톨에서 유래한 헥시톨안하이드라이드와 코코넛애씨드의 모노에스터이다. RCO-는 코코넛오일에서 유래한 지방산이다.",
+        "INGR_SYNONYM": "소르비탄코코에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄트라이스테아레이트",
+        "INGR_ENG_NAME": "Sorbitan Tristearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비톨에서 유래된 헥시톨안하이드라이드와 스테아릭애씨드의 트라이에스터이다.",
+        "INGR_SYNONYM": "소르비탄트리스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄트라이올리에이트",
+        "INGR_ENG_NAME": "Sorbitan Trioleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비톨에서 유래된 헥시톨안하이드라이드와 올레익애씨드의 트라이에스터이다.",
+        "INGR_SYNONYM": "소르비탄트리올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비탄팔미테이트",
+        "INGR_ENG_NAME": "Sorbitan Palmitate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 솔비톨에서 유래된 헥시톨안하이드라이드와 팔미틱애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "소르비탄팔미테이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔비톨",
+        "INGR_ENG_NAME": "Sorbitol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헥사하이드릭알코올이다.",
+        "INGR_SYNONYM": "소르비톨"
+    },
+    {
+        "INGR_KOR_NAME": "솔비틸라우레이트",
+        "INGR_ENG_NAME": "Sorbityl Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 라우릭애씨드와 솔비톨의 에스터이다.",
+        "INGR_SYNONYM": "소르비틸라우레이트"
+    },
+    {
+        "INGR_KOR_NAME": "소르빅애씨드",
+        "INGR_ENG_NAME": "Sorbic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴올리에이트/엘라이데이트",
+        "INGR_ENG_NAME": "Glyceryl Oleate/Elaidate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익과 엘라이딕애씨드와 모노글리세라이드의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소목껍질추출물",
+        "INGR_ENG_NAME": "Caesalpinia Sappan Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소방목 (Caesalpinia sappan)의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    }
+]

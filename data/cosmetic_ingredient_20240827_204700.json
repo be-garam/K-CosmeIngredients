@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "베헨트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Behentrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "베헨트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "벤잘코늄클로라이드",
+        "INGR_ENG_NAME": "Benzalkonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 알킬벤질디메칠암모늄클로라이드의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤제토늄클로라이드",
+        "INGR_ENG_NAME": "Benzethonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조구아나민",
+        "INGR_ENG_NAME": "Benzoguanamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로사이클릭 화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리옥실릭애씨드",
+        "INGR_ENG_NAME": "Glyoxylic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": "글라이옥실릭애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "벤조익애씨드",
+        "INGR_ENG_NAME": "Benzoic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조인나무검",
+        "INGR_ENG_NAME": "Styrax Benzoin Gum",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤조인나무 (Styrax benzoin)에서 얻은 발삼수지이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조인나무수지추출물",
+        "INGR_ENG_NAME": "Styrax Benzoin Resin Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤조인나무 (Styrax benzoin)의 발삼 수지에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-1",
+        "INGR_ENG_NAME": "Benzophenone-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-2",
+        "INGR_ENG_NAME": "Benzophenone-2",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-3",
+        "INGR_ENG_NAME": "Benzophenone-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-4",
+        "INGR_ENG_NAME": "Benzophenone-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-5",
+        "INGR_ENG_NAME": "Benzophenone-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논-4의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-8",
+        "INGR_ENG_NAME": "Benzophenone-8",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-9",
+        "INGR_ENG_NAME": "Benzophenone-9",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글라이코리피드",
+        "INGR_ENG_NAME": "Glycolipids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아실글리세롤, 스핑고리피드, 또는 세라마이드와 공유결합된 하나 혹은 그 이상의 탄수화물그룹을 포함하는 지질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-10",
+        "INGR_ENG_NAME": "Benzophenone-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 벤조페논 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤조페논-11",
+        "INGR_ENG_NAME": "Benzophenone-11",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤조페논-6, 벤조페논-2 및 다른 4곳이 치환된 벤조페논의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤즈알데하이드",
+        "INGR_ENG_NAME": "Benzaldehyde",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 알데하이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤질니코티네이트",
+        "INGR_ENG_NAME": "Benzyl Nicotinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 니코티닉애씨드와 벤질알코올의 에스터이며 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤질라우레이트",
+        "INGR_ENG_NAME": "Benzyl Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 라우릭애씨드와 벤질알코올의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤질벤조에이트",
+        "INGR_ENG_NAME": "Benzyl Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤질알코올과 벤조익애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤질살리실레이트",
+        "INGR_ENG_NAME": "Benzyl Salicylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤질알코올과 살리시릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤질신나메이트",
+        "INGR_ENG_NAME": "Benzyl Cinnamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤질알코올과 신나믹애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤질아세테이트",
+        "INGR_ENG_NAME": "Benzyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤질알코올과 아세틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글라이코사미노글리칸",
+        "INGR_ENG_NAME": "Glycosaminoglycans",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글루쿠로닉애씨드 또는 갈락토오스와 함께 아미노 당(N-아세틸글루코사민 또는 N-아세틸갈락토사민)으로 이루어진 반복되는 다이사카라이드 단위로 구성된 긴 비분지형 폴리사카라이드이다.",
+        "INGR_SYNONYM": "글라이코스아미노글리칸"
+    },
+    {
+        "INGR_KOR_NAME": "벤질알코올",
+        "INGR_ENG_NAME": "Benzyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 알코올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벤토나이트",
+        "INGR_ENG_NAME": "Bentonite,CI 77004",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 고유의 수화된 콜로이드성 알루미늄실리케이트 점토이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벵골생강오일",
+        "INGR_ENG_NAME": "Zingiber Cassumunar Root Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벵골생강 (Zingiber cassumunar)의 뿌리에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벵골생강추출물",
+        "INGR_ENG_NAME": "Zingiber Cassumunar Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벵골생강 (Zingiber cassumunar)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "변성감자전분",
+        "INGR_ENG_NAME": "Potato Starch Modified",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글루코오스 단위당 치환율이 0.1 이하인 감자전분과 할로에칠아미노디프로피오닉애씨드의 반응으로 얻은 에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "변성알코올",
+        "INGR_ENG_NAME": "Alcohol Denat.",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유럽연합의 각국 법률에 따라 한 개 혹은 그 이상의 변성제로 변성시킨 에칠알코올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "변성알코올39-C",
+        "INGR_ENG_NAME": "SD Alcohol 39-C",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 미국 27CFR21에 따라 디에칠프탈레이트로 변성된 에칠알코올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "변성알코올40",
+        "INGR_ENG_NAME": "SD Alcohol 40",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 미국 27CFR21에 따라 브루신(알칼로이드), 브루신설페이트 또는 콰신의 하나 이상의 조합과 t-부틸알코올로 변성된 에칠알코올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "에스디알코올40-B",
+        "INGR_ENG_NAME": "SD Alcohol 40-B",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 미국 27CFR21에 따라 데나토늄벤조에이트 및 t-부틸알코올로 변성된 에틸알코올이다.",
+        "INGR_SYNONYM": "변성알코올40-B"
+    },
+    {
+        "INGR_KOR_NAME": "변성옥수수전분",
+        "INGR_ENG_NAME": "Corn Starch Modified",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글루코스 당 치환율이 0.1 이하인 옥수수전분과 3-(도데세닐)디하이드로-2,5-퓨란디온의 반응으로 얻은 에스터의 칼슘염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글라이코스핑고리피드",
+        "INGR_ENG_NAME": "Glycosphingolipids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스핑고지질 중추가 공유결합으로 연결된 탄수화물 그룹을 갖는 스핑고리피드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "별꽃추출물",
+        "INGR_ENG_NAME": "Stellaria Media (Chickweed) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 별꽃 (Stellaria media)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "병풀잎추출물",
+        "INGR_ENG_NAME": "Centella Asiatica Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 병풀 Centella asiatica의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "병풀추출물",
+        "INGR_ENG_NAME": "Centella Asiatica Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 병풀 (Centella asiatica)의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보론나이트라이드",
+        "INGR_ENG_NAME": "Boron Nitride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보르네오탈로우씨버터",
+        "INGR_ENG_NAME": "Shorea Stenoptera Seed Butter",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보르네오탈로우 Shorea stenoptera의 씨에서 얻은 지방이다.",
+        "INGR_SYNONYM": "보르네오탈로우씨드버터"
+    },
+    {
+        "INGR_KOR_NAME": "보르네올",
+        "INGR_ENG_NAME": "Borneol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보리가루",
+        "INGR_ENG_NAME": "Hordeum Vulgare Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리 Hordeum vulgare를 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보리뿌리추출물",
+        "INGR_ENG_NAME": "Hordeum Vulgare Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리 (Hordeum vulgare)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보리수잎추출물",
+        "INGR_ENG_NAME": "Elaeagnus Pungens Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리수 Elaeagnus pungens의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보리씨추출물",
+        "INGR_ENG_NAME": "Hordeum Vulgare Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리 (Hordeum vulgare)의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "갈란투스씨추출물",
+        "INGR_ENG_NAME": "Galanthus Nivalis Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 갈란투스 Galanthus nivalis의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글라이코실트레할로오스",
+        "INGR_ENG_NAME": "Glycosyl Trehalose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 가수분해된 전분의 말단 환원부위에 글루코실트랜스퍼라아제로 1,1-글루코시딕 결합반응을 하여 얻은 물질이다.",
+        "INGR_SYNONYM": "글라이코실트레할로스"
+    },
+    {
+        "INGR_KOR_NAME": "보리잎추출물",
+        "INGR_ENG_NAME": "Hordeum Vulgare Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리 (Hordeum vulgare)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보리지씨오일",
+        "INGR_ENG_NAME": "Borago Officinalis Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리지 (Borago officinalis)의 씨에서 얻은 불휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "보리지에틸에스터",
+        "INGR_ENG_NAME": "Borago Officinalis Ethyl Ester",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리지 Borago officinalis 씨오일로부터 유래된 지방산의 에틸에스터이다.",
+        "INGR_SYNONYM": "보리지에칠에스터"
+    },
+    {
+        "INGR_KOR_NAME": "보리지추출물",
+        "INGR_ENG_NAME": "Borago Officinalis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 보리지 (Borago officinalis)의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "발레이추출물",
+        "INGR_ENG_NAME": "Hordeum Distichon (Barley) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 발레이(Barley) Hordeum distichon의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "보리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "복령가루",
+        "INGR_ENG_NAME": "Poria Cocos Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 균류의 일종인 복령 Poria cocos을 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "복령추출물",
+        "INGR_ENG_NAME": "Poria Cocos Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 균류의 일종인 복령 Poria cocos에서 추출한 것이다.",
+        "INGR_SYNONYM": "복령추출물"
+    },
+    {
+        "INGR_KOR_NAME": "복분자딸기열매추출물",
+        "INGR_ENG_NAME": "Rubus Coreanus Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복분자딸기 Rubus coreanus의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "복분자추출물"
+    },
+    {
+        "INGR_KOR_NAME": "복사나무꽃가루",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Flower Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복사나무(Peach) Prunus persica의 꽃을 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": "복숭아나무꽃가루"
+    },
+    {
+        "INGR_KOR_NAME": "복사나무꽃추출물",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복사나무(Peach) Prunus persica의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "복숭아나무꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "글라이코젠",
+        "INGR_ENG_NAME": "Glycogen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 D-글라이코피라노오스 잔기로 구성된 가지사슬구조를 갖는 고분자량의 중합체이며 세포 원형질에 분포한다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "복사나무잎추출물",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복사나무(Peach) Prunus persica의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "복숭아나무잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "복숭아씨가루",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Seed Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복숭아 (Prunus persica)의 씨를 건조하여 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "복숭아즙",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Juice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복숭아나무 (Prunus persica) 열매의 신선한 과육을 압착하여 얻은 액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "복숭아추출물",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복숭아나무 (Prunus persica)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "볼도잎추출물",
+        "INGR_ENG_NAME": "Peumus Boldus Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 볼도 (Peumus boldus)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "봄빅스",
+        "INGR_ENG_NAME": "Bombyx",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 누에 (Bombyx mori)에서 추출한 추출물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "봉선화꽃/잎/줄기추출물",
+        "INGR_ENG_NAME": "Impatiens Balsamina Flower/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 봉선화 (Impatiens balsamina)의 꽃, 잎과 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "봉선화꽃추출물",
+        "INGR_ENG_NAME": "Impatiens Balsamina Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 봉선화 (Impatiens balsamin)의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "봉선화잎추출물",
+        "INGR_ENG_NAME": "Impatiens Balsamina Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 봉선화 (Impatiens balsamina)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "봉작고사리잎추출물",
+        "INGR_ENG_NAME": "Adiantum Capillus-Veneris Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 봉작고사리 Adiantum capillus- veneris의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글라이코프로테인",
+        "INGR_ENG_NAME": "Glycoproteins",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 폴리펩타이드사슬과 공유결합된 탄수화물그룹을 포함하는 복합단백질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "봉출뿌리오일",
+        "INGR_ENG_NAME": "Curcuma Zedoaria Root Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 봉출 Curcuma zedoaria의 뿌리줄기에서 얻은 오일이다.",
+        "INGR_SYNONYM": "봉출오일"
+    },
+    {
+        "INGR_KOR_NAME": "부메트라이졸",
+        "INGR_ENG_NAME": "Bumetrizole",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "부메트리졸"
+    },
+    {
+        "INGR_KOR_NAME": "부석",
+        "INGR_ENG_NAME": "Pumice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 알루미늄 및 알칼리 금속의 복합 실리케이트로 구성된 화산 기원의 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "레스페데자 카피타타잎/줄기추출물",
+        "INGR_ENG_NAME": "Lespedeza Capitata Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Lespedeza capitata의 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부용꽃추출물",
+        "INGR_ENG_NAME": "Hibiscus Sinensis Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부용 Hibiscus sinensis(=Hibiscus mutabilis)의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "부용추출물"
+    },
+    {
+        "INGR_KOR_NAME": "부처스브룸뿌리추출물",
+        "INGR_ENG_NAME": "Ruscus Aculeatus Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부처스브룸 Ruscus aculeatus의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "부처브룸뿌리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "부탄",
+        "INGR_ENG_NAME": "Butane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 탄화수소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부테스-3",
+        "INGR_ENG_NAME": "Buteth-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 부틸알코올의 폴리에칠렌글라이콜에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부톡시에틸스테아레이트",
+        "INGR_ENG_NAME": "Butoxyethyl Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부톡시에탄올과 스테아릭애씨드의 에스터이며 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "부톡시에칠스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "글라이콜",
+        "INGR_ENG_NAME": "Glycol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 지방족 다이올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부트라세트리껍질추출물",
+        "INGR_ENG_NAME": "Eperua Falcata Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부트라세트리 (Eperua falcata)의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸레이티드피브이피",
+        "INGR_ENG_NAME": "Butylated PVP",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 부틸레이티드비닐피롤리돈의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "4-부틸레조시놀",
+        "INGR_ENG_NAME": "4-Butylresorcinol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기 화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸레조시놀비스-석시노일피토스핑고신",
+        "INGR_ENG_NAME": "Butyl Resorcinol Bis-Succinoylphytosphingosine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스핑고이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸렌글라이콜",
+        "INGR_ENG_NAME": "Butylene Glycol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 지방족 디올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸렌글라이콜다이카프릴레이트/다이카프레이트",
+        "INGR_ENG_NAME": "Butylene Glycol Dicaprylate/Dicaprate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭 및 카프릭애씨드의 부틸렌글라이콜다이에스터의 혼합물이다.",
+        "INGR_SYNONYM": "부틸렌글라이콜디카프릴레이트/디카프레이트"
+    },
+    {
+        "INGR_KOR_NAME": "부틸렌글라이콜코코에이트",
+        "INGR_ENG_NAME": "Butylene Glycol Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 부틸렌글라이콜 및 코코넛애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸렌글라이콜프로피오네이트",
+        "INGR_ENG_NAME": "Butylene Glycol Propionate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 부틸렌글라이콜과 프로피오닉애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸렌/에틸렌/스타이렌코폴리머",
+        "INGR_ENG_NAME": "Butylene/Ethylene/Styrene Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 말단에 수소가 첨가된 부틸렌, 에틸렌 및 스타이렌모노머의 폴리머이다.",
+        "INGR_SYNONYM": "부틸렌/에칠렌/스타이렌코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "부틸렌/에틸렌/프로필렌코폴리머",
+        "INGR_ENG_NAME": "Butylene/Ethylene/Propylene Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 프로필렌모노머 그리고 에틸렌, 부틸렌의 공중합체이다.",
+        "INGR_SYNONYM": "부틸렌/에칠렌/프로필렌코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "C14-18글라이콜",
+        "INGR_ENG_NAME": "C14-18 Glycol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 긴 사슬 다이올이다. R은 C12-16인 알킬 그룹이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸메타크릴레이트",
+        "INGR_ENG_NAME": "Butyl Methacrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 n-부틸알코올 및메타크릴릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸메톡시디벤조일메탄",
+        "INGR_ENG_NAME": "Butyl Methoxydibenzoylmethane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 방향족 화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸스테아레이트",
+        "INGR_ENG_NAME": "Butyl Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부틸알코올과 스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸아보카데이트",
+        "INGR_ENG_NAME": "Butyl Avocadate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부틸알코올과 아보카도오일에서 유래된 지방산의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸아세테이트",
+        "INGR_ENG_NAME": "Butyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부틸알코올 및 아세틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸아크릴레이트/하이드록시프로필다이메티콘아크릴레이트코폴리머",
+        "INGR_ENG_NAME": "Butyl Acrylate/Hydroxypropyl Dimethicone Acrylate Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부틸아크릴레이트와 하이드록시프로필다이메티콘아크릴레이트모노머의 공중합체이다.",
+        "INGR_SYNONYM": "부틸아크릴레이트/하이드록시프로필디메치콘아크릴레이트코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "부틸알코올",
+        "INGR_ENG_NAME": "n-Butyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 지방족 알코올이다.",
+        "INGR_SYNONYM": "n-부틸알코올"
+    },
+    {
+        "INGR_KOR_NAME": "t-부틸알코올",
+        "INGR_ENG_NAME": "t-Butyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 지방족 알코올이다.",
+        "INGR_SYNONYM": null
+    }
+]

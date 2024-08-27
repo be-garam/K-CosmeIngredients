@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "인카르나타시계꽃씨오일",
+        "INGR_ENG_NAME": "Passiflora Incarnata Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인카르나타시계꽃 Passiflora incarnata의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": "시계꽃씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "인카르나타시계꽃열매추출물",
+        "INGR_ENG_NAME": "Passiflora Incarnata Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인카르나타시계꽃 Passiflora incarnata의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "시계꽃열매추출물"
+    },
+    {
+        "INGR_KOR_NAME": "인카르나타시계꽃전초추출물",
+        "INGR_ENG_NAME": "Passiflora Incarnata Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인카르나타시계꽃 Passiflora incarnata의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "시계꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴하이드록시스테아레이트",
+        "INGR_ENG_NAME": "Glyceryl Hydroxystearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 글리세린과 하이드록시스테아릭애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시금치추출물",
+        "INGR_ENG_NAME": "Spinacia Oleracea (Spinach) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시금치 (Spinacia oleracea)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시녹세이트",
+        "INGR_ENG_NAME": "Cinoxate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아로마틱에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시메티콘",
+        "INGR_ENG_NAME": "Simethicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 200-350 개의 다이메틸실록세인과 수화된 실리카 체인을 갖는 다이메티콘의 혼합물이다.",
+        "INGR_SYNONYM": "시메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "시베리안잎갈나무목부추출물",
+        "INGR_ENG_NAME": "Larix Sibirica Wood Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시베리안갈잎나무 Larix sibirica의 목부에서 추출한 것이다.",
+        "INGR_SYNONYM": "시베리안낙엽송추출물"
+    },
+    {
+        "INGR_KOR_NAME": "시스테아민에이치씨엘",
+        "INGR_ENG_NAME": "Cysteamine HCl",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아민염이다. 다만 펌제의 주성분으로 사용할 수 없다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시스테익애씨드",
+        "INGR_ENG_NAME": "Cysteic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시스테인",
+        "INGR_ENG_NAME": "Cysteine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시스테인에이치씨엘",
+        "INGR_ENG_NAME": "Cysteine HCl",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산의 하이드로클로라이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "레인보우랙추출물",
+        "INGR_ENG_NAME": "Cystoseira Tamariscifolia Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조류의 일종인 레인보우랙 Cystoseria tamarislolia에서 추출한 것이다.",
+        "INGR_SYNONYM": "시스토세이라 타마리시폴리아추출물"
+    },
+    {
+        "INGR_KOR_NAME": "시스틴",
+        "INGR_ENG_NAME": "Cystine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴하이드록시프로필라우르디모늄클로라이드",
+        "INGR_ENG_NAME": "Glyceryhydroxypropyl Laurdimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시스틴비스-피지-프로필실란트라이올",
+        "INGR_ENG_NAME": "Cystine Bis-PG-Propyl Silanetriol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시스틴과 알킬글라이시딜트라이알콕시실레인의 반응물이다.",
+        "INGR_SYNONYM": "시스틴비스-피지-프로필실란트리올"
+    },
+    {
+        "INGR_KOR_NAME": "키아노티스 아라크노이데아뿌리추출물",
+        "INGR_ENG_NAME": "Cyanotis Arachnoidea Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Cyanotis arachnoidea의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "시아노티스 아라크노이데아뿌리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "블랙트리펀잎추출물",
+        "INGR_ENG_NAME": "Cyathea Medullaris Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 블랙트리펀 Cyathea medullaris의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "시아데아 메둘라리스잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "시조필란",
+        "INGR_ENG_NAME": "Schizophyllan",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 균류의 일종인 시조필륨 코뮨에서 생성된 것이다. 이것은 세 개의 β-(1→3)-linked D-glucopyranose 잔기와, 여기에 붙어있는 하나의 single β-(1→6)-linked D-glucopyranosyl 사이드 체인으로 구성되어있다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시카카이열매추출물",
+        "INGR_ENG_NAME": "Acacia Concinna Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시카카이 (Acacia concinna)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시트랄",
+        "INGR_ENG_NAME": "Citral",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 알데하이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시트로넬라오일",
+        "INGR_ENG_NAME": "Cymbopogon Nardus (Citronella) Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 신선한 시트로넬라 (Cymbopogon nardus)를 건조시켜 직접 수증기 증류하여 얻은 에센셜 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시트로넬릴메틸크로토네이트",
+        "INGR_ENG_NAME": "Citronellyl Methylcrotonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 시트로넬올과 3-메틸크로토노익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "시트로넬릴메칠크로토네이트"
+    },
+    {
+        "INGR_KOR_NAME": "시트로넬릴아세테이트",
+        "INGR_ENG_NAME": "Citronellyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시트로넬올과 아세틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시트로넬알",
+        "INGR_ENG_NAME": "Citronellal",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "감나무잎추출물",
+        "INGR_ENG_NAME": "Diospyros Kaki Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 감나무 Diospyros kaki의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리시레티닉애씨드",
+        "INGR_ENG_NAME": "Glycyrrhetinic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 절단한 감초뿌리 또는 글리시직애씨드에서 유래된 유기 화합물로서 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시트로넬올",
+        "INGR_ENG_NAME": "Citronellol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다",
+        "INGR_SYNONYM": "시트로넬롤"
+    },
+    {
+        "INGR_KOR_NAME": "시트룰린",
+        "INGR_ENG_NAME": "Citrulline",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시트릭애씨드",
+        "INGR_ENG_NAME": "Citric Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "북시호추출물",
+        "INGR_ENG_NAME": "Bupleurum Chinensis Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 북시호 Bupleurum Chinense의 뿌리에서 추출된 것이다.",
+        "INGR_SYNONYM": "시호추출물"
+    },
+    {
+        "INGR_KOR_NAME": "퀴크노체스 쿠페리꽃/잎추출물",
+        "INGR_ENG_NAME": "Cycnoches Cooperi (Orchid) Flower/Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Cycnoches cooperi의 꽃과 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "식노체스 쿠페리꽃/잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "식물성스쿠알란",
+        "INGR_ENG_NAME": null,
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 올리브유에서 추출하여 얻은 스쿠알렌에 수소첨가하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "식물성오일",
+        "INGR_ENG_NAME": "Vegetable Oil,Olus Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 지방산의 트리글리세라이드로 구성된 식물성 기원의 압착 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "신감채추출물",
+        "INGR_ENG_NAME": "Ostericum Koreanum Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 신감채 Ostericum koreanum의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "신나미도프로필트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Cinnamidopropyltrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다. RCO-는 신나몬오일에서 유래한 지방산이다.",
+        "INGR_SYNONYM": "신나미도프로필트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "신나믹애씨드",
+        "INGR_ENG_NAME": "Cinnamic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리시레티닐스테아레이트",
+        "INGR_ENG_NAME": "Glycyrrhetinyl Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 글리시레티닉애씨드의 스테아릭애씨드 에스터이다. RCO-기가 스테아릭애씨드로부터 유래한 알킬그룹이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "신나밀알코올",
+        "INGR_ENG_NAME": "Cinnamyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "신남알",
+        "INGR_ENG_NAME": "Cinnamal",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 알데하이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "신양벚나무추출물",
+        "INGR_ENG_NAME": "Prunus Cerasus (Bitter Cherry) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 신양벚나무 (Prunus cerasus)의 전초에서 추출한 것이다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "자목련싹추출물",
+        "INGR_ENG_NAME": "Magnolia Liliflora Bud Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 자목련 Magnolia liIiflora의 싹에서 추출한 것이다.",
+        "INGR_SYNONYM": "신이추출물"
+    },
+    {
+        "INGR_KOR_NAME": "실레인다이올살리실레이트",
+        "INGR_ENG_NAME": "Silanediol Salicylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이메틸살리실살리실레이트를 가수분해하여 얻은것이다.",
+        "INGR_SYNONYM": "살란다이올 살리실레이트,실란디올살리실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "실란트라이올트레할로오스에터",
+        "INGR_ENG_NAME": "Silanetriol Trehalose Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실란트라이올과 트레할로스를 반응하여 얻은것이다.",
+        "INGR_SYNONYM": "실란트라이올트레할로스에터,실란트리올트레할로스에텔"
+    },
+    {
+        "INGR_KOR_NAME": "실록세인트라이올알지네이트",
+        "INGR_ENG_NAME": "Siloxanetriol Alginate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실록세인트라이올과 알지닉애씨드의 에스터이다.",
+        "INGR_SYNONYM": "실록산트리올알지네이트"
+    },
+    {
+        "INGR_KOR_NAME": "실리카",
+        "INGR_ENG_NAME": "Silica",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기산화물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실리카다이메틸실릴레이트",
+        "INGR_ENG_NAME": "Silica Dimethyl Silylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 발연 실리카의 표면이 다이메틸실릴기의 첨가로 변형된 실리카 유도체이다.",
+        "INGR_SYNONYM": "실리카디메칠실릴레이트"
+    },
+    {
+        "INGR_KOR_NAME": "실리카실릴레이트",
+        "INGR_ENG_NAME": "Silica Silylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 발연 실리카 표면의 하이드록실기 일부가 트리메칠실록실기로 치환된 소수성 실리카 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리시리직애씨드",
+        "INGR_ENG_NAME": "Glycyrrhizic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스페인감초 Glycyrrhiza glabra에서 추출된 천연물질로서 주로 다음의 구조를 갖다. R은 글리시레티닉애씨드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실리콘쿼터늄-1",
+        "INGR_ENG_NAME": "Silicone Quaternium-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록산 유래의 4급 암모늄염이다. RCO-는 코코넛오일에서 유래한 지방산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실리콘쿼터늄-8",
+        "INGR_ENG_NAME": "Silicone Quaternium-8",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실론산 유래의 4급 암모늄염이다. RCO-는 디리놀레오일기이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실리콘쿼터늄-15",
+        "INGR_ENG_NAME": "Silicone Quaternium-15",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록산 유래의 중합체의 4급 암모늄염이다. RCO-는 코코넛 알킬그룹이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실리콘쿼터늄-16",
+        "INGR_ENG_NAME": "Silicone Quaternium-16",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록산 유래의 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실버",
+        "INGR_ENG_NAME": "Silver,CI 77820",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 금속원소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실버라임싹추출물",
+        "INGR_ENG_NAME": "Tilia Tomentosa Bud Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실버라임 Tilia tomentosa의 싹에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실버라임추출물",
+        "INGR_ENG_NAME": "Tilia Tomentosa Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실버라임 (Tilia tomentosa)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실버클로라이드",
+        "INGR_ENG_NAME": "Silver Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실새삼씨추출물",
+        "INGR_ENG_NAME": "Cuscuta Australis Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실새삼 (Cuscuta australis)의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실유카추출물",
+        "INGR_ENG_NAME": "Yucca Filamentosa Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실유카 (Yucca filamentosa)의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리아딘",
+        "INGR_ENG_NAME": "Gliadin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 밀(Wheat) Triticum Vulgare 글루텐에서 유래된 단백질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실크",
+        "INGR_ENG_NAME": "Silk",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실크벌레의 고치에서 얻은 섬유성의 단백질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실크가루",
+        "INGR_ENG_NAME": "Silk Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 곱게 분쇄된 실크이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실크아미노산",
+        "INGR_ENG_NAME": "Silk Amino Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실크의 완전한 가수분해로 얻은 아미노산의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실크추출물",
+        "INGR_ENG_NAME": "Silk Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실크 섬유의 추출물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실트",
+        "INGR_ENG_NAME": "Silt",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 육수[陸水, 뭍물] 에서 얻은 퇴적물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실트추출물",
+        "INGR_ENG_NAME": "Silt Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실트에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "큄비듐 그란디플로룸꽃추출물",
+        "INGR_ENG_NAME": "Cymbidium Grandiflorum (Orchid) Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Cymbidium grandiflorum의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "심비듐꽃추출물,큄비듐 그랜디플로룸꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "쌀가루",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)을 건조시켜 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀겨",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Bran",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 껍질을 분쇄한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀겨수",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Bran Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 겨를 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "금",
+        "INGR_ENG_NAME": "CI 77480,Gold",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 금속원소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀겨스테롤",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Bran Sterol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 겨에서 얻은 스테롤의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀겨오일",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Bran Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 겨에서 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀겨왁스",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Bran Wax",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 겨에서 얻은 왁스이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀겨추출물",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Bran Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 겨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "왕겨가루",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Hull Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벼(Rice) Oryza sativa 씨의 겉껍질을 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": "쌀껍질가루"
+    },
+    {
+        "INGR_KOR_NAME": "쌀발효여과물",
+        "INGR_ENG_NAME": "Rice Ferment Filtrate (Sake)",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)을 발효하고 여과하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀배아가루",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Germ Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 건조된 쌀의 배아를 가루로 한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀배아오일",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Germ Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 배아에서 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀배아추출물",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Germ Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)의 배아에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀아미노산",
+        "INGR_ENG_NAME": "Rice Amino Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 단백질의 완전 가수분해로 얻은 아미노산의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "금낭화꽃추출물",
+        "INGR_ENG_NAME": "Dicentra Spectabilis Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 금낭화 Dicentra spectabilis의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀지게미추출물",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Lees Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀로 술을 제조하는 과정에서 얻은 지게미에서 추출한 것이다.",
+        "INGR_SYNONYM": "쌀앙금추출물"
+    },
+    {
+        "INGR_KOR_NAME": "쌀전분",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Starch",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쌀 (Oryza sativa)에서 얻은 전분이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쌀추출물",
+        "INGR_ENG_NAME": "Oryza Sativa (Rice) Extract",
+        "CAS_NO": "68553-81-1\r,90106-37-9",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벼 Oryza sativa의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쐐기풀뿌리추출물",
+        "INGR_ENG_NAME": "Urtica Dioica (Nettle) Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쐐기풀 (Urtica dioica)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쐐기풀잎추출물",
+        "INGR_ENG_NAME": "Urtica Dioica (Nettle) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쐐기풀 (Urtica dioica)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쐐기풀추출물",
+        "INGR_ENG_NAME": "Urtica Dioica (Nettle) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쐐기풀 (Urtica dioica)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "불가리스쑥추출물",
+        "INGR_ENG_NAME": "Artemisia Vulgaris Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 불가리스쑥 Artemisia vulgaris에서 추출한 것이다.",
+        "INGR_SYNONYM": "쑥추출물"
+    },
+    {
+        "INGR_KOR_NAME": "쓴박하추출물",
+        "INGR_ENG_NAME": "Marrubium Vulgare Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쓴박하 (Marrubium vulgare)의 지상부에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쓴쑥추출물",
+        "INGR_ENG_NAME": "Artemisia Absinthium Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쓴쑥 (Artemisia absinthium)의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "두이삭마황추출물",
+        "INGR_ENG_NAME": "Ephedra Distachya Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 두이삭마황 Ephedra distachya에서 추출한 것이다.",
+        "INGR_SYNONYM": "씨그레이프추출물"
+    },
+    {
+        "INGR_KOR_NAME": "구척오일",
+        "INGR_ENG_NAME": "Cibotium Barometz Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 양치식물인 구척 Cibotium barometz에서 얻은 오일이다.",
+        "INGR_SYNONYM": "금모구척오일"
+    },
+    {
+        "INGR_KOR_NAME": "씨로켓추출물",
+        "INGR_ENG_NAME": "Cakile Maritima Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 씨로켓 (sea rocket, Cakile maritima)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "씨솔트",
+        "INGR_ENG_NAME": "Sea Salt,Maris Sal",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 해수 또는 육지의 염수에서 얻은 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "씨실트",
+        "INGR_ENG_NAME": "Sea Silt,Maris Limus",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 바다로부터 얻은 침전물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "씨실트추출물",
+        "INGR_ENG_NAME": "Sea Silt Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 씨실트에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "야니아 루벤스추출물",
+        "INGR_ENG_NAME": "Jania Rubens Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 해조류의 일종인 Jania rubens에서 추출한 것이다.",
+        "INGR_SYNONYM": "씨위드추출물"
+    },
+    {
+        "INGR_KOR_NAME": "씨클레이추출물",
+        "INGR_ENG_NAME": "Sea Clay Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 바다에서 얻은 진흙에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아가",
+        "INGR_ENG_NAME": "Agar",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다양한 겔리듐 종 혹은 관련된 조류에서 얻은 건조된 친수성, 아교질 폴리갈락토사이드이다.",
+        "INGR_SYNONYM": null
+    }
+]

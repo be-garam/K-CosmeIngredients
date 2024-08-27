@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "해바라기씨애씨드",
+        "INGR_ENG_NAME": "Sunflower Seed Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 해바라기 (sunflower) Helianthus annuus씨오일로부터 얻은 지방산 혼합물이다.",
+        "INGR_SYNONYM": "선플라워씨드애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "설탕단풍추출물",
+        "INGR_ENG_NAME": "Acer Saccharum (Sugar Maple) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설탕단풍 Acer saccharum에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "설페이티드캐스터오일",
+        "INGR_ENG_NAME": "Sulfated Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 피마자오일의 설페이티드 트리글리세라이드의 소듐염으로 구성된 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "설프릭애씨드",
+        "INGR_ENG_NAME": "Sulfuric Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글루타믹애씨드",
+        "INGR_ENG_NAME": "Glutamic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "섬잣나무씨오일",
+        "INGR_ENG_NAME": "Pinus Parviflora Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 섬잣나무 (Pinus parviflora)의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "레이디스맨틀추출물",
+        "INGR_ENG_NAME": "Alchemilla Vulgaris Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 레이디스맨틀 Alchemilla vulgaris에서 추출한 것이다.",
+        "INGR_SYNONYM": "성모초추출물"
+    },
+    {
+        "INGR_KOR_NAME": "세네가뿌리추출물",
+        "INGR_ENG_NAME": "Polygala Senega Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세네가 (Polygala senega)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세럼알부민",
+        "INGR_ENG_NAME": "Serum Albumin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 혈장의 주된 단백질 구성 성분이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세럼단백질",
+        "INGR_ENG_NAME": "Serum Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 혈장에서 얻은 단백질 혹은 단백질 분획물이다.",
+        "INGR_SYNONYM": "세럼프로테인"
+    },
+    {
+        "INGR_KOR_NAME": "세레신",
+        "INGR_ENG_NAME": "Ceresin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 오조케라이트의 정제로 얻은 흰색에서 노란색의 왁스형태의 탄화수소 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글루타민",
+        "INGR_ENG_NAME": "Glutamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세륨옥사이드",
+        "INGR_ENG_NAME": "Cerium Oxide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기산화물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세리신",
+        "INGR_ENG_NAME": "Sericin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 누에나방 (Bombyx mori)이 만든 생사에서 얻은 단백질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세리아/실리카탈크",
+        "INGR_ENG_NAME": "Ceria/Silica Talc",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탈크를 함유한 실리카 및 세륨카보네이트의 칼시네이션으로 얻은 물질이다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세린",
+        "INGR_ENG_NAME": "Serine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세바식애씨드",
+        "INGR_ENG_NAME": "Sebacic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기 디카복실릭애씨드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세사미도프로필베타인",
+        "INGR_ENG_NAME": "Sesamidopropyl Betaine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 양쪽성이온이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "족도리풀뿌리추출물",
+        "INGR_ENG_NAME": "Asarum Sieboldii Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 족도리풀 Asarum sieboldii의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "세신추출물"
+    },
+    {
+        "INGR_KOR_NAME": "여름세이보리추출물",
+        "INGR_ENG_NAME": "Satureja Hortensis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 여름세이보리 Satureja hortensis에서 추출한 것이다.",
+        "INGR_SYNONYM": "세이보리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "살비아수",
+        "INGR_ENG_NAME": "Salvia Officinalis (Sage) Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살비아(Sage) Salvia Officinalis를 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": "세이지수"
+    },
+    {
+        "INGR_KOR_NAME": "살비아오일",
+        "INGR_ENG_NAME": "Salvia Officinalis (Sage) Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살비아(Sage) Salvia Officinalis에서 얻은 에센셜오일(정유)이다.",
+        "INGR_SYNONYM": "세이지오일"
+    },
+    {
+        "INGR_KOR_NAME": "글루타밀아미도에틸이미다졸",
+        "INGR_ENG_NAME": "Glutamylamidoethyl Imidazole",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로고리화합물이다.",
+        "INGR_SYNONYM": "글루타밀아미도에칠이미다졸"
+    },
+    {
+        "INGR_KOR_NAME": "살비아잎수",
+        "INGR_ENG_NAME": "Salvia Officinalis (Sage) Leaf Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살비아(Sage) Salvia Officinalis의 잎을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": "세이지잎수"
+    },
+    {
+        "INGR_KOR_NAME": "살비아잎추출물",
+        "INGR_ENG_NAME": "Salvia Officinalis (Sage) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살비아(Sage) Salvia Officinalis의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "세이지잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "세잎으름줄기추출물",
+        "INGR_ENG_NAME": "Akebia Trifoliata Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세잎으름 (Akebia trifoliata)의 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-2",
+        "INGR_ENG_NAME": "Ceteth-2",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 2이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-3",
+        "INGR_ENG_NAME": "Ceteth-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜 유도체이다. n은 평균 3이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-4",
+        "INGR_ENG_NAME": "Ceteth-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 4이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-5",
+        "INGR_ENG_NAME": "Ceteth-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 5이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-6",
+        "INGR_ENG_NAME": "Ceteth-6",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 6이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-7",
+        "INGR_ENG_NAME": "Ceteth-7",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 7이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-10",
+        "INGR_ENG_NAME": "Ceteth-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 10이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글루타티온",
+        "INGR_ENG_NAME": "Glutathione",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "글루타치온"
+    },
+    {
+        "INGR_KOR_NAME": "세테스-15",
+        "INGR_ENG_NAME": "Ceteth-15",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 15이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-16",
+        "INGR_ENG_NAME": "Ceteth-16",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 16이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-20",
+        "INGR_ENG_NAME": "Ceteth-20",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 20이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-23",
+        "INGR_ENG_NAME": "Ceteth-23",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 23이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-24",
+        "INGR_ENG_NAME": "Ceteth-24",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 24이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-25",
+        "INGR_ENG_NAME": "Ceteth-25",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 25이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-30",
+        "INGR_ENG_NAME": "Ceteth-30",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 30이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-40",
+        "INGR_ENG_NAME": "Ceteth-40",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세틸알코올의 폴리에칠렌글라이콜에텔이다. n은 평균 40이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-5스테아레이트",
+        "INGR_ENG_NAME": "Ceteth-5 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아릭애씨드와 세테스-5의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-8포스페이트",
+        "INGR_ENG_NAME": "Ceteth-8 Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세틸알코올의 폴리에칠렌글라이콜에텔 및 포스포릭애씨드의 에스터 복합혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세레스-7",
+        "INGR_ENG_NAME": "Glycereth-7",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 에톡실화 값 7인 글리세린의 폴리에틸렌글라이콜에터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-10포스페이트",
+        "INGR_ENG_NAME": "Ceteth-10 Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포스포릭애씨드 및 세테스-10의 에스터의 복합혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테스-20포스페이트",
+        "INGR_ENG_NAME": "Ceteth-20 Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포스포릭애씨드 및 세테스-20의 에스터의 복합혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아디모늄클로라이드",
+        "INGR_ENG_NAME": "Ceteardimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염 이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-2",
+        "INGR_ENG_NAME": "Ceteareth-2",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 2이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-3",
+        "INGR_ENG_NAME": "Ceteareth-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 3이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-4",
+        "INGR_ENG_NAME": "Ceteareth-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 4이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-5",
+        "INGR_ENG_NAME": "Ceteareth-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 4이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-6",
+        "INGR_ENG_NAME": "Ceteareth-6",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 6이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-8",
+        "INGR_ENG_NAME": "Ceteareth-8",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 8이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-10",
+        "INGR_ENG_NAME": "Ceteareth-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 10이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세레스-26",
+        "INGR_ENG_NAME": "Glycereth-26",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 에톡실화 값 26인 글리세린으로 된 폴리에틸렌글라이콜에터다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-12",
+        "INGR_ENG_NAME": "Ceteareth-12",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 12이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-15",
+        "INGR_ENG_NAME": "Ceteareth-15",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 15이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-20",
+        "INGR_ENG_NAME": "Ceteareth-20",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 20이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-25",
+        "INGR_ENG_NAME": "Ceteareth-25",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 25이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-30",
+        "INGR_ENG_NAME": "Ceteareth-30",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 30이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-33",
+        "INGR_ENG_NAME": "Ceteareth-33",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 33이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-50",
+        "INGR_ENG_NAME": "Ceteareth-50",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세테아릴알코올의 폴리에칠렌글라이콜에텔이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 50이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-60미리스틸글라이콜",
+        "INGR_ENG_NAME": "Ceteareth-60 Myristyl Glycol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 폴리에칠렌글라이콜 유도체이다. R은 세틸 및 스테아릴알코올에서 유래한 알킬그룹의 혼합물이며, n은 평균 60이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-6올리베이트",
+        "INGR_ENG_NAME": "Ceteareth-6 Olivate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세테아레스-6과 올리브애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아레스-2포스페이트",
+        "INGR_ENG_NAME": "Ceteareth-2 Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포스포릭애씨드와 세테아레스-2의 에스터의 복합혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세레스-5락테이트",
+        "INGR_ENG_NAME": "Glycereth-5 Lactate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 5몰의 에틸렌옥사이드를 포함하는 글리세린의 폴리에틸렌글라이콜에터와 락틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴글루코사이드",
+        "INGR_ENG_NAME": "Cetearyl Glucoside",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세테아릴알코올과 글루코스의 축합반응으로 얻은 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴다이메티콘/비닐다이메티콘크로스폴리머",
+        "INGR_ENG_NAME": "Cetearyl Dimethicone/Vinyl Dimethicone Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 비닐다이메틸폴리실록세인으로 가교된 세테아릴다이메티콘의 공중합체이다.",
+        "INGR_SYNONYM": "세테아릴디메치콘/비닐디메치콘크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴다이메티콘크로스폴리머",
+        "INGR_ENG_NAME": "Cetearyl Dimethicone Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 비닐사이클로헥센옥사이드와 가교된 세테아릴다이메티콘의 공중합체이다",
+        "INGR_SYNONYM": "세테아릴디메치콘크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴메티콘",
+        "INGR_ENG_NAME": "Cetearyl Methicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 실록세인중합체이다",
+        "INGR_SYNONYM": "세테아릴메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴베헤네이트",
+        "INGR_ENG_NAME": "Cetearyl Behenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세테아릴알코올과 베헤닉애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴알코올",
+        "INGR_ENG_NAME": "Cetearyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 세틸 및 스테아릴알코올로 구성된 지방알코올의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴에틸헥사노에이트",
+        "INGR_ENG_NAME": "Cetearyl Ethylhexanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세테아릴알코올과 2-에틸헥사노익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "세테아릴에칠헥사노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴올리베이트",
+        "INGR_ENG_NAME": "Cetearyl Olivate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올리브오일에서 유래된 지방산과 세테아릴알코올의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세테아릴아이소노나노에이트",
+        "INGR_ENG_NAME": "Cetearyl Isononanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세테아릴알코올과 가지사슬형 노나노익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "세테아릴이소노나노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "세테아트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Ceteartrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "세테아트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "조류추출물",
+        "INGR_ENG_NAME": "Algae Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다양한 종의 조류에서 추출한 것이다.",
+        "INGR_SYNONYM": "갈조추출물"
+    },
+    {
+        "INGR_KOR_NAME": "글리세레스-7트라이아세테이트",
+        "INGR_ENG_NAME": "Glycereth-7 Triacetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아세틱애씨드와 글리세레스-7의 트라이에스터이다.",
+        "INGR_SYNONYM": "글리세레스-7트리아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "세톨레스-11",
+        "INGR_ENG_NAME": "Cetoleth-11",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세틸알코올 및 올레일알코올 혼합물의 폴리에칠렌글라이콜에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세톨레스-20",
+        "INGR_ENG_NAME": "Cetoleth-20",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 세틸 및 올레일알코올 혼합물의 폴리에칠렌글라이콜에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세트리모늄메토설페이트",
+        "INGR_ENG_NAME": "Cetrimonium Methosulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세트리모늄브로마이드",
+        "INGR_ENG_NAME": "Cetrimonium Bromide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세트리모늄클로라이드",
+        "INGR_ENG_NAME": "Cetrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸글리세릴에터/글리세린코폴리머",
+        "INGR_ENG_NAME": "Cetyl Glyceryl Ether/Glycerin Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글리세린과 글리세릴세틸에터 모노머의 공중합체로서 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "세틸글리세릴에텔/글리세린코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "세틸다이메티콘",
+        "INGR_ENG_NAME": "Cetyl Dimethicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 다이메틸실록세인 중합체이다.",
+        "INGR_SYNONYM": "세틸디메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "세틸다이메티콘피이지-7아세테이트",
+        "INGR_ENG_NAME": "Cetyl Dimethicone PEG-7 Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 실리콘폴리머이다.",
+        "INGR_SYNONYM": "세틸디메치콘피이지-7아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "세틸락테이트",
+        "INGR_ENG_NAME": "Cetyl Lactate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 세틸알코올 및 라우릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸리시놀레이트",
+        "INGR_ENG_NAME": "Cetyl Ricinoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 세틸알코올과 리시놀레익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "세틸리시놀리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "글리세레스-25피씨에이아이소스테아레이트",
+        "INGR_ENG_NAME": "Glycereth-25 PCA Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 25몰의 에틸렌옥사이드를 포함하는 글리세린의 폴리에틸렌글라이콜에터와 PCA 및 아이소스테아릭애씨드의 혼합물이다.",
+        "INGR_SYNONYM": "글리세레스-25피씨에이이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "세틸미리스테이트",
+        "INGR_ENG_NAME": "Cetyl Myristate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세틸알코올 및 미리스틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸베타인",
+        "INGR_ENG_NAME": "Cetyl Betaine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 양쪽성 이온이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸아세테이트",
+        "INGR_ENG_NAME": "Cetyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세틸알코올과 아세틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "3-O-세틸아스코빅애씨드",
+        "INGR_ENG_NAME": "3-O-Cetyl Ascorbic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸알코올",
+        "INGR_ENG_NAME": "Cetyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 지방알코올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸에스터",
+        "INGR_ENG_NAME": "Cetyl Esters",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조성과 특성이 천연의 스페르마세티왁스와 구분되지 않는 합성 왁스이며 14-18개의 탄소를 가진 지방산과 알코올의 에스터 혼합물로 구성된다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸에틸헥사노에이트",
+        "INGR_ENG_NAME": "Cetyl Ethylhexanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세틸알코올과 2-에틸헥사노익애씨드의 에스터이다. 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "세틸에칠헥사노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "세틸옥시프로필글리세릴메톡시프로필미리스타마이드",
+        "INGR_ENG_NAME": "Cetyloxypropyl Glyceryl Methoxypropyl Myristamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세틸아이소노나노에이트",
+        "INGR_ENG_NAME": "Cetyl Isononanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 가지가 있는 체인의 노나노익애씨드의 세틸알코올의 에스터이다.",
+        "INGR_SYNONYM": "세틸이소노나노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "세틸카프릴레이트",
+        "INGR_ENG_NAME": "Cetyl Caprylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세틸알코올과 카프릴릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    }
+]

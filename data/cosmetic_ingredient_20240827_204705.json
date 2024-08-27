@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "소시지트리열매추출물",
+        "INGR_ENG_NAME": "Kigelia Africana Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소시지트리 Kigelia africana의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "소시지나무열매추출물"
+    },
+    {
+        "INGR_KOR_NAME": "소엽맥문동추출물스테아레이트",
+        "INGR_ENG_NAME": "Ophiopogon Extract Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소엽맥문동 (Ophiopogon japonicus) 추출물 및 스테아릭애씨드의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소이밀크",
+        "INGR_ENG_NAME": "Soymilk",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 콩에서 유래하는 수용성 단백질, 탄수화물 및 대부분의 오일을 함유한 에멀젼이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소이스테롤아세테이트",
+        "INGR_ENG_NAME": "Soy Sterol Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소이스테롤의 아세틱애씨드에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소이아미노산",
+        "INGR_ENG_NAME": "Soy Amino Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 콩 단백질의 완전 가수분해로 얻은 아미노산의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소이아미도프로필아민옥사이드",
+        "INGR_ENG_NAME": "Soyamidopropylamine Oxide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 3급 아민옥사이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소이에틸모르폴리늄에토설페이트",
+        "INGR_ENG_NAME": "Soyethyl Morpholinium Ethosulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4차암모늄염이다. R은 콩에서 얻은 알킬그룹이다.",
+        "INGR_SYNONYM": "소이에칠모폴리늄에토설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "소이아이소플라본",
+        "INGR_ENG_NAME": "Soy Isoflavones",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 콩추출물에서 유래된 아이소플라본의 혼합물이며 주로 제니스테인과 다이드제인으로 구성된다.",
+        "INGR_SYNONYM": "소이이소플라본"
+    },
+    {
+        "INGR_KOR_NAME": "크리산텔룸 인디쿰추출물",
+        "INGR_ENG_NAME": "Chrysanthellum Indicum Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Chrysanthellum indicum의 지상부에서 추출한 것이다.",
+        "INGR_SYNONYM": "감국추출물"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴운데실레네이트",
+        "INGR_ENG_NAME": "Glyceryl Undecylenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글리세린과 운데실레닉애씨드의 에스터이다.",
+        "INGR_SYNONYM": "글리세릴운데실리네이트"
+    },
+    {
+        "INGR_KOR_NAME": "소이트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Soytrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다. R은 콩에서 유래한 알킬 그룹이다.",
+        "INGR_SYNONYM": "소이트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "속새잎/줄기추출물",
+        "INGR_ENG_NAME": "Equisetum Hyemale Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 속새 Equisetum hyemale의 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "속새추출물",
+        "INGR_ENG_NAME": "Equisetum Hyemale Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 속새 Equisetum Hyemale의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "속수자씨추출물",
+        "INGR_ENG_NAME": "Euphorbia Lathyris Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 속수자 Euphorbia lathyris의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔비나무줄기추출물",
+        "INGR_ENG_NAME": "Maackia Fauriei Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비나무 Maackia fauriei의 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무껍질추출물",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 (Cupressus sempervirens)의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무구과추출물",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Cone Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 Cupressus sempervirens의 구과에서 추출한 것이다.",
+        "INGR_SYNONYM": "솔잣나무솔방울추출물"
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무씨추출물",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 (Cupressus sempervirens)의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무열매추출물",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 (Cupressus sempervirens)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무오일",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 (Cupressus sempervirens)의 전초에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴아이소스테아레이트",
+        "INGR_ENG_NAME": "Glyceryl Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 글리세린과 아이소스테아릭애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "글리세릴이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무잎/너트/줄기오일",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Leaf/Nut/Stem Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 Cupressus sempervlrens의 너트(씨), 줄기 및 잎에서 얻은 식물성오일이다.",
+        "INGR_SYNONYM": "솔잣나무잎/넛트/줄기오일"
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무잎수",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Leaf Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 (Cupressus sempervirens)의 잎을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무잎오일",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 (Cupressus sempervirens)의 잎에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솔잣나무잎/줄기추출물",
+        "INGR_ENG_NAME": "Cupressus Sempervirens Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔잣나무 (Cupressus sempervirens)의 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "솝위드뿌리추출물",
+        "INGR_ENG_NAME": "Yucca Glauca Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솝위드 (Yucca glauca)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "송이버섯추출물",
+        "INGR_ENG_NAME": "Tricholoma Matsutake Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 송이버섯 (Tricholoma matsutake)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쇠뜨기",
+        "INGR_ENG_NAME": "Equisetum Arvense",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쇠뜨기 (Equisetum arvense)의 지상부 전초를 건조시킨 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쇠뜨기잎추출물",
+        "INGR_ENG_NAME": "Equisetum Arvense Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쇠뜨기 (Equisetum arvense)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쇠뜨기추출물",
+        "INGR_ENG_NAME": "Equisetum Arvense Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 쇠뜨기 (Equisetum arvense)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수국잎추출물",
+        "INGR_ENG_NAME": "Hydrangea Macrophylla Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수국 (Hydrangea macrophylla)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴아이소스테아레이츠",
+        "INGR_ENG_NAME": "Glyceryl Isostearates",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릭애씨드와 글리세린의 모노-, 다이- 및 트라이에스터의 혼합물이다.",
+        "INGR_SYNONYM": "글리세릴이소스테아레이트(혼합)"
+    },
+    {
+        "INGR_KOR_NAME": "수레국화꽃",
+        "INGR_ENG_NAME": "Centaurea Cyanus Flower",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수레국화 (Centaurea cyanus)의 건조된 꽃에서 유래한 식물성 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수레국화꽃수",
+        "INGR_ENG_NAME": "Centaurea Cyanus Flower Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수레국화 (Centaurea cyanus)의 꽃을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수레국화꽃추출물",
+        "INGR_ENG_NAME": "Centaurea Cyanus Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수레국화 (Centaurea cyanus)의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알바수련꽃추출물",
+        "INGR_ENG_NAME": "Nymphaea Alba Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알바수련 Nymphaea alba의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "수련꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "알바수련뿌리추출물",
+        "INGR_ENG_NAME": "Nymphaea Alba Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알바수련 Nymphaea alba의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "수련뿌리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "수마뿌리추출물",
+        "INGR_ENG_NAME": "Pfaffia Paniculata Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수마 (Pfaffia paniculata)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수박씨오일",
+        "INGR_ENG_NAME": "Citrullus Lanatus (Watermelon) Seed Oil,Citrullus Vulgaris (Watermelon) Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수박 (Citrullus lanatus 및 Citrullus vulgaris)의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수박추출물",
+        "INGR_ENG_NAME": "Citrullus Lanatus (Watermelon) Fruit Extract,Citrullus Vulgaris (Watermelon) Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수박(Watermelon) Citrullus vulgaris(=Citrullus lanatus)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수선화비늘줄기추출물",
+        "INGR_ENG_NAME": "Narcissus Tazetta Bulb Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수선화 (Narcissus tazetta)의 비늘줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수선화추출물",
+        "INGR_ENG_NAME": "Narcissus Tazetta Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수선화 Narcissus Tazetta에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴티오글라이콜레이트",
+        "INGR_ENG_NAME": "Glyceryl Thioglycolate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 글리세린과 티오글라이콜릭애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "글리세릴치오글라이콜레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수세미오이씨오일",
+        "INGR_ENG_NAME": "Luffa Cylindrica Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수세미오이 Luffa cylindrica의 씨를 압착하여 얻은 고정유(불휘발성 오일)이다.",
+        "INGR_SYNONYM": "수세미씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "수세미오이",
+        "INGR_ENG_NAME": "Luffa Cylindrica Fruit",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수세미오이 (Luffa cylindrica)에서 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수세미오이열매/잎/줄기추출물",
+        "INGR_ENG_NAME": "Luffa Cylindrica Fruit/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수세미오이 (Luffa cylindrica)의 열매, 잎과 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수세미오이추출물",
+        "INGR_ENG_NAME": "Luffa Cylindrica Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수세미오이 Luffa cylindrica의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "수세미오이열매추출물"
+    },
+    {
+        "INGR_KOR_NAME": "수용성콜라겐",
+        "INGR_ENG_NAME": "Soluble Collagen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 어린 동물의 연결조직에서 유래된 가수분해되지 않은 천연의 단백질이다. 이 원료는 성숙 콜라겐 전도체의 혼합물로 구성되어 있으며 주로 가교되지 않은 트리플헬리칼 구조를 가진다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수퍼옥사이드디스뮤타아제",
+        "INGR_ENG_NAME": "Superoxide Dismutase",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 호기성 세포에서 발견된 메탈로엔자임의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "순무잎추출물",
+        "INGR_ENG_NAME": "Brassica Rapa (Turnip) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 순무 (Brassica rapa)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "순비기나무열매추출물",
+        "INGR_ENG_NAME": "Vitex Trifolia Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 순비기나무 (Vitex trifoli)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "숯가루",
+        "INGR_ENG_NAME": "Charcoal Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유기물질을 가열하여 얻은 건조된 탄소질의 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴카프레이트",
+        "INGR_ENG_NAME": "Glyceryl Caprate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글리세린과 카프릭애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "시어버터",
+        "INGR_ENG_NAME": "Butyrospermum Parkii (Shea) Butter",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시어버터나무 Butyrospermum Parkii에서 추출한 것이다.",
+        "INGR_SYNONYM": "쉐어버터"
+    },
+    {
+        "INGR_KOR_NAME": "시어버터불검화물",
+        "INGR_ENG_NAME": "Butyrospermum Parkii (Shea) Butter Unsaponifiables",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시어버터로부터 지방산을 정제 회수하는 과정에서 얻은 불검화물이다.",
+        "INGR_SYNONYM": "쉐어버터불검화물"
+    },
+    {
+        "INGR_KOR_NAME": "시어버터씨드케이크추출물",
+        "INGR_ENG_NAME": "Butyrospermum Parkii (Shea) Seedcake Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시어버터나무(Shea) Butyrospermum Parkii의 씨드케이크에서 추출한 것이다.",
+        "INGR_SYNONYM": "쉐어버터씨드케이크추출물"
+    },
+    {
+        "INGR_KOR_NAME": "시어버터오일",
+        "INGR_ENG_NAME": "Butyrospermum Parkii (Shea) Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시어버터 Butyrospermum Parkii (Shea) Butter에서 얻은 액체이다.",
+        "INGR_SYNONYM": "쉐어버터오일"
+    },
+    {
+        "INGR_KOR_NAME": "시어버터추출물",
+        "INGR_ENG_NAME": "Butyrospermum Parkii (Shea) Butter Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시어버터나무(Shea) Butyrospermum Parkii에서 추출한 것이다.",
+        "INGR_SYNONYM": "쉐어버터추출물"
+    },
+    {
+        "INGR_KOR_NAME": "쉘락",
+        "INGR_ENG_NAME": "Shellac",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 락깍지벌레 (Laccifer (Tachardia) lacca)의 수지성 분비물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "쉘락왁스",
+        "INGR_ENG_NAME": "Shellac Wax",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 물리적 방법으로 쉘락을 표백하여 얻은 왁스의 분획이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "슈가켈프추출물",
+        "INGR_ENG_NAME": "Laminaria Saccharina Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 슈가켈프 (Laminaria saccharina)의 엽상체에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "슈도알테로모나스발효추출물",
+        "INGR_ENG_NAME": "Pseudoalteromonas Ferment Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 (Pseudoalteromonas)의 발효물에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수크랄로오스",
+        "INGR_ENG_NAME": "Sucralose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "슈크랄로오스"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴카프릴레이트",
+        "INGR_ENG_NAME": "Glyceryl Caprylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글리세린과 카프릴릭애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스",
+        "INGR_ENG_NAME": "Sucrose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 다이사카라이드이다.",
+        "INGR_SYNONYM": "슈크로오스"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스다이라우레이트",
+        "INGR_ENG_NAME": "Sucrose Dilaurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스와 라우릭애씨드의 다이에스터이다.",
+        "INGR_SYNONYM": "슈크로오스디라우레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스다이스테아레이트",
+        "INGR_ENG_NAME": "Sucrose Distearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다이에스터로 구성된 스테아릭애씨드의 수크로오스에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스디스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스라우레이트",
+        "INGR_ENG_NAME": "Sucrose Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성된 라우릭애씨드의 수크로오스에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스라우레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스모티어렐레이트",
+        "INGR_ENG_NAME": "Sucrose Mortierellate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 모티어렐라오일에서 유래된 지방산과 수크로오스의 에스터이다.",
+        "INGR_SYNONYM": "슈크로오스모티어렐레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스벤조에이트",
+        "INGR_ENG_NAME": "Sucrose Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 다이사카라이드에스터이다.",
+        "INGR_SYNONYM": "슈크로오스벤조에이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스스테아레이트",
+        "INGR_ENG_NAME": "Sucrose Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아릭애씨드와 수크로오스의 모노에스터이다.",
+        "INGR_SYNONYM": "슈크로오스스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스아세테이트아이소부티레이트",
+        "INGR_ENG_NAME": "Sucrose Acetate Isobutyrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스와 아세틱애씨드, 아이소부티릭애씨드의 혼합된 에스터이다.",
+        "INGR_SYNONYM": "슈크로오스아세테이트이소부티레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스올리에이트",
+        "INGR_ENG_NAME": "Sucrose Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스와 올레익애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "슈크로오스올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스지방산에스터",
+        "INGR_ENG_NAME": "Sucrose Fatty Acid Ester",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 백당의 지방산에스터로 된 비이온계면활성제이다.",
+        "INGR_SYNONYM": "슈크로오스지방산에스터"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴코코에이트",
+        "INGR_ENG_NAME": "Glyceryl Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글리세린과 코코넛지방산의 모노에스터이다. 이것은 주로 RCO-기가 코코넛오일로부터 얻은 지방산을 나타내는 구조를 가지고 있다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스테트라스테아레이트트라이아세테이트",
+        "INGR_ENG_NAME": "Sucrose Tetrastearate Triacetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아릭애씨드, 아세틱애씨드 및 수크로오스의 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스테트라스테아레이트트리아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스테트라아이소스테아레이트",
+        "INGR_ENG_NAME": "Sucrose Tetraisostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 테트라에스터로 구성된 수크로오스와 아이소스테아릭애씨드의 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스테트라이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스트라이베헤네이트",
+        "INGR_ENG_NAME": "Sucrose Tribehenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 베헤닉애씨드와 수크로오스의 트라이에스터이다.",
+        "INGR_SYNONYM": "슈크로오스트리베헤네이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스트라이스테아레이트",
+        "INGR_ENG_NAME": "Sucrose Tristearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아릭애씨드와 수크로오스의 트라이에스터이다.",
+        "INGR_SYNONYM": "슈크로오스트리스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스팔미테이트",
+        "INGR_ENG_NAME": "Sucrose Palmitate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스와 팔미틱애씨드의 모노에스터이다.",
+        "INGR_SYNONYM": "슈크로오스팔미테이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스펜타에루케이트",
+        "INGR_ENG_NAME": "Sucrose Pentaerucate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에루씩애씨드와 수크로오스의 펜타에스터이다.",
+        "INGR_SYNONYM": "슈크로오스펜타에루케이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스폴리리놀리에이트",
+        "INGR_ENG_NAME": "Sucrose Polylinoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 리놀레익애씨드와 수크로오스의 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스폴리리놀리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스폴리베헤네이트",
+        "INGR_ENG_NAME": "Sucrose Polybehenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 베헤닉애씨드와 수크로오스의 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스폴리베헤네이트"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴트라이베헤네이트/아이소스테아레이트/에이코산디오에이트",
+        "INGR_ENG_NAME": "Glyceryl Tribehenate/Isostearate/Eicosandioate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 베헤닉애씨드, 아이소스테아릭애씨드 및 에이코산디오익애씨드의 혼합물로 글리세린의 트라이에스터이다.",
+        "INGR_SYNONYM": "글리세릴트리베헤네이트/이소스테아레이트/에이코산디오에이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스폴리소이에이트",
+        "INGR_ENG_NAME": "Sucrose Polysoyate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소이애씨드와 수크로오스의 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스폴리소이에이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스폴리스테아레이트",
+        "INGR_ENG_NAME": "Sucrose Polystearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아릭애씨드와 수크로오스의 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스폴리스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스폴리코튼씨데이트",
+        "INGR_ENG_NAME": "Sucrose Polycottonseedate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코튼씨드애씨드와 수크로오스의 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "슈크로오스폴리코튼씨데이트"
+    },
+    {
+        "INGR_KOR_NAME": "수크로오스헥사올리에이트/헥사팔미테이트/헥사스테아레이트",
+        "INGR_ENG_NAME": "Sucrose Hexaoleate/Hexapalmitate/Hexastearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스와 올레익, 팔미틱 및 스테아릭애씨드의 헥사에스터이다.",
+        "INGR_SYNONYM": "슈크로오스헥사올리에이트/헥사팔미테이트/헥사스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "스왐프페이퍼바크잎오일",
+        "INGR_ENG_NAME": "Melaleuca Ericifolia Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Melaleuca ericifolia의 잎을 증류하여 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스위트브라이어씨오일",
+        "INGR_ENG_NAME": "Rosa Rubiginosa Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트브라이어 Rosa rubiginosa의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": "스위트브라이어씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "스위트아몬드껍질가루",
+        "INGR_ENG_NAME": "Prunus Amygdalus Dulcis (Sweet Almond) Shell Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트아몬드 (Prunus amygdalus dulcis)의 씨껍질에서 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스위트아몬드단백질",
+        "INGR_ENG_NAME": "Prunus Amygdalus Dulcis (Sweet Almond) Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트아몬드 (Prunus amygdalus dulcis)에서 얻은 단백질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스위트아몬드씨드케이크",
+        "INGR_ENG_NAME": "Prunus Amygdalus Dulcis (Sweet Almond) Seed Meal",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트아몬드(Sweet Almond) Prunus amygdalus dulcis의 건조된 씨를 압착하여 얻은 잔류물(깻묵)이다.",
+        "INGR_SYNONYM": "스위트아몬드씨가루"
+    },
+    {
+        "INGR_KOR_NAME": "스위트아몬드추출물",
+        "INGR_ENG_NAME": "Prunus Amygdalus Dulcis (Sweet Almond) Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트아몬드(Sweet Almond) Prunus amygdalus dulcis의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": "스위트아몬드씨추출물"
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴트라이아세틸리시놀레이트",
+        "INGR_ENG_NAME": "Glyceryl Triacetyl Ricinoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글리세린과 아세틸리시놀레익애씨드의 트라이에스터이다.",
+        "INGR_SYNONYM": "글리세릴트리아세틸리시놀리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "스위트아몬드열매추출물",
+        "INGR_ENG_NAME": "Prunus Amygdalus Dulcis (Sweet Almond) Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트아몬드 (Prunus amygdalus dulcis)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스위트아몬드오일",
+        "INGR_ENG_NAME": "Prunus Amygdalus Dulcis (Sweet Almond) Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트아몬드 (Prunus amygdalus dulcis)의 커넬에서 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스위트아몬드오일폴리글리세릴-6에스터",
+        "INGR_ENG_NAME": "Sweet Almond Oil Polyglyceryl-6 Esters",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트아몬드오일과 폴리글리세린-6의 에스터교환반응으로 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스위트피꽃추출물",
+        "INGR_ENG_NAME": "Lathyrus Odoratus Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트피 (Lathyrus odoratus)의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스키마 왈리키이껍질추출물",
+        "INGR_ENG_NAME": "Schima Wallichii Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Schima Wallichii의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": "스치마 왈리치껍질추출물"
+    }
+]

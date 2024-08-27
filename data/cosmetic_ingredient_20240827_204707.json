@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "아틀라스시다나무껍질오일",
+        "INGR_ENG_NAME": "Cedrus Atlantica Bark Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아틀라스시다 Cedrus atlantica의 나무껍질에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": "아틀라스시다껍질오일"
+    },
+    {
+        "INGR_KOR_NAME": "아틀라스시다껍질추출물",
+        "INGR_ENG_NAME": "Cedrus Atlantica Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아틀라스시다 Cedrus atlantica의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "그레이트카더멈씨추출물",
+        "INGR_ENG_NAME": "Aframomum Angustifolium Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 그레이트카더멈 Aframomum Angustifolium의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": "아프라모멈 안구스티폴리움씨추출물"
+    },
+    {
+        "INGR_KOR_NAME": "아프리카자두나무껍질추출물",
+        "INGR_ENG_NAME": "Prunus Africana Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아프리카자두 Prunus Africana의 나무껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": "아프리카벗나무껍질추출물"
+    },
+    {
+        "INGR_KOR_NAME": "잉카피넛씨오일",
+        "INGR_ENG_NAME": "Plukenetia Volubilis Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 잉카피넛 Plukenetia volubilis의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": "아프리칸월넛오일"
+    },
+    {
+        "INGR_KOR_NAME": "살구씨아미노산",
+        "INGR_ENG_NAME": "Apricot Kernel Amino Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살구의 씨를 완전 가수분해하여 얻은 아미노산 혼합물이다.",
+        "INGR_SYNONYM": "아프리코트커넬아미노산,아프리코트커넬아미노애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "아프리코트커넬오일피이지-6에스터",
+        "INGR_ENG_NAME": "Apricot Kernel Oil PEG-6 Esters",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살구 (Prunus armeniaca)의 커넬오일과 피이지-6의 트랜스에스터화로 얻은 복합 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꽃창포추출물",
+        "INGR_ENG_NAME": "Iris Ensata Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꽃창포 Iris ensata의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아프리코트커넬오일피이지-40에스터",
+        "INGR_ENG_NAME": "Apricot Kernel Oil PEG-40 Esters",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살구 (Prunus armeniaca)의 커넬오일과 피이지-40의 트랜스에스터화로 얻은 복합 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아피제닌",
+        "INGR_ENG_NAME": "Apigenin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "악마의발톱뿌리추출물",
+        "INGR_ENG_NAME": "Harpagophytum Procumbens Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 악마의발톱 (Harpagophytum procumbens)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "숙근안개초뿌리추출물",
+        "INGR_ENG_NAME": "Gypsophila Paniculata Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 숙근안개초 Gypsophylla paniculata의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "안개초뿌리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "안디로바씨오일",
+        "INGR_ENG_NAME": "Carapa Guianensis Seed Oil",
+        "CAS_NO": "352458-32-3\r,906347-2",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 안디로바 Carapa Guianensis의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "안젤리카뿌리오일",
+        "INGR_ENG_NAME": "Angelica Archangelica Root Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 안젤리카 (Angelica archangelica)의 뿌리에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "안젤리카뿌리추출물",
+        "INGR_ENG_NAME": "Angelica Archangelica Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 안젤리카 (Angelica archangelica)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "안젤리카씨오일",
+        "INGR_ENG_NAME": "Angelica Archangelica Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 안젤리카 (Angelica archangelica)의 씨에서 얻은 불휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "안젤리카잎추출물",
+        "INGR_ENG_NAME": "Angelica Archangelica Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 안젤리카 (Angelica archangelica)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "안토시아닌",
+        "INGR_ENG_NAME": "Anthocyanins",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 식용 과일 또는 야채에서 물리적 공정으로 얻은 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꽃향유추출물",
+        "INGR_ENG_NAME": "Elsholtzia Splendens Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꽃항유 Elsholtzia Splendens의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "안펠티옵시스 콩킨나추출물",
+        "INGR_ENG_NAME": "Ahnfeltiopsis Concinna Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조류의 일종인 Ahnfeltiopsis concinna에서 추출한 것이다.",
+        "INGR_SYNONYM": "안펠티아 콘신나추출물,안펠티옵시스 콘신나추출물"
+    },
+    {
+        "INGR_KOR_NAME": "알더열매추출물",
+        "INGR_ENG_NAME": "Alnus Firmifolia Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알더 (Alnus firmifolia)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알디옥사",
+        "INGR_ENG_NAME": "Aldioxa",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로사이클릭 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알라닌",
+        "INGR_ENG_NAME": "Alanine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알란토인",
+        "INGR_ENG_NAME": "Allantoin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로사이클릭 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알란토인글리시레티닉애씨드",
+        "INGR_ENG_NAME": "Allantoin Glycyrrhetinic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알란토인과 글리시레티닉애씨드의 복합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알란토인아세틸메티오닌",
+        "INGR_ENG_NAME": "Allantoin Acetyl Methionine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 일반적으로 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "알란토인아세틸메치오닌"
+    },
+    {
+        "INGR_KOR_NAME": "알란토인아스코베이트",
+        "INGR_ENG_NAME": "Allantoin Ascorbate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알란토인폴리갈락투로닉애씨드",
+        "INGR_ENG_NAME": "Allantoin Polygalacturonic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알란토인과 폴리갈락투로닉애씨드의 복합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라꽃추출물",
+        "INGR_ENG_NAME": "Aloe Barbadensis Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 (Aloe barbadensis)의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꽈리열매추출물",
+        "INGR_ENG_NAME": "Physalis Alkekengi Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꽈리 Physalis alkekengi의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라잎",
+        "INGR_ENG_NAME": "Aloe Barbadensis Leaf",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 (Aloe barbadensis)의 잎에서 유래한 식물성 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라잎가루",
+        "INGR_ENG_NAME": "Aloe Barbadensis Leaf Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 (Aloe barbadensis)의 잎을 건조시켜 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라잎수",
+        "INGR_ENG_NAME": "Aloe Barbadensis Leaf Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 Aloe barbadensis의 잎을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라잎즙",
+        "INGR_ENG_NAME": "Aloe Barbadensis Leaf Juice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 (Aloe barbadensis)의 잎에서 얻은 즙이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라잎즙가루",
+        "INGR_ENG_NAME": "Aloe Barbadensis Leaf Juice Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 (Aloe barbadensis)의 잎에서 얻은 즙을 건조시켜 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라잎추출물",
+        "INGR_ENG_NAME": "Aloe Barbadensis Leaf Extract,Aloe Vera Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 Aloe barbadensis잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에베라잎폴리사카라이드",
+        "INGR_ENG_NAME": "Aloe Barbadensis Leaf Polysaccharides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알로에베라 (Aloe barbadensis)의 잎에서 분리한 다당류 분획이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알로에신",
+        "INGR_ENG_NAME": "Aloesin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "케이프알로에잎추출물",
+        "INGR_ENG_NAME": "Aloe Ferox Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 케이프알로에 Aloe ferox의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "알로에잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "알루미나",
+        "INGR_ENG_NAME": "Alumina",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꾸지뽕나무껍질추출물",
+        "INGR_ENG_NAME": "Cudrania Tricuspidata Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꾸지뽕나무 Cudrania tricuspidata(=Maclura tricuspidata)의 나무껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미나마그네슘메타실리케이트",
+        "INGR_ENG_NAME": "Alumina Magnesium Metasilicate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 무기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄",
+        "INGR_ENG_NAME": "Aluminum,CI 77000",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 금속 원소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄가루",
+        "INGR_ENG_NAME": "Aluminum Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다른 첨가물이 없이 곱게 분쇄된 알루미늄 입자로 구성된 금속성의 원소이다",
+        "INGR_SYNONYM": "알루미늄파우더"
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄글리시네이트",
+        "INGR_ENG_NAME": "Aluminum Glycinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글리신의 알루미늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄다이미리스테이트",
+        "INGR_ENG_NAME": "Aluminum Dimyristate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 미리스틱애씨드의 알루미늄염이다.",
+        "INGR_SYNONYM": "알루미늄디미리스테이트"
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄다이스테아레이트",
+        "INGR_ENG_NAME": "Aluminum Distearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 알루미늄염이다.",
+        "INGR_SYNONYM": "알루미늄디스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄/마그네슘하이드록사이드스테아레이트",
+        "INGR_ENG_NAME": "Aluminum/Magnesium Hydroxide Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알루미늄/마그네슘하이드록사이드와 스테아릭애씨드의 복합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄미리스테이트",
+        "INGR_ENG_NAME": "Aluminum Myristate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 미리스틱애씨드의 알루미늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄벤조에이트",
+        "INGR_ENG_NAME": "Aluminum Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벤조익애씨드의 알루미늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄설페이트",
+        "INGR_ENG_NAME": "Aluminum Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "감자즙",
+        "INGR_ENG_NAME": "Solanum Tuberosum (Potato) Juice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 감자(Potato) Solanum tuberosum의 덩이줄기를 압착하여 얻은 즙이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꿀",
+        "INGR_ENG_NAME": "Honey",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 양봉꿀벌 Apis mellifera들이 모아서 저장한 당질의 분비물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄세스퀴클로로하이드레이트",
+        "INGR_ENG_NAME": "Aluminum Sesquichlorohydrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 복합 염기성 알루미늄클로라이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄수크로오스옥타설페이트",
+        "INGR_ENG_NAME": "Aluminum Sucrose Octasulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스와 설퓨릭애씨드의 옥타에스터의 알루미늄염이다.",
+        "INGR_SYNONYM": "알루미늄슈크로오스옥타설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄전분옥테닐석시네이트",
+        "INGR_ENG_NAME": "Aluminum Starch Octenylsuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 전분과 옥테닐석시네이트무수화물과 알루미늄이 반응한 알루미늄염이다.",
+        "INGR_SYNONYM": "알루미늄스타치옥테닐석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄스테아레이트",
+        "INGR_ENG_NAME": "Aluminum Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 알루미늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄스테아로일글루타메이트",
+        "INGR_ENG_NAME": "Aluminum Stearoyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아로일글루타믹애씨드의 알루미늄 염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄실리케이트",
+        "INGR_ENG_NAME": "Aluminum Silicate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알루미나 1몰과 실리카 1~3몰로성된 복합 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄아이소스테아레이트",
+        "INGR_ENG_NAME": "Aluminum Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릭애씨드의 알루미늄염이다.",
+        "INGR_SYNONYM": "알루미늄이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄칼슘소듐실리케이트",
+        "INGR_ENG_NAME": "Aluminum Calcium Sodium Silicate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 천연에 존재하는 미네랄을 정제하여 얻은 복합 실리케이트이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꿀추출물",
+        "INGR_ENG_NAME": "Honey Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꿀에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄클로라이드",
+        "INGR_ENG_NAME": "Aluminum Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄클로로하이드레이트",
+        "INGR_ENG_NAME": "Aluminum Chlorohydrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실험적으로 다음과 같이 기술된 복합 염기성 알루미늄클로라이드로 구성된 복합 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄클로로하이드렉스피지",
+        "INGR_ENG_NAME": "Aluminum Chlorohydrex PG",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알루미늄클로로하이드레이트와 프로필렌글라이콜의 배위 결합물로, 보통 알루미늄에 배위결합되어 있는 약간의 물분자가 프로필렌글라이콜로 치환된 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄트라이스테아레이트",
+        "INGR_ENG_NAME": "Aluminum Tristearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 스테아릭애씨드의 알루미늄염이다",
+        "INGR_SYNONYM": "알루미늄트리스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄피씨에이",
+        "INGR_ENG_NAME": "Aluminum PCA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피롤리돈카복실릭애씨드(PCA)의 알루미늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄하이드로제네이티드탈로우글루타메이트",
+        "INGR_ENG_NAME": "Aluminum Hydrogenated Tallow Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드로제네이티드탈로우글루타메이트의 알루미늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알루미늄하이드록사이드",
+        "INGR_ENG_NAME": "Aluminum Hydroxide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알류리틱애씨드",
+        "INGR_ENG_NAME": "Aleuritic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알릴메타크릴레이트크로스폴리머",
+        "INGR_ENG_NAME": "Allyl Methacrylates Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글라이콜디메타크릴레이트로 가교된 알릴메타크릴레이트의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알릴스테아레이트/브이에이코폴리머",
+        "INGR_ENG_NAME": "Allyl Stearate/VA Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알릴스테아레이트와 비닐아세테이트모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꿀풀꽃/잎/줄기추출물",
+        "INGR_ENG_NAME": "Prunella Vulgaris Flower/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꿀풀 Prunella vulgaris의 꽃, 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알릴카프로에이트",
+        "INGR_ENG_NAME": "Allyl Caproate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알부민",
+        "INGR_ENG_NAME": "Albumen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 계란 흰자를 건조한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알부민추출물",
+        "INGR_ENG_NAME": "Albumen Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 가열하자마자 응고되지 않은 알부민의 일부분을 추출한 것이다. 이 원료는 알부민을 가열하자마자 응고되지 않은 부분이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알부틴",
+        "INGR_ENG_NAME": "Arbutin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알엔에이",
+        "INGR_ENG_NAME": "RNA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 단백질 합성에 관여하는 폴리뉴클레오타이드이며 세포의 핵과 세포질에서 발견된다. 네 개의 기본 뉴클레오사이드는 아데노신, 구아노신, 사이티딘 및 우리딘이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알지닉애씨드",
+        "INGR_ENG_NAME": "Alginic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다양한 갈조류 Phaeophyceae의 알칼리 추출로 얻은 탄수화물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알지닌",
+        "INGR_ENG_NAME": "Arginine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알지닌/라이신폴리펩타이드",
+        "INGR_ENG_NAME": "Arginine/Lysine Polypeptide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알지닌과 라이신 잔기를 함유하는 폴리펩타이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알지닌에이치씨엘",
+        "INGR_ENG_NAME": "Arginine HCl",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알지닌코코에이트",
+        "INGR_ENG_NAME": "Arginine Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드의 알지닌염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꿀풀잎추출물",
+        "INGR_ENG_NAME": "Prunella Vulgaris Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꿀풀 Prunella vulgaris의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알지닌페룰레이트",
+        "INGR_ENG_NAME": "Arginine Ferulate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페룰릭애씨드의 알지닌염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알지닌피씨에이",
+        "INGR_ENG_NAME": "Arginine PCA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피씨에이의 알지닌염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알진",
+        "INGR_ENG_NAME": "Algin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알기닉애씨드의 소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C18-21알케인",
+        "INGR_ENG_NAME": "C18-21 Alkane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 18-21개인 알킬사슬을 갖은 알케인의 혼합물이다.",
+        "INGR_SYNONYM": "C18-21알칸"
+    },
+    {
+        "INGR_KOR_NAME": "C10-12알케인/사이클로알케인",
+        "INGR_ENG_NAME": "C10-12 Alkane/Cycloalkane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 10-12개 직사슬과 고리형 탄화수소의 혼합물이다.",
+        "INGR_SYNONYM": "C10-12알칸/사이클로알칸"
+    },
+    {
+        "INGR_KOR_NAME": "알칸나뿌리추출물",
+        "INGR_ENG_NAME": "Alkanna Tinctoria Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알칸나 (Alkanna tinctoria)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알칼리게네스폴리사카라이드",
+        "INGR_ENG_NAME": "Alcaligenes Polysaccharides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Alcaligenes latus의 세균 배양에서 얻은 폴리사카라이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C12-15알코올",
+        "INGR_ENG_NAME": "C12-15 Alcohols",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 12-15개인 알킬 사슬을 갖는 합성 지방족알코올 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C12-16알코올",
+        "INGR_ENG_NAME": "C12-16 Alcohols",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 12-16개인 알킬 사슬을 갖는 합성 지방알코올의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C14-22알코올",
+        "INGR_ENG_NAME": "C14-22 Alcohols",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 14-22개인 알킬 사슬을 갖는 합성 지방알코올의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "끈끈이주걱추출물",
+        "INGR_ENG_NAME": "Drosera Rotundifolia Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 끈끈이주걱 Drosera Rotundifolia의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C20-22알코올",
+        "INGR_ENG_NAME": "C20-22 Alcohols",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 20-22개인 알킬 사슬을 갖는 합성 지방알코올의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C20-40알코올",
+        "INGR_ENG_NAME": "C20-40 Alcohols",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 20-40개인 알킬 사슬을 갖는 합성 지방 알코올의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C30-50알코올",
+        "INGR_ENG_NAME": "C30-50 Alcohols",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 30-50개인 알킬 사슬을 갖는 합성 지방알코올의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C40-60알코올",
+        "INGR_ENG_NAME": "C40-60 Alcohols",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 40-60개인 알킬 사슬을 갖는 합성 지방알코올의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "알클록사",
+        "INGR_ENG_NAME": "Alcloxa",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    }
+]

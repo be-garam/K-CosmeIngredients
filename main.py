@@ -12,15 +12,15 @@ from datetime import datetime
 # .env 파일에서 환경 변수 로드
 load_dotenv()
 
-def get_cosmetic_ingredients(ingredient_name, page_no=1, num_of_rows=10):
+def get_cosmetic_ingredients(page_no=1, num_of_rows=10):
     # 인코딩된 API 키 사용
-    api_key = os.getenv('PUBLIC_DATA_API_KEY_ENCODING')
+    api_key = os.getenv('PUBLIC_DATA_API_KEY_DECODING')
     
     url = "http://apis.data.go.kr/1471000/CsmtcsIngdCpntInfoService01/getCsmtcsIngdCpntInfoService01"
     params = {
         'serviceKey': api_key,
         'type': 'json',
-        'INGR_KOR_NAME': ingredient_name,
+        # 'INGR_KOR_NAME': ingredient_name,
         'pageNo': str(page_no),
         'numOfRows': str(num_of_rows)
     }
@@ -33,10 +33,10 @@ def get_cosmetic_ingredients(ingredient_name, page_no=1, num_of_rows=10):
         print(f"Error: {response.status_code}")
         return None
 
-def save_to_json(data, ingredient_name):
+def save_to_json(data):
     # 현재 날짜와 시간을 파일명에 포함
     current_time = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename = f"cosmetic_ingredient_{ingredient_name}_{current_time}.json"
+    filename = f"data/cosmetic_ingredient_{current_time}.json"
     
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
@@ -44,18 +44,17 @@ def save_to_json(data, ingredient_name):
     print(f"Data saved to {filename}")
 
 def main():
-    ingredient_name = input("검색할 화장품 원료 이름을 입력하세요: ")
     page_no = 1
-    num_of_rows = 10
-    total_count = 0
+    num_of_rows = 100
+    total_count = 10
 
     while True:
-        result = get_cosmetic_ingredients(ingredient_name, page_no, num_of_rows)
+        result = get_cosmetic_ingredients(page_no, num_of_rows)
         
         if result and 'body' in result:
             items = result['body'].get('items', [])
             if items:
-                save_to_json(items, ingredient_name)
+                save_to_json(items)
                 
                 total_count += len(items)
                 print(f"페이지 {page_no} 데이터 저장 완료. 총 {total_count}개의 항목 저장됨.")

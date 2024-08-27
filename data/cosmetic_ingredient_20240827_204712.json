@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "판테닐에틸에터",
+        "INGR_ENG_NAME": "Panthenyl Ethyl Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 판테놀의 에틸에터이다.",
+        "INGR_SYNONYM": "판테닐에칠에텔"
+    },
+    {
+        "INGR_KOR_NAME": "판테닐에틸에터아세테이트",
+        "INGR_ENG_NAME": "Panthenyl Ethyl Ether Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 판테놀의 에틸에터 및 아세틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": "판테닐에칠에텔아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "판테닐트라이아세테이트",
+        "INGR_ENG_NAME": "Panthenyl Triacetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 판테놀의 트라이아세틸에스터이다.",
+        "INGR_SYNONYM": "판테닐트리아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "판테닐하이드록시프로필스테아다이모늄클로라이드",
+        "INGR_ENG_NAME": "Panthenyl Hydroxypropyl Steardimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "판테닐하이드록시프로필스테아디모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "판테틴",
+        "INGR_ENG_NAME": "Pantethine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "판테친"
+    },
+    {
+        "INGR_KOR_NAME": "판테테인설포네이트",
+        "INGR_ENG_NAME": "Pantetheine Sulfonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "판토테닉애씨드",
+        "INGR_ENG_NAME": "Pantothenic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "데사미도콜라겐",
+        "INGR_ENG_NAME": "Desamido Collagen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카르복실릭애씨드그룹에서 변형된 아마이드그룹을 제거한 콜라겐이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "판토테닉애씨드/효모폴리펩타이드",
+        "INGR_ENG_NAME": "Pantothenic Acid/Yeast Polypeptide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 효모에서 유래된 다당류와 판토테닉애씨드의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스타아니스열매/씨오일",
+        "INGR_ENG_NAME": "Illicium Verum (Anise) Fruit/Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스타아니스 (Illicium verum)의 잘익은 열매 및 씨를 건조한 것에서 유래한 휘발성 오일이다.",
+        "INGR_SYNONYM": "팔각향열매/씨오일,팔각회향열매/씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "스타아니스추출물",
+        "INGR_ENG_NAME": "Illicium Verum (Anise) Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스타아니스 (Anise) Illicium Verum의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "팔각회향추출물"
+    },
+    {
+        "INGR_KOR_NAME": "팔마로사오일",
+        "INGR_ENG_NAME": "Cymbopogon Martini Oil,Cymbopogon Martini Herb Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 허브인 Cymbopogon martini를 압착하여 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔메스-2포스페이트",
+        "INGR_ENG_NAME": "Palmeth-2 Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포스포릭애씨드 및 평균 에톡실화 값이 2인 에톡실화 된 팜커넬알코올의 에스터 복합 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미타미도프로필트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Palmitamidopropyltrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "팔미타미도프로필트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일다이펩타이드-7",
+        "INGR_ENG_NAME": "Palmitoyl Dipeptide-7",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드 및 다이펩타이드-7의 반응물이다.",
+        "INGR_SYNONYM": "팔미토일디펩타이드-7"
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일미리스틸세리네이트",
+        "INGR_ENG_NAME": "Palmitoyl Myristyl Serinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드와 세린의 축합반응과 미리스틸알코올의 에스터교환반응으로 얻은 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일카르니틴",
+        "INGR_ENG_NAME": "Palmitoyl Carnitine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 카르니틴 및 팔미틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "데세스-3",
+        "INGR_ENG_NAME": "Deceth-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 평균값이 3인 데실알코올의 폴리에틸렌 글라이콜 에터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일테트라펩타이드-3",
+        "INGR_ENG_NAME": "Palmitoyl Tetrapeptide-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드와 테트라펩타이드-3의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일테트라펩타이드-7",
+        "INGR_ENG_NAME": "Palmitoyl Tetrapeptide-7",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드와 테트라펩타이드-7의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일트라이펩타이드-1",
+        "INGR_ENG_NAME": "Palmitoyl Tripeptide-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드 및 트라이펩타이드-1의 반응생성물이다.",
+        "INGR_SYNONYM": "팔미토일트리펩타이드-1"
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일트라이펩타이드-5",
+        "INGR_ENG_NAME": "Palmitoyl Tripeptide-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드 및 트라이펩타이드-5의 반응생성물이다.",
+        "INGR_SYNONYM": "팔미토일트리펩타이드-5"
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일펜타펩타이드-4",
+        "INGR_ENG_NAME": "Palmitoyl Pentapeptide-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드 및 펜타펩타이드-4의 반응물이다.",
+        "INGR_SYNONYM": "팔미토일펜타펩타이드-3"
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일펜타펩타이드-5",
+        "INGR_ENG_NAME": "Palmitoyl Pentapeptide-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드 및 펜타펩타이드-5의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일프롤린",
+        "INGR_ENG_NAME": "Palmitoyl Proline",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드클로라이드와 프롤린의 축합반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일하이드록시프로필트리모늄아밀로펙틴/글리세린크로스폴리머",
+        "INGR_ENG_NAME": "Palmitoyl Hydroxypropyltrimonium Amylopectin / Glycerine Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글리세린으로 가교된 아밀로펙틴의 하이드록시프로필트리모늄 유도체 폴리머의 팔미틱애씨드 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일하이드롤라이즈드밀단백질",
+        "INGR_ENG_NAME": "Palmitoyl Hydrolyzed Wheat Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드클로라이드와 가수분해된 밀 단백질의 축합반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "데세스-5",
+        "INGR_ENG_NAME": "Deceth-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 평균값이 5인 폴리에틸렌 데실알코올의 글라이콜 에터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일헥사펩타이드-14",
+        "INGR_ENG_NAME": "Palmitoyl Hexapeptide-14",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드 및 헥사펩타이드-14의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미토일헵타펩타이드-5",
+        "INGR_ENG_NAME": "Palmitoyl Heptapeptide-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팔미틱애씨드와 헵타펩타이드-5의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팔미틱애씨드",
+        "INGR_ENG_NAME": "Palmitic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 지방산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팜글리세라이즈",
+        "INGR_ENG_NAME": "Palm Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 오일팜오일에서 얻은 모노, 다이 및 트라이글리세라이드 혼합물이다.",
+        "INGR_SYNONYM": "팜글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "팜아미도프로필트라이모늄메토설페이트",
+        "INGR_ENG_NAME": "Palmamidopropyl Trimonium Methosulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "팜아미도프로필트리모늄메토설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "팜애씨드",
+        "INGR_ENG_NAME": "Palm Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 기름야자 (Elaeis guineensis) 오일에서 유래된 지방산의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팜커넬애씨드",
+        "INGR_ENG_NAME": "Palm Kernel Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 기름야자 (Elaeis guineensis)의 커넬오일에서 유래된 지방산의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팥",
+        "INGR_ENG_NAME": "Phaseolus Angularis Seed",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팥 Vigna angularis(=Phaseolus angularis)의 씨이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팥가루",
+        "INGR_ENG_NAME": "Vigna Angularis Seed Powder,Phaseolus Angularis Seed Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팥 Vigna Angularis(=Phaseolus angularis)의 건조 분쇄한 씨에서 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "데세스-8",
+        "INGR_ENG_NAME": "Deceth-8",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 평균값이 8인 데실 알코올의 폴리에틸렌 글라이콜 에터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "팥추출물",
+        "INGR_ENG_NAME": "Vigna Angularis Seed Extract,Phaseolus Angularis Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 팥 Vigna Angularis(=Phaseolus angularis)의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "퍼플루오로노닐에틸스테아릴다이메티콘",
+        "INGR_ENG_NAME": "Perfluorononylethyl Stearyl Dimethicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록세인 폴리머이다.",
+        "INGR_SYNONYM": "퍼플루오로노닐에칠스테아릴디메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "퍼플루오로데칼린",
+        "INGR_ENG_NAME": "Perfluorodecalin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "퍼플루오로헥실에틸트라이에톡시실레인",
+        "INGR_ENG_NAME": "Perfluorohexylethyl Triethoxysilane",
+        "CAS_NO": "51851-37-7",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "퍼플루오로옥틸트리에톡시실란"
+    },
+    {
+        "INGR_KOR_NAME": "퍼플루오로퍼하이드로페난트렌",
+        "INGR_ENG_NAME": "Perfluoroperhydrophenanthrene",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "퍼플루오로헥산",
+        "INGR_ENG_NAME": "Perfluorohexane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "퍼플테프로시아씨추출물",
+        "INGR_ENG_NAME": "Tephrosia Purpurea Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Tephrosia Purpurea의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": "퍼플테프로시아씨추출물"
+    },
+    {
+        "INGR_KOR_NAME": "펄라이트",
+        "INGR_ENG_NAME": "Perlite",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음과 같이 구성된 화학적으로 비활성의 규산질 미네랄이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페나세틴",
+        "INGR_ENG_NAME": "Phenacetin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페네틸벤조에이트",
+        "INGR_ENG_NAME": "Phenethyl Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "페네칠벤조에이트"
+    },
+    {
+        "INGR_KOR_NAME": "데센/부텐코폴리머",
+        "INGR_ENG_NAME": "Decene/Butene Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 데센 모노머와 부텐의 중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페네틸알코올",
+        "INGR_ENG_NAME": "Phenethyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 알코올이다.",
+        "INGR_SYNONYM": "페네칠알코올"
+    },
+    {
+        "INGR_KOR_NAME": "페녹시에탄올",
+        "INGR_ENG_NAME": "Phenoxyethanol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 에텔알코올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페닐다이메티콘",
+        "INGR_ENG_NAME": "Phenyl Dimethicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록산폴리머이다.",
+        "INGR_SYNONYM": "페닐디메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "페닐메티콘",
+        "INGR_ENG_NAME": "Phenyl Methicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록세인 중합체이다.",
+        "INGR_SYNONYM": "페닐메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "페닐벤즈이미다졸설포닉애씨드",
+        "INGR_ENG_NAME": "Phenylbenzimidazole Sulfonic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페닐알라닌",
+        "INGR_ENG_NAME": "Phenylalanine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페닐트라이메티콘",
+        "INGR_ENG_NAME": "Phenyl Trimethicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록세인 중합체이며 n은 1에서 3이다.",
+        "INGR_SYNONYM": "페닐트리메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "페닐프로필디메틸실록시실리케이트",
+        "INGR_ENG_NAME": "Phenylpropyldimethylsiloxysilicate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 실록세인 폴리머이다.",
+        "INGR_SYNONYM": "페닐프로필디메칠실록시실리케이트"
+    },
+    {
+        "INGR_KOR_NAME": "유럽개암잎추출물",
+        "INGR_ENG_NAME": "Corylus Avellana (Hazelnut) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유럽개암(Hazelnut) Corylus avellana의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "개암잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "데실글루코사이드",
+        "INGR_ENG_NAME": "Decyl Glucoside",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 데실알코올과 글루코오스의 축합으로 얻은 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페러스글루코네이트",
+        "INGR_ENG_NAME": "Ferrous Gluconate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글로코닉애씨드의 페러스염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페러스설페이트",
+        "INGR_ENG_NAME": "Ferrous Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페룰릭애씨드",
+        "INGR_ENG_NAME": "Ferulic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페릭글리세로포스페이트",
+        "INGR_ENG_NAME": "Ferric Glycerophosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물 복합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페릭암모늄페로시아나이드",
+        "INGR_ENG_NAME": "Ferric Ammonium Ferrocyanide,CI 77510",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페릭클로라이드",
+        "INGR_ENG_NAME": "Ferric Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페릭페로시아나이드",
+        "INGR_ENG_NAME": "Ferric Ferrocyanide,CI 77510",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페릴릴알코올",
+        "INGR_ENG_NAME": "Perillyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페릴알데하이드",
+        "INGR_ENG_NAME": "Perillaldehyde",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "마스터워트잎추출물",
+        "INGR_ENG_NAME": "Peucedanum Ostruthium Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 마스터워트 Peucedanum ostruthium의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "페우세디눔 오스트루튬잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "데실옥사졸리다이논",
+        "INGR_ENG_NAME": "Decyloxazolidinone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로고리 화합물이다.",
+        "INGR_SYNONYM": "데실옥사졸리디논"
+    },
+    {
+        "INGR_KOR_NAME": "페퀴열매오일",
+        "INGR_ENG_NAME": "Caryocar Brasiliense Fruit Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페키 (Caryocar brasiliense)의 열매를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페트롤라툼",
+        "INGR_ENG_NAME": "Petrolatum",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 석유에서 얻은 탄화수소의 반고형물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페트롤레움다이스틸레이트",
+        "INGR_ENG_NAME": "Petroleum Distillates",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 석유에서 얻은 휘발성 탄화수소의 혼합물이다.",
+        "INGR_SYNONYM": "페트롤리움디스틸레이트"
+    },
+    {
+        "INGR_KOR_NAME": "페퍼민트오일",
+        "INGR_ENG_NAME": "Mentha Piperita (Peppermint) Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페퍼민트 (Mentha piperita)의 전초에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페퍼민트잎",
+        "INGR_ENG_NAME": "Mentha Piperita (Peppermint) Leaf",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페퍼민트 (Mentha piperita)의 건조한 잎이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페퍼민트잎수",
+        "INGR_ENG_NAME": "Mentha Piperita (Peppermint) Leaf Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페퍼민트 (Mentha piperita)의 잎을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페퍼민트잎추출물",
+        "INGR_ENG_NAME": "Mentha Piperita (Peppermint) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페퍼민트 (Mentha piperita)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페퍼민트추출물",
+        "INGR_ENG_NAME": "Mentha Piperita (Peppermint) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페퍼민트 (Mentha piperita)의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펙틴",
+        "INGR_ENG_NAME": "Pectin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 감귤류 껍질의 안쪽 부분 또는 사과의 즙을 짜고 난 찌거기를 묽은산으로 추출하여 얻은 정제된 탄수화물이며, 주로 메톡실레이티드폴리갈락트로닉애씨드로 되어 있다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타데카락톤",
+        "INGR_ENG_NAME": "Pentadecalactone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 15-하이드록시펜타데카노익애씨드의 락톤이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "데실올리베이트",
+        "INGR_ENG_NAME": "Decyl Olivate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올리브오일에서 얻은 지방산과 데실알코올의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타독시놀-200",
+        "INGR_ENG_NAME": "Pentadoxynol-200",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에톡실화 된 알킬페놀이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타소듐아미노트라이메틸렌포스포네이트",
+        "INGR_ENG_NAME": "Pentasodium Aminotrimethylene Phosphonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "펜타소듐아미노트리메칠렌포스포네이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타소듐에틸렌다이아민테트라메틸렌포스포네이트",
+        "INGR_ENG_NAME": "Pentasodium Ethylenediamine Tetramethylene Phosphonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "펜타소듐에칠렌디아민테트라메칠렌포스포네이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타소듐트라이포스페이트",
+        "INGR_ENG_NAME": "Pentasodium Triphosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": "펜타소듐트리포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타소듐펜테테이트",
+        "INGR_ENG_NAME": "Pentasodium Pentetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 디에칠렌트리아민펜타아세틱애씨드의 펜타소듐염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸다이스테아레이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Distearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리트리톨과 스테아릭애씨드의 다이에스터이다. RCO-는 스테아릭애씨드라디칼이다.",
+        "INGR_SYNONYM": "펜타에리스리틸디스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸로지네이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Rosinates",
+        "CAS_NO": "8050-26-8",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 로진에서 유래된 로진애씨드와 폴리올, 펜타에리스리톨의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸아디페이트/카프레이트/카프릴레이트/헵타노에이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Adipate/Caprate/Caprylate/Heptanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨과 아디픽, 카프릭, 카프릴릭 및 헵타노익애씨드의 혼합 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라-다이-t-부틸하이드록시하이드로신나메이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "펜타에리스리틸테트라-디-t-부틸하이드록시하이드로신나메이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라라우레이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetralaurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨과 라우릭애씨드의 테트라에스터이다. RCO-는 라우릭애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "데실올리에이트",
+        "INGR_ENG_NAME": "Decyl Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 데실알코올과 올레익애씨드의 에스터이다. 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라미리스테이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetramyristate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨과 미리스틱애씨드의 테트라에스터이다. RCO-는 미리스틱애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라베헤네이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetrabehenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨 및 베헤닉애씨드의 테트라에스터이다. RCO-는 베헤닉애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라에틸헥사노에이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetraethylhexanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리트리톨과 2-에틸헥사노익애씨드의 테트라에스터이다. RCO-는 2-에틸헥사노익애씨드라디칼이다.",
+        "INGR_SYNONYM": "펜타에리스리틸테트라에칠헥사노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라올리에이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨과 올레익애씨드의 테트라에스터이다. RCO-는 올레익애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라아이소노나노에이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetraisononanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 펜타에리트리톨과 분지형 노나노익애씨드의 테트라에스터이다. RCO-는 아이소노나노익애씨드라디칼이다.",
+        "INGR_SYNONYM": "펜타에리스리틸테트라이소노나노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라아이소스테아레이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetraisostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소스테아릭애씨드와 펜타에리트리톨의 테트라에스터이다. RCO-는 아이소스테아릭애씨드라디칼이다.",
+        "INGR_SYNONYM": "펜타에리스리틸테트라이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라카프릴레이트/테트라카프레이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetracaprylate/Tetracaprate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨과 카프릴릭 및 카프릭애씨드 혼합물의 테트라에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "펜타에리스리틸테트라펠라고네이트",
+        "INGR_ENG_NAME": "Pentaerythrityl Tetrapelargonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨과 펠라고닉애씨드의 테트라에스터이다. RCO-는 펠라고닉애씨드에서 유래한 것이다.",
+        "INGR_SYNONYM": null
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "하이드록시스테아릭애씨드",
+        "INGR_ENG_NAME": "Hydroxystearic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 지방산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시스테아릴세틸에터",
+        "INGR_ENG_NAME": "Hydroxystearyl Cetyl Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "하이드록시스테아릴세틸에텔"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시시트로넬알",
+        "INGR_ENG_NAME": "Hydroxycitronellal",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 알데하이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시신나믹애씨드",
+        "INGR_ENG_NAME": "Hydroxycinnamic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시아파타이트",
+        "INGR_ENG_NAME": "Hydroxyapatite",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 포스페이트 암석에서 얻은 미네랄이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "C12-14하이드록시알킬말티톨에터",
+        "INGR_ENG_NAME": "C12-14 Hydroxyalkyl Maltitol Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 말티톨과 C12-14 하이드록시알케인 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "C12-14하이드록시알킬말티톨에텔"
+    },
+    {
+        "INGR_KOR_NAME": "C10-40하이드록시알킬애씨드",
+        "INGR_ENG_NAME": "C10-40 Hydroxyalkyl Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알킬 사슬에 탄소 10-40개를 갖는 포화된 하이드록시애씨드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘올스테아레이트",
+        "INGR_ENG_NAME": "Dimethiconol Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이메티콘올과 스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "디메치콘올스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "C12-14하이드록시알킬하이드록시디머디리놀레일에터",
+        "INGR_ENG_NAME": "C12-14 Hydroxyalkyl Hydroxydimerdilinoleyl Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 리놀레일알코올과 C12-14 올레핀옥사이드 다이머의 반응으로 얻은 에터이다.",
+        "INGR_SYNONYM": "C12-14하이드록시알킬하이드록시다이머디리놀레일에텔"
+    },
+    {
+        "INGR_KOR_NAME": "C16-18하이드록시알킬하이드록시다이머다이리놀레일에터",
+        "INGR_ENG_NAME": "C16-18 Hydroxyalkyl Hydroxydimerdilinoleyl Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 C16-18 올레핀옥사이드와 리놀레일알코올의 다이머의 반응으로 얻은 에터이다.",
+        "INGR_SYNONYM": "C16-18하이드록시알킬하이드록시다이머디리놀레일에텔"
+    },
+    {
+        "INGR_KOR_NAME": "C12-14하이드록시알킬하이드록시에틸사코신",
+        "INGR_ENG_NAME": "C12-14 Hydroxyalkyl Hydroxyethyl Sarcosine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다. R은 C12-14 하이드록시알킬 그룹이다.",
+        "INGR_SYNONYM": "C12-14하이드록시알킬하이드록시에칠사코신"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸/메톡시에틸아크릴레이트코폴리머",
+        "INGR_ENG_NAME": "Hydroxyethyl/Methoxyethyl Acrylate Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드록시에틸아크릴레이트와 메톡시에틸아크릴레이트 단위체로 구성된 공중합체이다.",
+        "INGR_SYNONYM": "하이드록시에칠/메톡시에칠아크릴레이트코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸베헨아미도프로필다이모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxyethyl Behenamidopropyl Dimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다.",
+        "INGR_SYNONYM": "하이드록시에칠베헨아미도프로필디모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸세테아라미도프로필다이모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxyethyl Cetearamidopropyldimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다. RCO-는 세테아록시이다.",
+        "INGR_SYNONYM": "하이드록시에칠세테아라미도프로필디모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸세틸다이모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxyethyl Cetyldimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다.",
+        "INGR_SYNONYM": "하이드록시에칠세틸디모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸세틸다이모늄포스페이트",
+        "INGR_ENG_NAME": "Hydroxyethyl Cetyldimonium Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "하이드록시에칠세틸디모늄포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸셀룰로오스",
+        "INGR_ENG_NAME": "Hydroxyethylcellulose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드록시에틸 곁사슬을 갖는 변형된 셀룰로오스폴리머이다.",
+        "INGR_SYNONYM": "하이드록시에칠셀룰로오스"
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘올/아이피디아이코폴리머",
+        "INGR_ENG_NAME": "Dimethiconol/IPDI Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이메티콘올과 아이소포론다이아이소사이아네이트의 공중합체이다.",
+        "INGR_SYNONYM": "디메치콘올/아이피디아이코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸아크릴레이트/소듐아크릴로일다이메틸타우레이트코폴리머",
+        "INGR_ENG_NAME": "Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소듐하이드록시에틸아크릴레이트와 아크릴로다이메틸타우레이트 단위체의 공중합체이다.",
+        "INGR_SYNONYM": "하이드록시에칠아크릴레이트/소듐아크릴로일디메칠타우레이트코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸에틸셀룰로오스",
+        "INGR_ENG_NAME": "Hydroxyethyl Ethylcellulose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸셀룰로오스의 에틸렌글라이콜에스터이다.",
+        "INGR_SYNONYM": "하이드록시에칠에칠셀룰로오스"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸올레일다이모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxyethyl Oleyl Dimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다.",
+        "INGR_SYNONYM": "하이드록시에칠올레일디모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸우레아",
+        "INGR_ENG_NAME": "Hydroxyethyl Urea",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "하이드록시에칠우레아"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸키토산",
+        "INGR_ENG_NAME": "Hydroxyethyl Chitosan",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 키토산과 에틸렌옥사이드를 반응시켜서 얻은 것이다.",
+        "INGR_SYNONYM": "하이드록시에칠키토산"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시에틸피페라진에탄설포닉애씨드",
+        "INGR_ENG_NAME": "Hydroxyethylpiperazine Ethane Sulfonic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로고리 화합물이다.",
+        "INGR_SYNONYM": "하이드록시에칠피페라진에탄설포닉애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시엑토인",
+        "INGR_ENG_NAME": "Hydroxyectoin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시옥타코사닐하이드록시스테아레이트",
+        "INGR_ENG_NAME": "Hydroxyoctacosanyl Hydroxystearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드록시옥타코사닐알코올과 하이드록시스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시아이소류신",
+        "INGR_ENG_NAME": "Hydroxyisoleucine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 아미노산이다.",
+        "INGR_SYNONYM": "하이드록시이소류신"
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘올플루오로알코올다이리놀레익애씨드",
+        "INGR_ENG_NAME": "Dimethiconol Fluoroalcohol Dilinoleic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이메티콘올, 다이머애씨드 그리고 6-20개의 탄소를 갖는 플루오르화된 알코올의 폴리에스터이다.",
+        "INGR_SYNONYM": "디메치콘올플루오로알코올디리놀레익애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시카프릭애씨드",
+        "INGR_ENG_NAME": "Hydroxycapric Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시카프릴릭애씨드",
+        "INGR_ENG_NAME": "Hydroxycaprylic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시팔미토일스핑가닌",
+        "INGR_ENG_NAME": "Hydroxypalmitoyl Sphinganine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시페닐다이하이드록시벤즈아마이드",
+        "INGR_ENG_NAME": "Hydroxyphenyl Dihydroxybenzamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "하이드록시페닐디하이드록시벤즈아마이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시페닐프로파미도벤조익애씨드",
+        "INGR_ENG_NAME": "Hydroxyphenyl Propamidobenzoic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필구아",
+        "INGR_ENG_NAME": "Hydroxypropyl Guar",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구아 (Cyanopsis tetragonoloba) 검의 프로필렌글라이콜 에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필구아하이드록시프로필트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxypropyl Guar Hydroxypropyltrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구아하이드록시프로필트라이모늄클로라이드의 하이드록시프로필 유도체이다.",
+        "INGR_SYNONYM": "하이드록시프로필구아하이드록시프로필트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필다이메티콘베헤네이트",
+        "INGR_ENG_NAME": "Hydroxypropyl Dimethicone Behenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드록시프로필디메티콘과 베헤닉애씨드를 에스터화시켜 얻은 물질이다",
+        "INGR_SYNONYM": "하이드록시프로필디메치콘베헤네이트"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필메틸셀룰로오스",
+        "INGR_ENG_NAME": "Hydroxypropyl Methylcellulose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸셀룰로오스의 프로필렌글라이콜에터이다.",
+        "INGR_SYNONYM": "하이드록시프로필메칠셀룰로오스"
+    },
+    {
+        "INGR_KOR_NAME": "디메티콘코폴리올",
+        "INGR_ENG_NAME": "Dimethicone Copolyol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 디메칠실록산과 메칠(폴리옥시에칠렌·폴리옥시프로필렌)실록산의 공중합체이다.",
+        "INGR_SYNONYM": "디메치콘코폴리올"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필메틸셀룰로오스스테아록시에터",
+        "INGR_ENG_NAME": "Hydroxypropyl Methylcellulose Stearoxy Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아릴글리시딜에터와 하이드록시프로필메틸셀룰로오스의 반응물이다.",
+        "INGR_SYNONYM": "하이드록시프로필메칠셀룰로오스스테아록시에텔"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필메틸셀룰로오스아세테이트/석시네이트",
+        "INGR_ENG_NAME": "Hydroxypropyl Methylcellulose Acetate/Succinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 석시닉안하이드라이드 및 아세틱안하이드라이드와 하이드록시프로필메틸셀룰로오스의 반응물이다.",
+        "INGR_SYNONYM": "하이드록시프로필메칠셀룰로오스아세테이트/석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필비스라우라마이드엠이에이",
+        "INGR_ENG_NAME": "Hydroxypropyl Bislauramide MEA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 아마이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필비스스테아라마이드엠이에이",
+        "INGR_ENG_NAME": "Hydroxypropyl Bisstearamide MEA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필비스스테아릴디모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxypropyl Bisstearyldimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필비스팔미타마이드엠이에이",
+        "INGR_ENG_NAME": "Hydroxypropyl Bispalmitamide MEA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 아마이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필비스-하이드록시에틸다이모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxypropyl Bis-Hydroxyethyldimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다.",
+        "INGR_SYNONYM": "하이드록시프로필비스하이드록시에칠디모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필사이클로덱스트린",
+        "INGR_ENG_NAME": "Hydroxypropyl Cyclodextrin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 사이클로덱스트린의 프로필렌글라이콜에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필셀룰로오스",
+        "INGR_ENG_NAME": "Hydroxypropylcellulose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 셀룰로오스의 프로필렌글라이콜에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필스타치",
+        "INGR_ENG_NAME": "Hydroxypropyl Starch",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 전분의 프로필렌글라이콜에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "검정콩",
+        "INGR_ENG_NAME": "Glycine Max (Black Soybean),Glycine Soja (Black Soybean)",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대두 (Glycine max) 또는 돌콩 (Glycine soja) 중 검정콩이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘크로스폴리머",
+        "INGR_ENG_NAME": "Dimethicone Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 C3-C20 알킬 그룹으로 가교된 다이메티콘의 중합체이다.",
+        "INGR_SYNONYM": "디메치콘크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필스타치포스페이트",
+        "INGR_ENG_NAME": "Hydroxypropyl Starch Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 디스타치포스페이트의 하이드록시프로필에텔이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필알지닌라우릴/미리스틸에터에이치씨엘",
+        "INGR_ENG_NAME": "Hydroxypropyl Arginine Lauryl/Myristyl Ether HCl",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아민 염이다. R은 라우릴과 미리스티릭 단위체이다.",
+        "INGR_SYNONYM": "하이드록시프로필알지닌라우릴/미리스틸에텔에이치씨엘"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필옥시다이즈드스타치",
+        "INGR_ENG_NAME": "Hydroxypropyl Oxidized Starch",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 옥시젠과 하이드록시프로필스타치의 반응물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필옥시다이즈드스타치피지-트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Hydroxypropyl Oxidized Starch PG-Trimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다. R은 산화된 전분의 단위체이다.",
+        "INGR_SYNONYM": "하이드록시프로필옥시다이즈드스타치피지-트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필키토산",
+        "INGR_ENG_NAME": "Hydroxypropyl Chitosan",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 키토산과 프로필렌옥사이드의 반응으로 얻은 하이드록시프로필 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필테트라하이드로피란트라이올",
+        "INGR_ENG_NAME": "Hydroxypropyl Tetrahydropyrantriol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "하이드록시프로필테트라하이드로피란트리올"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄말토덱스트린크로스폴리머",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Maltodextrin Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 말토덱스트린과 글리시딜트라이메틸암모늄 클로라이드와의 반응으로 형성된 4급 암모늄염이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄말토덱스트린크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드귀리단백질",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Oat Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이아민아민과 가수분해된 귀리 단백질의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드귀리단백질,하이드록시프로필트리모늄하이드롤라이즈드오트프로테인"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드밀단백질",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Wheat Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 밀 단백질의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드밀단백질,하이드록시프로필트리모늄하이드롤라이즈드위트프로테인"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드밀전분",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Wheat Starch",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 4급 암모늄염이며 R이 하이드롤라이즈드밀전분이고 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드밀전분"
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘크로스폴리머-3",
+        "INGR_ENG_NAME": "Dimethicone Crosspolymer-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 실록세인 중합체이다.",
+        "INGR_SYNONYM": "디메치콘크로스폴리머-3"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드실크",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Silk",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 실크의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드실크"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드쌀단백질",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Rice Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 쌀단백질의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드라이스프로테인,하이드록시프로필트리모늄하이드롤라이즈드쌀단백질"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드옥수수전분",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Corn Starch",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 콘키올린 단백질의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드옥수수전분"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드카제인",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Casein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 카제인의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드카제인"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드케라틴",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Keratin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 케라틴의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드케라틴"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드콘키올린프로테인",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Conchiolin Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 콘키올린 단백질의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드콘키올린프로테인"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드콜라겐",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Collagen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 콜라겐의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드콜라겐"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이드롤라이즈드콩단백질",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hydrolyzed Soy Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 하이드록시프로필트라이메틸아민과 가수분해된 콩단백질의 반응으로 얻은 4급 암모늄클로라이드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이드롤라이즈드소이프로테인,하이드록시프로필트리모늄하이드롤라이즈드콩단백질"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄하이알루로네이트",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Hyaluronate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다. R은 히아루로닉애씨드이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄하이알루로네이트"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프로필트라이모늄허니",
+        "INGR_ENG_NAME": "Hydroxypropyltrimonium Honey",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 염이다. R은 허니이다.",
+        "INGR_SYNONYM": "하이드록시프로필트리모늄허니"
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘/티타네이트크로스폴리머",
+        "INGR_ENG_NAME": "Dimethicone/Titanate Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메티옥시다이메티콘과 티타늄테트라아이소프로폭사이드의 반응으로 생긴 가교중합체이다.",
+        "INGR_SYNONYM": "디메치콘/티타네이트크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드록시프롤린",
+        "INGR_ENG_NAME": "Hydroxyproline",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록실레이티드라놀린",
+        "INGR_ENG_NAME": "Hydroxylated Lanolin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라놀린을 하이드록실화하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록실레이티드레시틴",
+        "INGR_ENG_NAME": "Hydroxylated Lecithin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 레시틴을 하이드록실화하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드록실레이티드밀크글리세라이즈",
+        "INGR_ENG_NAME": "Hydroxylated Milk Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 우유에서 분리한 글리세라이드가 조건화 수산화반응하여 얻은 것이다.",
+        "INGR_SYNONYM": "하이드록실레이티드밀크글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드조류추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Algae Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 조류추출물을 가수분해한 것이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드갈조추출물"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드참갈파래추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Ulva Lactuca Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 참갈파래추출물을 가수분해한 것이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드갈파래추출물"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드감자단백질",
+        "INGR_ENG_NAME": "Hydrolyzed Potato Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해 방법으로 얻은 감자 단백질의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드영하구기열매추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Lycium Barbarum Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 영하구기 Lycium Barbarum의 열매를 추출하여 산, 효소 또는 다른 방법으로 가수분해한 것이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드구기자열매추출물"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드구아",
+        "INGR_ENG_NAME": "Hydrolyzed Guar",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해의 방법으로 얻은 구아검의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드귀리",
+        "INGR_ENG_NAME": "Hydrolyzed Oats",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해 방법으로 얻은 귀리의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘/페닐비닐다이메티콘크로스폴리머",
+        "INGR_ENG_NAME": "Dimethicone/Phenyl Vinyl Dimethicone Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 페닐비닐다이메틸폴리실록세인으로 가교된 다이메틸폴리실록세인의 공중합체이다.",
+        "INGR_SYNONYM": "디메치콘/페닐비닐디메치콘크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드귀리가루",
+        "INGR_ENG_NAME": "Hydrolyzed Oat Flour",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해의 방법으로 얻은 귀리가루의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드귀리단백질",
+        "INGR_ENG_NAME": "Hydrolyzed Oat Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해 방법으로 얻은 귀리단백질의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드글라이코사미노글리칸",
+        "INGR_ENG_NAME": "Hydrolyzed Glycosaminoglycans",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 동물의 결합조직을 가수분해하여 얻은 폴리사카라이드의 혼합물이며 주로 글루코사민과 글루쿠로닉애씨드로 되어 있다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드참깨단백질피지-프로필메틸실란다이올",
+        "INGR_ENG_NAME": "Hydrolyzed Sesame Protein PG-Propyl Methylsilanediol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다. R은 참깨단백질의 가수분해된 부분이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드깨단백질피지-프로필메칠실란디올,하이드롤라이즈드세서미프로테인피지-프로필메칠실란디올"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드꿀풀추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Prunella Vulgaris Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꿀풀 (Prunella vulgaris)의 지상부에서 추출한 것을 산, 효소 또는 다른 방법으로 가수분해하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드난각막",
+        "INGR_ENG_NAME": "Hydrolyzed Egg Shell Membrane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해 방법으로 얻은 난각막의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드납작파래",
+        "INGR_ENG_NAME": "Hydrolyzed Enteromorpha Compressa",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해 방법으로 얻은 납작파래 엽상체의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드대구단백질",
+        "INGR_ENG_NAME": "Hydrolyzed Gadidae Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대구과 어류의 피부에서 산, 효소 혹은 다른 가수분해 방법으로 얻은 단백질 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드동물성단백질에틸에스터",
+        "INGR_ENG_NAME": "Ethyl Ester of Hydrolyzed Animal Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산,효소,가수분해로 부터 유도된 콜라겐의 가수분해물과 에틸알코올의 에스터이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드동물성단백질에칠에스터"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드디엔에이",
+        "INGR_ENG_NAME": "Hydrolyzed DNA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해 방법으로 얻은 DNA의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메티콘/폴리글리세린-3크로스폴리머",
+        "INGR_ENG_NAME": "Dimethicone/Polyglycerin-3 Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이알릴폴리글리세린-3으로 가교된 다이메티콘의 중합체이다.",
+        "INGR_SYNONYM": "디메치콘/폴리글리세린-3크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드레티쿨린",
+        "INGR_ENG_NAME": "Hydrolyzed Reticulin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 혹은 다른 가수분해 방법으로 얻은 동물 결합조직의 레티쿨린 부분의 가수분해물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드로도피세아추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Rhodophyceae Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조류인 Rhodophycea의 추출물을 산, 효소 혹은 다른 가수분해 방법으로 처리하여 얻은 가수분해물이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드로도피케아추출물"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드롤라 임플렉사추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Lola Implexa Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 Lola Implexa추출물을 가수분해한 것이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드롤라임플렉사추출물"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드루핀단백질",
+        "INGR_ENG_NAME": "Hydrolyzed Lupine Protein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 루핀단백질을 가수분해한 것이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드루핀프로테인"
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드루핀프로테인옥테닐석시네이트",
+        "INGR_ENG_NAME": "Hydrolyzed Lupine Protein Octenylsuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드롤라이즈드루핀단백질과 무수옥테닐석신의 반응생성물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드아마추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Linseed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 아마추출물을 가수분해한 것이다.",
+        "INGR_SYNONYM": "하이드롤라이즈드린씨드추출물"
+    }
+]

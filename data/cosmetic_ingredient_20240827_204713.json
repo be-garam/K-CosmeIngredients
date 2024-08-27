@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "폴리다이메틸실록시피이지/피피지-24/19부틸에터실세스퀴옥세인",
+        "INGR_ENG_NAME": "Polydimethylsiloxy PEG/PPG-24/19 Butyl Ether Silsesquioxane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실리콘폴리머이다.",
+        "INGR_SYNONYM": "폴리디메칠실록시피이지/피피지-24/19부틸에텔실세스퀴옥산"
+    },
+    {
+        "INGR_KOR_NAME": "폴리다이에틸실록세인",
+        "INGR_ENG_NAME": "Polydiethylsiloxane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 실록세인화합물이다.",
+        "INGR_SYNONYM": "폴리디에칠실록산"
+    },
+    {
+        "INGR_KOR_NAME": "폴리다이하이드록시인돌",
+        "INGR_ENG_NAME": "Polydihydroxyindole",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 다이하이드록시인돌의 중합체이다.",
+        "INGR_SYNONYM": "폴리디하이드록시인돌"
+    },
+    {
+        "INGR_KOR_NAME": "폴리라이신",
+        "INGR_ENG_NAME": "Polylysine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 폴리아마이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리락틱애씨드",
+        "INGR_ENG_NAME": "Polylactic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균적으로 에틸렌옥사이드 114몰을 포함하는 폴리락틱애씨드의 에톡실레이션 생성물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리메틸메타크릴레이트",
+        "INGR_ENG_NAME": "Polymethyl Methacrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 메틸메타크레이트의 중합체이다.",
+        "INGR_SYNONYM": "폴리메칠메타크릴레이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리메틸실세스퀴옥세인",
+        "INGR_ENG_NAME": "Polymethylsilsesquioxane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸트라이메톡시실란의 가수분해와 축합반응으로 얻은 중합체이다.",
+        "INGR_SYNONYM": "폴리메칠실세스퀴옥산,폴리메틸실세스퀴옥산"
+    },
+    {
+        "INGR_KOR_NAME": "폴리메틸아크릴레이트",
+        "INGR_ENG_NAME": "Polymethyl Acrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 중합체이다.",
+        "INGR_SYNONYM": "폴리메칠아크릴레이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리메타크릴로일에틸베타인",
+        "INGR_ENG_NAME": "Polymethacryloyl Ethyl Betaine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메타크리로일에틸의 호모폴리머이다.",
+        "INGR_SYNONYM": "폴리메타크릴로일에칠베타인"
+    },
+    {
+        "INGR_KOR_NAME": "도데센",
+        "INGR_ENG_NAME": "Dodecene",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 탄화수소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리메톡시바이사이클릭옥사졸리딘",
+        "INGR_ENG_NAME": "Polymethoxy Bicyclic Oxazolidine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리부텐",
+        "INGR_ENG_NAME": "Polybutene",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 이소 및 노말 부텐 혼합물을 중합하여 얻은 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리부틸렌글라이콜/엠디아이코폴리머",
+        "INGR_ENG_NAME": "Polybutylene Glycol/MDI Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 폴리부틸렌글라이콜 및 메칠렌디페닐디이소시아네이트 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리부틸렌테레프탈레이트",
+        "INGR_ENG_NAME": "Polybutylene Terephthalate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리비닐라우레이트",
+        "INGR_ENG_NAME": "Polyvinyl Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 폴리비닐알코올과 라우릭애씨드의 폴리에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리비닐부틸알",
+        "INGR_ENG_NAME": "Polyvinyl Butyral",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 폴리비닐알코올 및 부티르알데하이드의 축합반응으로 얻은 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리비닐아세테이트",
+        "INGR_ENG_NAME": "Polyvinyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 비닐아세테이트의 호모폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리비닐알코올",
+        "INGR_ENG_NAME": "Polyvinyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리비닐알코올크로스폴리머",
+        "INGR_ENG_NAME": "Polyvinylalcohol Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글리옥살로 가교된 비닐알코올의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리비닐카프롤락탐",
+        "INGR_ENG_NAME": "Polyvinylcaprolactam",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 비닐카프롤락탐의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "도데실헥사데칸올",
+        "INGR_ENG_NAME": "Dodecylhexadecanol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 가지사슬형 알코올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트20",
+        "INGR_ENG_NAME": "Polysorbate 20",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 20몰로 축합된 솔비톨안하이드라이드와 솔비톨의 라우레이트에스터의 혼합물이다. w+x+y+z는 평균 20이다.",
+        "INGR_SYNONYM": "폴리소르베이트20,폴리솔베이트 20"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트21",
+        "INGR_ENG_NAME": "Polysorbate 21",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 4몰로 축합된 솔비톨안하이드라이드와 솔비톨의 라우레이트에스터의 혼합물이다. w+x+y+z는 평균 4이다.",
+        "INGR_SYNONYM": "폴리소르베이트21"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트40",
+        "INGR_ENG_NAME": "Polysorbate 40",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 20몰로 축합된 솔비톨안하이드라이드와 솔비톨의 팔미테이트에스터의 혼합물이다. w+x+y+z는 평균 20이다.",
+        "INGR_SYNONYM": "폴리소르베이트40"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트60",
+        "INGR_ENG_NAME": "Polysorbate 60",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 20몰로 축합된 솔비톨안하이드라이드와 솔비톨의 스테아레이트에스터의 혼합물이다. w+x+y+z는 평균 20이다.",
+        "INGR_SYNONYM": "폴리소르베이트60"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트61",
+        "INGR_ENG_NAME": "Polysorbate 61",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 4몰로 축합된 솔비톨안하이드라이드와 솔비톨의 스테아레이트에스터의 혼합물로서 주로 다음의 구조를 갖는다. w+x+y+z는 평균 4이다.",
+        "INGR_SYNONYM": "폴리소르베이트61"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트65",
+        "INGR_ENG_NAME": "Polysorbate 65",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 트라이에스터로 구성되며 에틸렌옥사이드 약 20몰로 축합된 솔비톨안하이드라이드와 솔비톨의 스테아레이트에스터의 혼합물로서 주로 다음의 구조를 갖는다. w+x+y+z는 평균 20이다.",
+        "INGR_SYNONYM": "폴리소르베이트65"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트80",
+        "INGR_ENG_NAME": "Polysorbate 80",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 20몰로 축합된 솔비톨안하이드라이드와 솔비톨의 올리에이트에스터의 혼합물로서 주로 다음의 구조를 갖는다. w+x+y+z는 평균 20이다.",
+        "INGR_SYNONYM": "폴리소르베이트80"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트81",
+        "INGR_ENG_NAME": "Polysorbate 81",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 5몰로 축합된 솔비톨안하이드라이드와 솔비톨의 올리에이트에스터의 혼합물로서 주로 다음의 구조를 갖는다. w+x+y+z는 평균 5이다.",
+        "INGR_SYNONYM": "폴리소르베이트81"
+    },
+    {
+        "INGR_KOR_NAME": "폴리솔베이트85",
+        "INGR_ENG_NAME": "Polysorbate 85",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 모노에스터로 구성되며 에틸렌옥사이드 약 5몰로 축합된 솔비톨안하이드라이드와 솔비톨의 올리에이트에스터의 혼합물로서 주로 다음의 구조를 갖는다. w+x+y+z는 평균 5이다.",
+        "INGR_SYNONYM": "폴리소르베이트85"
+    },
+    {
+        "INGR_KOR_NAME": "폴리스타이렌",
+        "INGR_ENG_NAME": "Polystyrene",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "복숭아씨오일",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Kernel Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복사나무(Peach) Prunus persica의 커넬을 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": "도인오일"
+    },
+    {
+        "INGR_KOR_NAME": "폴리실리콘-8",
+        "INGR_ENG_NAME": "Polysilicone-8",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 실록산폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리실리콘-11",
+        "INGR_ENG_NAME": "Polysilicone-11",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 사이클로메치콘의 존재 하에 메칠하이드록시디메칠실록산과 비닐-터미네이티드실록산의 반응으로 얻은 가교된 실록산 고무이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리실리콘-14",
+        "INGR_ENG_NAME": "Polysilicone-14",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 실록세인 중합체이다. R 은 C6-10의 알킬 체인을 나타낸다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리실리콘-15",
+        "INGR_ENG_NAME": "Polysilicone-15",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록산 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리실리콘-17",
+        "INGR_ENG_NAME": "Polysilicone-17",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 트리클로로메칠실란, 트리클로로페닐실란 및 디클로로페닐실란에서 얻은 가교된 메칠페닐디페닐폴리실록산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아마이드-2",
+        "INGR_ENG_NAME": "Polyamide-2",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메칠살리실레이트로 말단이 치환된 디에칠렌트리아민, 디메칠글루타레이트, 디메칠테레프탈레이트 및 디메칠아디페이트를 축합하여 얻은 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아미노슈가축합물",
+        "INGR_ENG_NAME": "Polyamino Sugar Condensate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 프룩토오스, 갈락토오스, 글루코오스, 락토오스, 말토오스, 만노오스, 람노오스, 라이보오스 또는 자일로오스 중 일부 및 알라닌, 알지닌, 아스파틱애씨드, 글루타믹애씨드, 글라이신, 히스티딘, 하이드록시프롤린, 이소류신, 류신, 라이신, 메치오닌, 페닐알라닌, 프롤린, 파이로글루타믹애씨드, 세린, 트레오닌, 타이로신 또는 발린 중 일부의 혼합물을 축합하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아미노프로필바이구아나이드",
+        "INGR_ENG_NAME": "Polyaminopropyl Biguanide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-3",
+        "INGR_ENG_NAME": "Polyacrylate-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메타크릴릭애씨드, 메틸메타크릴레이트, 메틸스타이렌아이소프로필아이소시아네이트 및 피이지-40베헤네이트 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-4",
+        "INGR_ENG_NAME": "Polyacrylate-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조로 대표되는 아크릴릭모노머의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "복숭아씨추출물",
+        "INGR_ENG_NAME": "Prunus Persica (Peach) Kernel Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 복사나무(Peach) Prunus persica의 씨의 커넬에서 추출한 것이다.",
+        "INGR_SYNONYM": "도인추출물"
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-5",
+        "INGR_ENG_NAME": "Polyacrylate-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아크릴릭애씨드, 메타크릴릭애씨드, 또는 그것들의 단순한 에스터 중 하나 이상의 모노머와 스타이렌, 에틸헥실아크릴레이트 및 하이드록시에틸아크릴레이트의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-13",
+        "INGR_ENG_NAME": "Polyacrylate-13",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아크릴릭애씨드, 아크릴아마이드, 소듐아크릴레이트 및 소듐아크릴로일디메칠타우레이트 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-15",
+        "INGR_ENG_NAME": "Polyacrylate-15",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 n-부틸아크릴레이트, 에칠아크릴레이트, 메칠메타크릴레이트, 에칠렌, 메타크릴릭애씨드 및 스타이렌 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-17",
+        "INGR_ENG_NAME": "Polyacrylate-17",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 n-부틸아크릴레이트, 디에칠아미노에칠메타크릴레이트, 하이드록시에칠메타크릴레이트, 메칠메타크릴레이트 및 t-부틸아미노에칠메타크릴레이트의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-21",
+        "INGR_ENG_NAME": "Polyacrylate-21",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 2-에틸헥실아클릴레이트, 부틸메타크릴레이트, 메타크릴릭애씨드, 메틸메타크릴레이트, 하이드록시프로필메타크릴레이트 및 스타이렌의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트-22",
+        "INGR_ENG_NAME": "Polyacrylate-22",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아디픽애씨드와 네오펜틸글리이콜의 공중합체 및 아이소포론다이아이소네이트(아이피디아이)의 반응으로 복합 폴리머를 먼저 얻는다. 폴리머의 아이소시아네이트 그룹은 하이드록시에틸메타크릴레이트와 반응하고 에탄올로 담금질하여 잔류 우레탄 그룹을 제거한다. 마지막으로, 폴리머는 아크릴릭애씨드, 메타크릴릭애씨드 및 메틸메타크릴리에트와 공중합하고 아미노메틸프로판올(에이엠피)로 부분적으로 중화한다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴릭애씨드",
+        "INGR_ENG_NAME": "Polyacrylic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아크릴릭애씨드의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴아마이드",
+        "INGR_ENG_NAME": "Polyacrylamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아크릴아마이드모노머의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴아미도메틸프로판설포닉애씨드",
+        "INGR_ENG_NAME": "Polyacrylamidomethylpropane Sulfonic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아크릴아미도메틸프로판설포닉애씨드의 단독중합체이다.",
+        "INGR_SYNONYM": "폴리아크릴아미도메칠프로판설포닉애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "폴리C10-30알킬아크릴레이트",
+        "INGR_ENG_NAME": "Poly C10-30 Alkyl Acrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아크릴릭애씨드 및 C10-30알코올의 에스터의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "도코사헥사에노익애씨드",
+        "INGR_ENG_NAME": "Docosahexaenoic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 불포화애씨드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리에스터-1",
+        "INGR_ENG_NAME": "Polyester-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 t-부틸아크릴아마이드, 사이클로헥산디메탄올, 디에칠렌글라이콜, 이소프탈릭애씨드, 소듐이소프탈릭애씨드설포네이트 및 아크릴릭애씨드, 메타크릴릭애씨드 또는 그 단순에스터 중 한 개 이상의 모노머로 된 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리에스터-3",
+        "INGR_ENG_NAME": "Polyester-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에칠렌글라이콜, 테레프탈릭애씨드, 이소프탈릭애씨드, 사이클로헥산디메탄올 및 노보난디아민의 반응으로 얻은 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리에스터-4",
+        "INGR_ENG_NAME": "Polyester-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프로익애씨드, 헵타노익애씨드, 카프릴릭애씨드 및 카프릭애씨드로 말단이 치환된 아디픽애씨드 및 펜타에리스리톨을 축합하여 얻은 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리에스터-5",
+        "INGR_ENG_NAME": "Polyester-5",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 이소프탈릭애씨드와 설포이소프탈릭애씨드의 단순한 에스터, 디에칠렌글라이콜 및 1,4-사이클로헥산디메탄올의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리에스터-8",
+        "INGR_ENG_NAME": "Polyester-8",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 옥틸도데칸올 또는 시아노디페닐프로페노일기 중 하나로 말단이 치환된 아디픽애씨드 및 네오펜틸글라이콜의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리에틸렌",
+        "INGR_ENG_NAME": "Polyethylene",
+        "CAS_NO": "9002-88-4",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 에틸렌모노머의 중합체이다.",
+        "INGR_SYNONYM": "폴리에칠렌"
+    },
+    {
+        "INGR_KOR_NAME": "폴리에틸렌나프탈레이트",
+        "INGR_ENG_NAME": "Polyethylene Naphthalate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 폴리머이다.",
+        "INGR_SYNONYM": "폴리에칠렌나프탈레이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리에틸렌아디페이트",
+        "INGR_ENG_NAME": "Polyethylene adipate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": null,
+        "INGR_SYNONYM": "폴리에칠렌아디페이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리에틸렌테레프탈레이트",
+        "INGR_ENG_NAME": "Polyethylene Terephthalate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "폴리에칠렌테레프탈레이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리에칠렌/폴리에칠렌테레프탈레이트라미네이트가루",
+        "INGR_ENG_NAME": "Polyethylene/Polyethylene Terephthalate Laminated Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 폴리에칠렌과 폴리에칠렌테레프탈레이트의 적층필름에서 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "도토리추출물",
+        "INGR_ENG_NAME": "Quercus Acutissima Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 상수리나무 Quercus Acutissima의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리에틸메타크릴레이트",
+        "INGR_ENG_NAME": "Polyethylmethacrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 에틸메타크릴레이트의 중합체이다.",
+        "INGR_SYNONYM": "폴리에칠메타크릴레이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리에틸아크릴레이트",
+        "INGR_ENG_NAME": "Polyethylacrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 에틸아크릴레이트의 폴리머이다.",
+        "INGR_SYNONYM": "폴리에칠아크릴레이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리에톡실레이티드레틴아마이드",
+        "INGR_ENG_NAME": "Polyethoxylated Retinamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균분자량831의 폴리에톡실레이티드레틴아마이드(C23+2nH35+4nO2+nN)n)로 되어 있다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리옥시메틸렌우레아",
+        "INGR_ENG_NAME": "Polyoxymethylene Urea",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 우레아와 폼알데하이드를 반응하여 얻은것이다.",
+        "INGR_SYNONYM": "폴리옥시메칠렌우레아"
+    },
+    {
+        "INGR_KOR_NAME": "폴리옥시에틸렌글리세릴모노스테아레이트",
+        "INGR_ENG_NAME": "Polyoxyethylene Glyceryl Monostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 글리세릴모노스테아레이트의 유리수산기에 에칠렌옥사이드를 부가중합하여 만든 비이온 계면활성제이다.",
+        "INGR_SYNONYM": "폴리옥시에칠렌글리세릴모노스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "폴리옥시에칠렌하이드로제네이티드캐스터오일",
+        "INGR_ENG_NAME": "Polyoxyethylene Hydrogenated Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피마자오일의 2중결합에 수소를 첨가한 경화피마자유에 산화에칠렌을 부가중합하여 얻어지는 비이온계면활성제이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리우레탄-6",
+        "INGR_ENG_NAME": "Polyurethane-6",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소프탈릭애씨드, 아디픽애씨드, 헥실렌글라이콜, 네오펜틸글라이콜, 다이메틸올프로파노익애씨드, 아이소포론다이아이소시아네이트 및 비스-에틸아미노아이소부틸-다이메티콘 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리우레탄-7",
+        "INGR_ENG_NAME": "Polyurethane-7",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 헥실렌글라이콜, 네오펜틸글라이콜, 아디픽애씨드, 아이소포론 다이아이소시아네이트 및 다이메틸올프로파노익애씨드 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리우레탄-10",
+        "INGR_ENG_NAME": "Polyurethane-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 이소포론디이소시아네이트, 사이클로헥산디메탄올, 디메칠올부타노익애씨드, 폴리알킬렌글라이콜 및 N-메칠디에탄올아민 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리우레탄-11",
+        "INGR_ENG_NAME": "Polyurethane-11",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아디픽애씨드, 1,4-부탄디올, 이소프탈릭애씨드, 메칠렌비스-(4-사이클로헥실이소시아네이트), 네오펜틸글라이콜 및 트리메칠올프로판 모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "코토니추출물",
+        "INGR_ENG_NAME": "Kappaphycus Alvarezii Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조류의 일종인 코토니 Kappaphycus alvarezii에서 추출한 것이다.",
+        "INGR_SYNONYM": "도티추출물"
+    },
+    {
+        "INGR_KOR_NAME": "폴리우레탄-14",
+        "INGR_ENG_NAME": "Polyurethane-14",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 프로필렌옥사이드, 에칠렌옥사이드 및 피이지/피피지-17/3과 반응한 4,4‘-이소프로필리덴디페놀, 이소포론디이소시아네이트 및 디메칠올프로피오닉애씨드로 형성된 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리우레탄-15",
+        "INGR_ENG_NAME": "Polyurethane-15",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 이소포론디이소시아네이트, 아디픽애씨드, 트리에칠렌글라이콜 및 디메칠올프로파노익애씨드의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리이미드-1",
+        "INGR_ENG_NAME": "Polyimide-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에탄올과 물 혼합물에서 폴리(아이소부틸렌-알트-말레익안하이드라이드)를 메톡시-피이지/피피지-31/9-2-프로필아민 및 다이메틸아미노프로필아민과 반응하여 얻은 터폴리머로 이미드, 에스터 및 애씨드기를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아이소부텐",
+        "INGR_ENG_NAME": "Polyisobutene",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 일반적으로 다음의 구조를 갖는 아이소부틸렌의 호모폴리머이다.",
+        "INGR_SYNONYM": "폴리이소부텐"
+    },
+    {
+        "INGR_KOR_NAME": "폴리아이소프렌",
+        "INGR_ENG_NAME": "Polyisoprene",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소프렌의 폴리머이다.",
+        "INGR_SYNONYM": "폴리이소프렌"
+    },
+    {
+        "INGR_KOR_NAME": "폴리카프로락톤",
+        "INGR_ENG_NAME": "Polycaprolactone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 카프로락톤의 중합체이다.",
+        "INGR_SYNONYM": "폴리카프롤락톤"
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-2",
+        "INGR_ENG_NAME": "Polyquaternium-2",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-4",
+        "INGR_ENG_NAME": "Polyquaternium-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드록시에칠셀룰로오스와 디알릴디메칠암모늄클로라이드의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-6",
+        "INGR_ENG_NAME": "Polyquaternium-6",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 디메칠디알릴암모늄클로라이드의 폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-7",
+        "INGR_ENG_NAME": "Polyquaternium-7",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아크릴아마이드 및 디메칠디알릴암모늄클로라이드모노머로 구성된 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "개양귀비꽃잎추출물",
+        "INGR_ENG_NAME": "Papaver Rhoeas Petal Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 개양귀비 Papaver rhoeas의 꽃잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "독일가문비싹추출물",
+        "INGR_ENG_NAME": "Picea Abies Bud Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 독일가문비 Picea Abies의 싹에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-10",
+        "INGR_ENG_NAME": "Polyquaternium-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 트리메칠암모늄 치환 에폭사이드와 반응한 하이드록시에칠셀룰로오스의 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-11",
+        "INGR_ENG_NAME": "Polyquaternium-11",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 비닐피롤리돈과 디메칠아미노에칠메타크릴레이트의 공중합체와 디에칠설페이트의 반응으로 얻은 4급 암모늄폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-16",
+        "INGR_ENG_NAME": "Polyquaternium-16",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메칠비닐이미다졸륨클로라이드와 비닐피롤리돈으로 형성된 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-22",
+        "INGR_ENG_NAME": "Polyquaternium-22",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 디메칠디알릴암모늄클로라이드와 아크릴릭애씨드의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-24",
+        "INGR_ENG_NAME": "Polyquaternium-24",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라우릴디메칠암모늄 치환 에폭사이드와 반응한 하이드록시에칠셀룰로오스의 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-28",
+        "INGR_ENG_NAME": "Polyquaternium-28",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 비닐피롤리돈 및 디메칠아미노프로필메타크릴아마이드모노머로 구성된 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-30",
+        "INGR_ENG_NAME": "Polyquaternium-30",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 중합된 4급 암모늄 염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-32",
+        "INGR_ENG_NAME": "Polyquaternium-32",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 중합의 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-35",
+        "INGR_ENG_NAME": "Polyquaternium-35",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-37",
+        "INGR_ENG_NAME": "Polyquaternium-37",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "독일가문비잎오일",
+        "INGR_ENG_NAME": "Picea Abies Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 독일가문비 Picea Abies의 솔잎에서 얻은 휘발성오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리쿼터늄-39",
+        "INGR_ENG_NAME": "Polyquaternium-39",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아크릴릭애씨드, 디알릴디메칠암모늄클로라이드 및 아크릴아마이드의 중합된 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    }
+]

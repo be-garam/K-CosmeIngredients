@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "흑당밀가루",
+        "INGR_ENG_NAME": "Black Strap Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 사탕수수 당밀에서 얻은 것을 건조한 것이다.",
+        "INGR_SYNONYM": "흑설탕가루"
+    },
+    {
+        "INGR_KOR_NAME": "흑호두껍질추출물",
+        "INGR_ENG_NAME": "Juglans Nigra (Black Walnut) Shell Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 흑호두나무 (Juglans nigra)의 호두(씨)껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸아이소소바이드",
+        "INGR_ENG_NAME": "Dimethyl Isosorbide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 소비톨의 이성질체 무수물의 다이메틸에터이다.",
+        "INGR_SYNONYM": "디메칠이소소바이드"
+    },
+    {
+        "INGR_KOR_NAME": "흑호두잎추출물",
+        "INGR_ENG_NAME": "Juglans Nigra (Black Walnut) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 흑호두(Black Walnut) Juglans nigra의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "흑호두나무잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "제주진득찰추출물",
+        "INGR_ENG_NAME": "Sigesbeckia Orientalis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 제주진득찰 Sigesbeckia orientalis을 추출한 것이다.",
+        "INGR_SYNONYM": "희첨추출물"
+    },
+    {
+        "INGR_KOR_NAME": "신령버섯추출물",
+        "INGR_ENG_NAME": "Agaricus Blazei (Mushroom) Extract,Agaricus Blazeii Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 신령버섯 Agaricus blazei에서 추출한 것이다.",
+        "INGR_SYNONYM": "흰들버섯추출물"
+    },
+    {
+        "INGR_KOR_NAME": "흰목이버섯추출물",
+        "INGR_ENG_NAME": "Tremella Fuciformis (Mushroom) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 흰목이 (Tremella fuciformis)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "흰목이버섯폴리사카라이드",
+        "INGR_ENG_NAME": "Tremella Fuciformis Polysaccharide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 흰목이버섯 (Tremella fuciformis)에서 유래된 다당류 분획이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "흰무늬엉겅퀴추출물",
+        "INGR_ENG_NAME": "Silybum Marianum Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 흰무늬엉겅퀴 (Silybum marianum)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히노키티올",
+        "INGR_ENG_NAME": "Hinokitiol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 유기화합물이다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히더꽃추출물",
+        "INGR_ENG_NAME": "Calluna Vulgaris Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히더 (Calluna vulgaris)의 꽃봉오리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히더추출물",
+        "INGR_ENG_NAME": "Calluna Vulgaris Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히더 (Calluna vulgaris)의 전초에서 얻은 추출물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "통위드추출물",
+        "INGR_ENG_NAME": "Himanthalia Elongata Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조류의 일종인 통위드 Himanthalia elongata에서 추출한 것이다.",
+        "INGR_SYNONYM": "히만탈리아 엘롱가타추출물"
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸카프라마이드",
+        "INGR_ENG_NAME": "Dimethyl Capramide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디메칠카프라마이드"
+    },
+    {
+        "INGR_KOR_NAME": "히비스커스꽃",
+        "INGR_ENG_NAME": "Hibiscus Sabdariffa Flower",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히비스커스 (Hibiscus sabdariffa)의 꽃을 건조시켜 얻은 식물성 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히비스커스꽃가루",
+        "INGR_ENG_NAME": "Hibiscus Sabdariffa Flower Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히비스커스 (Hibiscus sabdariffa)의 꽃을 건조시켜 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히비스커스꽃추출물",
+        "INGR_ENG_NAME": "Hibiscus Sabdariffa Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히비스커스 (Hibiscus sabdariffa)의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히비스커스잎",
+        "INGR_ENG_NAME": "Hibiscus Sabdariffa Leaf",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히비스커스 (Hibiscus sabdariffa)의 잎을 건조, 분쇄시킨 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히솝잎오일",
+        "INGR_ENG_NAME": "Hyssopus Officinalis Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히솝 (Hyssopus officinalis)의 잎에서 추출한 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히솝추출물",
+        "INGR_ENG_NAME": "Hyssopus Officinalis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히솝 (Hyssopus officinalis)의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히스티딘",
+        "INGR_ENG_NAME": "Histidine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히스티딘에이치씨엘",
+        "INGR_ENG_NAME": "Histidine HCl",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아민염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "히아신스추출물",
+        "INGR_ENG_NAME": "Hyacinthus Orientalis (Hyacinth) Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 히아신스(Hyacinth) Hyacinthus orientalis의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "히아신스꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "송광납판화추출물",
+        "INGR_ENG_NAME": "Corylopsis Coreana Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 송광납판화 Corylopsis coreana의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "히어리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸코카민",
+        "INGR_ENG_NAME": "Dimethyl Cocamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 R기가 코코넛오일에서 얻은 다음의 구조를 갖는 3급 지방족 아민이다.",
+        "INGR_SYNONYM": "디메칠코카민"
+    },
+    {
+        "INGR_KOR_NAME": "힙시지구스 울마리우스균사체추출물",
+        "INGR_ENG_NAME": "Hypsizygus Ulmarius Mycelium Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Hypsizygus ulmarius의 균사체에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸톨릴아민",
+        "INGR_ENG_NAME": "Dimethyltolylamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디메칠톨릴아민"
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸파바미도프로필라우르다이모늄토실레이트",
+        "INGR_ENG_NAME": "DimethylPABAmidopropyl Laurdimonium Tosylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄 화합물이다.",
+        "INGR_SYNONYM": "디메칠파바미도프로필라우르디모늄토실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸페닐프로판올",
+        "INGR_ENG_NAME": "Dimethyl Phenylpropanol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디메칠페닐프로판올"
+    },
+    {
+        "INGR_KOR_NAME": "다이메톡시벤즈아미도페닐하이드록실아세타마이드",
+        "INGR_ENG_NAME": "Dimethoxybenzamido Phenylhydroxylacetamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음과 같은 구조를 가지는 유기화합물이다.",
+        "INGR_SYNONYM": "디메톡시벤즈아미도페닐하이드록실아세타마이드"
+    },
+    {
+        "INGR_KOR_NAME": "게르마늄다이옥사이드",
+        "INGR_ENG_NAME": "Germanium Dioxide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 갈탄추출물의 연소에 의해 생성된 무기화합물이다.",
+        "INGR_SYNONYM": "게르마늄디옥사이드"
+    },
+    {
+        "INGR_KOR_NAME": "다이메톡시실릴에틸렌다이아미노프로필다이메티콘",
+        "INGR_ENG_NAME": "Dimethoxysilyl Ethylenediaminopropyl Dimethicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록세인이다.",
+        "INGR_SYNONYM": "디메톡시실릴에칠렌디아미노프로필디메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "다이미리스틸타트레이트",
+        "INGR_ENG_NAME": "Dimyristyl Tartrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 미리스틸알코올과 타타릭애씨드의 다이에스터이며 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디미리스틸타트레이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이미리스틸포스페이트",
+        "INGR_ENG_NAME": "Dimyristyl Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포스포릭애씨드와 미리스틸알코올의 다이에스터의 복합혼합물이다.",
+        "INGR_SYNONYM": "디미리스틸포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이베헤닐푸마레이트",
+        "INGR_ENG_NAME": "Dibehenyl Fumarate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 베헤닐알코올과 푸마릭애씨드의 다이에스터이다. 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디베헤닐푸마레이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이벤질리덴솔비톨",
+        "INGR_ENG_NAME": "Dibenzylidene Sorbitol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 솔비톨이다.",
+        "INGR_SYNONYM": "디벤질리덴소르비톨"
+    },
+    {
+        "INGR_KOR_NAME": "다이부틸라우로일글루타마이드",
+        "INGR_ENG_NAME": "Dibutyl Lauroyl Glutamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 글루타믹애씨드다이아마이드이다. R은 부틸라디칼이며 R'CO는 라우릭애씨드라디칼이다.",
+        "INGR_SYNONYM": "디부틸라우로일글루타마이드"
+    },
+    {
+        "INGR_KOR_NAME": "다이부틸세바케이트",
+        "INGR_ENG_NAME": "Dibutyl Sebacate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부틸알코올과 세바식애씨드의 다이에스터이다. 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디부틸세바케이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이부틸아디페이트",
+        "INGR_ENG_NAME": "Dibutyl Adipate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부틸알코올과 아디픽애씨드의 다이에스터인 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디부틸아디페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이부틸에틸헥사노일글루타마이드",
+        "INGR_ENG_NAME": "Dibutyl Ethylhexanoyl Glutamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디부틸에칠헥사노일글루타마이드"
+    },
+    {
+        "INGR_KOR_NAME": "큰노랑용담뿌리추출물",
+        "INGR_ENG_NAME": "Gentiana Lutea Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 큰노랑용담 Gentiana lutea의 뿌리에서 추출한 것이다.<BR/>",
+        "INGR_SYNONYM": "겐티아나추출물"
+    },
+    {
+        "INGR_KOR_NAME": "다이-t-부틸하이드록시벤질리덴캠퍼",
+        "INGR_ENG_NAME": "Di-t-Butyl Hydroxybenzylidene Camphor",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디-t-부틸하이드록시벤질리덴캠퍼"
+    },
+    {
+        "INGR_KOR_NAME": "다이비닐다이메티콘/다이메티콘코폴리머",
+        "INGR_ENG_NAME": "Divinyldimethicone/Dimethicone Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록세인 중합체이다.",
+        "INGR_SYNONYM": "디비닐디메치콘/디메치콘코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "다이비닐다이메티콘/다이메티콘크로스폴리머",
+        "INGR_ENG_NAME": "Divinyldimethicone/Dimethicone Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이비닐다이메티콘으로 가교된 다이메티콘이다.",
+        "INGR_SYNONYM": "디비닐디메치콘/디메치콘크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "다이세테아릴다이머다이리놀리에이트",
+        "INGR_ENG_NAME": "Dicetearyl Dimer Dilinoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세테아릴알코올과 다이리놀에릭애씨드의 다이에스터이다.",
+        "INGR_SYNONYM": "디세테아릴다이머디리놀리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "디세틸디리놀리에이트",
+        "INGR_ENG_NAME": "Dicetyl Dilinoleates",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 디리놀레익애씨드 및 세틸알코올의 에스터다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이세틸다이모늄클로라이드",
+        "INGR_ENG_NAME": "Dicetyldimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "디세틸디모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "다이세틸포스페이트",
+        "INGR_ENG_NAME": "Dicetyl Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 세틸알코올과 포스포릭애씨드의 다이에스터의 복합혼합물이다.",
+        "INGR_SYNONYM": "디세틸포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐데세스-6설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Deceth-6 Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에톡실화된 데실알코올과 설포석시닉애씨드의 하프에스터의 다이소듐염이다. 주로 n이 평균 6인 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐데세스-6설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐다이글리세릴포스페이트",
+        "INGR_ENG_NAME": "Disodium Diglyceryl Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이글리세린의 포스포릭애씨드 다이에스터의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐디글리세릴포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐다이스티릴바이페닐다이설포네이트",
+        "INGR_ENG_NAME": "Disodium Distyrylbiphenyl Disulfonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐디스티릴바이페닐디설포네이트"
+    },
+    {
+        "INGR_KOR_NAME": "겨우살이잎추출물",
+        "INGR_ENG_NAME": "Viscum Album (Mistletoe) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 겨우살이(Mistletoe) Viscum album의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐다이카복시에틸코코프로필렌다이아민",
+        "INGR_ENG_NAME": "Disodium Dicarboxyethyl Cocopropylenediamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 R기가 코코넛 오일에서 얻은 알킬그룹인 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐디카복시에칠코코프로필렌디아민"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우레스설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Laureth Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설포석시닉애씨드의 에톡실화된 라우릴알코올 하프에스터의 다이소듐염이다. 주로 n이 평균 1-4인 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐라우레스설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우레스-7시트레이트",
+        "INGR_ENG_NAME": "Disodium Laureth-7 Citrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라우레스-7과 시트릭애씨드의 에스터의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐라우레스-7시트레이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우로암포다이아세테이트",
+        "INGR_ENG_NAME": "Disodium Lauroamphodiacetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 양쪽성 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐라우로암포디아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우로일글루타메이트",
+        "INGR_ENG_NAME": "Disodium Lauroyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐라우로일글루타메이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우리미노다이아세테이트",
+        "INGR_ENG_NAME": "Disodium Lauriminodiacetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 치환된 아세틱애씨드의 다이소듐염으로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐라우리미노디아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우리미노다이프로피오네이트토코페릴포스페이트",
+        "INGR_ENG_NAME": "Disodium Lauriminodipropionate Tocopheryl Phosphates",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 토코페릴포스페이트와 라우리미노다이프로피오닉애씨드의 반응으로 얻은 에스터의 복합혼합물의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐라우리미노디프로피오네이트토코페릴포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우릴설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Lauryl Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설포석시닉애씨드의 라우릴알코올 하프에스터의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐라우릴설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐라우릴포스페이트",
+        "INGR_ENG_NAME": "Disodium Lauryl Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라우릴포스페이트의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐라우릴포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐루티닐다이설페이트",
+        "INGR_ENG_NAME": "Disodium Rutinyl Disulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 루티닐다이설페이트의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐루티닐디설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "가시대나무수액",
+        "INGR_ENG_NAME": "Bambusa Arundinacea Juice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 가시대나무 Bambusa arundinacea의 연결부위를 압착하여 얻은 액체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "겨우살이추출물",
+        "INGR_ENG_NAME": "Viscum Album (Mistletoe) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 겨우살이(Mistletoe) Viscum album의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐리시놀레아미도엠이에이-설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Ricinoleamido MEA-Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설포석시닉애씨드의 치환된 에탄올아마이드 하프에스터의 다이소듐염이다. 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐리시놀레아미도엠이에이-설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐살리실포스페이트",
+        "INGR_ENG_NAME": "Disodium Salicylphosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐살리실포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐석시네이트",
+        "INGR_ENG_NAME": "Disodium Succinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 석시닉애씨드의 다이소듐염이다. 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐석시노일글리시레티네이트",
+        "INGR_ENG_NAME": "Disodium Succinoyl Glycyrrhetinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐석시노일글리시레티네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐2-설포라우레이트",
+        "INGR_ENG_NAME": "Disodium 2-Sulfolaurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐2-설포라우레이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐세틸페닐에터다이설포네이트",
+        "INGR_ENG_NAME": "Disodium Cetyl Phenyl Ether Disulfonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 α-헥사데센을 가진 설폰화된 다이페닐에터의 반응물의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐세틸페닐에텔디설포네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐스테아로일글루타메이트",
+        "INGR_ENG_NAME": "Disodium Stearoyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐스테아로일글루타메이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐아데노신트라이포스페이트",
+        "INGR_ENG_NAME": "Disodium Adenosine Triphosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아데노신 트라이포스페이트의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐아데노신트리포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐아스코빌설페이트",
+        "INGR_ENG_NAME": "Disodium Ascorbyl Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 황산화된 아스코빅애씨드의 다이소듐염으로서 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐아스코빌설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐엔에이디에이치",
+        "INGR_ENG_NAME": "Disodium NADH",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐엔에이디에이치"
+    },
+    {
+        "INGR_KOR_NAME": "호스래디시뿌리추출물",
+        "INGR_ENG_NAME": "Cochlearia Armoracia (Horseradish) Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 호스래디시(Horseradish) Cochlearia armoracia의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "겨자무뿌리추출물"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐올레스-3설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Oleth-3 Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설포석시닉애씨드의 올레스-3하프에스터의 다이소듐염이다. 주로 다음의 구조를 갖으며 n은 평균 3이다.",
+        "INGR_SYNONYM": "디소듐올레스-3설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐올레아미도미파-설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Oleamido MIPA-Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 설포석시닉애씨드의 치환된 아이소프로판올아마이드 하프에스터의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐올레아미도미파-설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐올레아미도피이지-2설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Oleamido PEG-2 Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설포석시닉애씨드의 피이지-2하프에스터의 모노올레일아마이드의 다이소듐염이다. 주로 다음의 구조를 갖으며 n은 평균2이다.",
+        "INGR_SYNONYM": "디소듐올레아미도피이지-2설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐이디티에이",
+        "INGR_ENG_NAME": "Disodium EDTA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 다이아민이다.",
+        "INGR_SYNONYM": "디소듐이디티에이"
+    },
+    {
+        "INGR_KOR_NAME": "디소듐이디티에이-카퍼",
+        "INGR_ENG_NAME": "Disodium EDTA-Copper",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이소듐이디티에이의 구리 킬레이트이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐코카미도미파-설포석시네이트",
+        "INGR_ENG_NAME": "Disodium Cocamido MIPA-Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설포석시닉애씨드의 치환된 아이소프로판올아마이드하프에스터의 다이소듐염로서 주로 다음의 구조를 갖는다. RCO-는 코코넛오일에서 얻은 지방산이다.",
+        "INGR_SYNONYM": "디소듐코카미도미파-설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐코코-글루코사이드시트레이트",
+        "INGR_ENG_NAME": "Disodium Coco-Glucoside Citrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 시트릭애씨드와 코코-글루코사이드의 에스터의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐코코-글루코사이드시트레이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐코코암포다이아세테이트",
+        "INGR_ENG_NAME": "Disodium Cocoamphodiacetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 양쪽성 유기화합물이다. 주로 RCO-는 코코넛오일에서 유래한 지방산이다.",
+        "INGR_SYNONYM": "디소듐코코암포디아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐코코암포다이프로피오네이트",
+        "INGR_ENG_NAME": "Disodium cocoamphodipropionate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 양쪽성 유기화합물이다. RCO-는 코코넛오일에서 유래된 지방산이다.",
+        "INGR_SYNONYM": "디소듐코코암포디프로피오네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐코코일글루타메이트",
+        "INGR_ENG_NAME": "Disodium Cocoyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글루타믹애씨드의 코코넛애씨드아마이드의 다이소듐염이다. 주로 RCO-가 코코넛오일에서 유래된 지방산인 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐코코일글루타메이트"
+    },
+    {
+        "INGR_KOR_NAME": "갓씨추출물",
+        "INGR_ENG_NAME": "Brassica Juncea (Brown Mustard) Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 갓(Brown Mustard) Brassica juncea의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": "겨자씨추출물"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐타트레이트",
+        "INGR_ENG_NAME": "Disodium Tartrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 타타릭애씨드의 다이소듐염이며 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐타트레이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐탈로우이미노다이프로피오네이트",
+        "INGR_ENG_NAME": "Disodium Tallowiminodipropionate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 치환된 프로피오닉애씨드의 다이소듐염이다. 주로 R이 탈로우에서 유래된 알킬그륩인 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐탈로우이미노디프로피오네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐C12-14알케스-2설포석시네이트",
+        "INGR_ENG_NAME": "Disodium C12-14 Alketh-2 Sulfosuccinate",
+        "CAS_NO": "68911-93-3(generic)",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에톡실화, 부분적 에스터화된 설포석시닉애씨드의 다이소듐염이다. 주로 R기가 C12-14 알킬그룹이고 n이 평균 2인 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "디소듐C12-14파레스-2설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐파이로포스페이트",
+        "INGR_ENG_NAME": "Disodium Pyrophosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": "디소듐파이로포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "디소듐페닐디벤즈이미다졸테트라설포네이트",
+        "INGR_ENG_NAME": "Disodium Phenyl Dibenzimidazole Tetrasulfonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로고리화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐포스페이트",
+        "INGR_ENG_NAME": "Disodium Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": "디소듐포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐플라빈아데닌다이뉴클레오타이드",
+        "INGR_ENG_NAME": "Disodium Flavine Adenine Dinucleotide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "디소듐플라빈아데닌디뉴클레오타이드"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐피이지-12다이메티콘설포석시네이트",
+        "INGR_ENG_NAME": "Disodium PEG-12 Dimethicone Sulfosuccinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피이지-12다이메티콘과 설포석시닉애씨드에서 얻은 모노에스터의 다이소듐염이다.",
+        "INGR_SYNONYM": "디소듐피이지-12디메치콘설포석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐하이드로제네이티드탈로우글루타메이트",
+        "INGR_ENG_NAME": "Disodium Hydrogenated Tallow Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 글루타믹애씨드의 하이드로제네이티드탈로우애씨드아마이드의 소듐염이다. RCO-는 하이드로제네이티드탈로우에서 유래한 지방산이다.",
+        "INGR_SYNONYM": "디소듐하이드로제네이티드탈로우글루타메이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이스타치포스페이트",
+        "INGR_ENG_NAME": "Distarch Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 전분과 소듐메타포스페이트의 가교결합에 의해 형성된 생성물이다.",
+        "INGR_SYNONYM": "디스타치포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "결명씨추출물",
+        "INGR_ENG_NAME": "Cassia Obtusifolia Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 결명 Cassia obtusifolia의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": "결명자추출물"
+    },
+    {
+        "INGR_KOR_NAME": "다이스테아다이모늄헥토라이트",
+        "INGR_ENG_NAME": "Disteardimonium Hectorite",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이스테아릴다이모늄클로라이드와 헥토라이트의 반응물이다.",
+        "INGR_SYNONYM": "디스테아디모늄헥토라이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이스테아레스-2라우로일글루타메이트",
+        "INGR_ENG_NAME": "Disteareth-2 Lauroyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아레스-2와 라우로일글루타믹애씨드의 다이에스터로서 주로 다음의 구조를 갖는다. n은 평균 2이다.",
+        "INGR_SYNONYM": "디스테아레스-2라우로일글루타메이트"
+    },
+    {
+        "INGR_KOR_NAME": "다이스테아레스-5라우로일글루타메이트",
+        "INGR_ENG_NAME": "Disteareth-5 Lauroyl Glutamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스테아레스-5와 라우로일글루타믹애씨드의 다이에스터로서 주로 다음의 구조를 갖는다. n은 평균 5이다.",
+        "INGR_SYNONYM": "디스테아레스-5라우로일글루타메이트"
+    }
+]

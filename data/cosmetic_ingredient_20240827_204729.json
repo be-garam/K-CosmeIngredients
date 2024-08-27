@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "아세틸살리실로일펜타펩타이드-33",
+        "INGR_ENG_NAME": "Acetylsalicyloyl Pentapeptide-33",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아세틸살리실릭애씨드 및 펜타펩타이드-33의 반응으로 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "할로시딘서브유닛에이아마이드/할로시딘서브유닛비아마이드",
+        "INGR_ENG_NAME": "Halocidin Subunit A Amide/Halocidin Subunit B Amide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 S-S결합에 의해 공유결합된 2개의 다른 서브유닛으로 구성된 할로시딘 유래 펩타이드이다. 이 펩타이드는 알라닌, 아스파라진, 시스테인, 글라이신, 글루타민, 히스티딘, 류신, 라이신, 트립토판 및 발린으로 구성된 38개의 아미노산으로 이루어져 있으며, C-말단은 아마이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "골잎수선캘러스추출물",
+        "INGR_ENG_NAME": "Narcissus Jonquilla Callus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 골잎수선 Narcissus jonquilla의 캘러스를 배양하여 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "달맞이꽃잎추출물",
+        "INGR_ENG_NAME": "Oenothera Biennis (Evening Primrose) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 달맞이꽃(Evening Primrose) Oenothera biennis의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카복시메틸알라닐다이설파이드케라틴",
+        "INGR_ENG_NAME": "Carboxymethyl Alanyl Disulfide Keratin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 울섬유를 탈지, 산화 및 환원하여 유리 티올기를 S-(카복시메틸)-3-알라닐다이설파이드 그룹으로 유도체화하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "순무씨추출물",
+        "INGR_ENG_NAME": "Brassica Rapa (Turnip) Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 순무 Brassica rapa의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "왜광대수염꽃/잎/줄기추출물",
+        "INGR_ENG_NAME": "Lamium Album Flower/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 왜광대수염 Lamium album의 꽃, 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메티오닐헥사펩타이드-40에스에이치-데카펩타이드-1트라이펩타이드-44알에이치-올리고펩타이드-1",
+        "INGR_ENG_NAME": "Methionyl Hexapeptide-40 sh-Decapeptide-1 Tripeptide-44 rh-Oligopeptide-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균에 의해 발효하여 생성된 단일사슬 재조합 융합펩타이드이다. 출발유전자는 헥사펩타이드-40, 에스에이치-데카펩타이드-1, 트라이펩타이드-44 및 알에이치-올리고펩타이드-1의 유전자를 융합하여 메티오닌 개시코드를 갖도록 합성한 것이다. 그 융합펩타이드는 73개의 아미노산이며, 그 아미노산은 20개의 표준 아미노산의 적절한 배열로 구성되어 있다.",
+        "INGR_SYNONYM": "메티오닐헥사펩타이드40-에스에이치데카펩타이드-1트라이펩타이드-44알에이치올리고펩타이드-1"
+    },
+    {
+        "INGR_KOR_NAME": "메티오닐헥사펩타이드-40에스에이치-데카펩타이드-1알에이치-폴리펩타이드-50",
+        "INGR_ENG_NAME": "Methionyl Hexapeptide-40 sh-Decapeptide-1 rh-Polypeptide-50",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균에 의해 발효하여 생성된 단일사슬 재조합 융합펩타이드이다. 출발유전자는 헥사펩타이드-40, 에스에이치-데카펩타이드-1 및 알에이치-폴리펩타이드-50의 유전자를 융합하여 메티오닌 개시코드를 갖도록 합성한 것이다. 그 융합펩타이드는 99개의 아미노산이며, 그 아미노산은 20개의 표준 아미노산의 적절한 배열로 구성되어 있다.",
+        "INGR_SYNONYM": "메티오닐헥사펩타이드40-에스에이치데카펩타이드-1알에이치폴리펩타이드-50"
+    },
+    {
+        "INGR_KOR_NAME": "메티오닐헥사펩타이드-40에스에이치-데카펩타이드-1트라이펩타이드-44알에이치폴리펩타이드-60",
+        "INGR_ENG_NAME": "Methionyl Hexapeptide-40 sh-Decapeptide-1 Tripeptide-44 rh-Polypeptide-60",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균에 의해 발효하여 생성된 단일사슬 재조합 융합펩타이드이다. 출발유전자는 헥사펩타이드-40, 에스에이치-데카펩타이드-1, 트라이펩타이드-44 및 알에이치-폴리펩타이드-60의 유전자를 융합하여 메티오닌 개시코드를 갖도록 합성한 것이다. 융합펩타이드는 173개의 아미노산, 그 아미노산은 20개의 표준 아미노산의 적절한 배열로 구성되어 있다.",
+        "INGR_SYNONYM": "메티오닐헥사펩타이드-40-에스에이치데카펩타이드-1트라이펩타이드-44알에이치폴리펩타이드-60"
+    },
+    {
+        "INGR_KOR_NAME": "메티오닐헥사펩타이드-40에스에이치-데카펩타이드-1트라이펩타이드-44알에이치-폴리펩타이드-3",
+        "INGR_ENG_NAME": "Methionyl Hexapeptide-40 sh-Decapeptide-1 Tripeptide-44 rh-Polypeptide-3",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균에 의해 발효하여 생성된 단일사슬 재조합 융합펩타이드이다. 출발유전자는 헥사펩타이드-40, 에스에이치-데카펩타이드-1, 트라이펩타이드-44 및 알에이치-폴리펩타이드-3의 유전자를 융합하여 메티오닌 개시코드를 갖도록 합성한 것이다. 그 융합펩타이드는 183개의 아미노산이며, 그 아미노산은 20개의 표준 아미노산의 적절한 배열로 구성되어 있다.",
+        "INGR_SYNONYM": "메티오닐헥사펩타이드40-에스에이치데카펩타이드-1트라이펩타이드-44알에이치-폴리펩타이드-3"
+    },
+    {
+        "INGR_KOR_NAME": "카페인카복실로일에스에이치-데카펩타이드-1",
+        "INGR_ENG_NAME": "Caffeine Carboxyloyl sh-Decapeptide-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에스에이치-데카펩타이드-1로 카페인카복실릭애씨드를 반응하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "포도캘러스추출물",
+        "INGR_ENG_NAME": "Vitis Vinifera (Grape) Callus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포도 Vitis vinifera의 캘러스를 배양하여 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "구기자나무캘러스추출물",
+        "INGR_ENG_NAME": "Lycium Chinense Callus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구기자나무 Lycium chinense의 캘러스를 배양하여 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "테트라하이드로퍼퓨릴메타크릴레이트",
+        "INGR_ENG_NAME": "Tetrahydrofurfuryl Methacrylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로사이클릭화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "부틸옥타노익애씨드",
+        "INGR_ENG_NAME": "Butyloctanoic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "에칠라우로일알지네이트하이드로클로라이드",
+        "INGR_ENG_NAME": "Ethyl Lauroyl Arginate HCl",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 염이다.",
+        "INGR_SYNONYM": "에틸라우로일알지네이트에이치씨엘"
+    },
+    {
+        "INGR_KOR_NAME": "마위테누스 마크로카르파나무껍질추출물",
+        "INGR_ENG_NAME": "Maytenus Macrocarpa Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Maytenus Macrocarpa의 나무껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": "마위테누스 마크로카르파껍질추출물"
+    },
+    {
+        "INGR_KOR_NAME": "라즈베리잎세포배양물",
+        "INGR_ENG_NAME": "Rubus Idaeus Leaf Cell Culture",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라즈베리 Rubus idaeus의 잎세포를 배양한 현탁액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "실베스트리스꽃담배잎세포배양물",
+        "INGR_ENG_NAME": "Nicotiana Sylvestris Leaf Cell Culture",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실베스트리스꽃담배 Nicotiana sylvestris의 잎세포를 배양한 현탁액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "효모/아르간커넬오일발효여과물",
+        "INGR_ENG_NAME": "Saccharomyces/Argania Spinosa Kernel Oil Ferment Filtrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 효모로 아르간커넬오일을 발효하여 여과한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "효모/로즈힙열매오일발효여과물",
+        "INGR_ENG_NAME": "Saccharomyces/Rosa Canina Fruit Oil Ferment Filtrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 효모로 로즈힙열매오일을 발효하여 여과한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "태반추출물",
+        "INGR_ENG_NAME": "Placental Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 동물 태반에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "측백나무수",
+        "INGR_ENG_NAME": "Thuja Orientalis Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 측백나무 Thuja orientalis의 전체를 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "물냉이잎/줄기추출물",
+        "INGR_ENG_NAME": "Nasturtium Officinale Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 물냉이 Nasturtium officinale의 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "확정세포배양액10",
+        "INGR_ENG_NAME": "Defined Cell Culture Media 10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알지닌, 아스파라진, 아스파틱애씨드, 부틸렌글라이콜, 에틸헥실글리세린, 글루타믹애씨드, 글루타민, 글라이신, 이노시톨, 아이소류신, 류신, 메티오닌, 페녹시에탄올, 페닐알라닌, 프롤린, 세린, 트레오닌 및 발린으로 구성된 세포배양액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "윤판나물아재비잎추출물",
+        "INGR_ENG_NAME": "Disporum Sessile Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 윤판나물아재비 Disporum sessile의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리글리세릴-10카프레이트",
+        "INGR_ENG_NAME": "Polyglyceryl-10 Caprate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릭애씨드와 폴리글리세린-10의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "밤부사 불가리스꽃추출물",
+        "INGR_ENG_NAME": "Bambusa Vulgaris Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Bambusa vulgaris의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "효모/회화나무꽃봉오리발효여과물",
+        "INGR_ENG_NAME": "Saccharomyces/Sophora Japonica Bud Ferment Filtrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 효모로 회화나무 Sophora japonica의 꽃봉오리를 발효하여 여과한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "효모/몰타버섯발효여과물",
+        "INGR_ENG_NAME": "Saccharomyces/Cynomorium Coccineum Ferment Filtrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 효모로 몰타버섯 Cynomorium coccineum을 발효하여 여과한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "인삼캘러스추출물",
+        "INGR_ENG_NAME": "Panax Ginseng Callus Extract",
+        "CAS_NO": "72480-62-7\r,1449115-64-3",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인삼 Panax ginseng의 배양된 캘러스에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "인삼캘러스배양액",
+        "INGR_ENG_NAME": "Panax Ginseng Callus Culture Conditioned Media",
+        "CAS_NO": "72480-62-7\r,1449115-64-3",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인삼 Panax ginseng의 캘러스를 분리하여 수일간 배양한 후 제거한 성장배지이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "셀러리줄기추출물",
+        "INGR_ENG_NAME": "Apium Graveolens (Celery) Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 셀러리(Celery) Apium graveolens의 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메도우스위트뿌리추출물",
+        "INGR_ENG_NAME": "Spiraea Ulmaria Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메도우스위트 Spiraea ulmaria의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "비누풀추출물",
+        "INGR_ENG_NAME": "Saponaria Officinalis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 비누풀 Saponaria officinalis의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메티오닐알-클로스트리듐 보툴리눔폴리펩타이드-1헥사펩타이드-40",
+        "INGR_ENG_NAME": "Methionyl r-Clostridium Botulinum Polypeptide-1 Hexapeptide-40",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균으로 발효하여 얻은 단일사슬 재조합 융합 펩타이드이다. 출발유전자는 r-클로스트리듐보툴리늄폴리펩타이드-1과 헥사펩타이드-40에서 얻은 유전자를 융합하여 합성한 것으로 메티오닌을 개시코돈으로 갖는다. 융합된 펩타이드는 469개의 아미노산으로 구성되어 있다. 그 펩타이드를 구성하는 아미노산은 표준아미노산이다.",
+        "INGR_SYNONYM": "메티오닐r-클로스트리듐보툴리늄폴리펩타이드-1헥사펩타이드-40"
+    },
+    {
+        "INGR_KOR_NAME": "골든베리열매즙",
+        "INGR_ENG_NAME": null,
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 골든베리 Physalis peruviana의 열매를 압착하여 얻은 즙이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드녹차추출물",
+        "INGR_ENG_NAME": null,
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 녹차추출물을 가수분해한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드홍삼추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Ginseng Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 홍삼추출물을 가수분해한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "바질뿌리추출물",
+        "INGR_ENG_NAME": "Ocimum Basilicum (Basil) Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 바질(Basil) Ocimum basilicum의 뿌리를 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드롤라이즈드토마토추출물",
+        "INGR_ENG_NAME": "Hydrolyzed Lycopersicon Esculentum Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 산, 효소 또는 다른 방법으로 토마토추출물을 가수분해한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "에틸렌/소듐아크릴레이트코폴리머",
+        "INGR_ENG_NAME": "Ethylene/Sodium Acrylate Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌과 소듐아크릴레이트의 중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하수오캘러스추출물",
+        "INGR_ENG_NAME": "Polygonum Multiflorum Callus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하수오 Polygonum multiflorum의 캘러스를 배양하여 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망태버섯추출물",
+        "INGR_ENG_NAME": "Dictyophora Indusiata (Mushroom) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망태버섯(Mushroom) Dictyophora indusiata의 전체에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아스퍼질러스/병풀잎/줄기추출물/금사연둥지추출물발효여과물",
+        "INGR_ENG_NAME": "Aspergillus/Centella Asiatica Leaf/Stem Extract/Swiftlet Nest Extract Ferment Filtrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 미생물의 일종인 아스퍼질러스로 병풀잎/줄기추출물 및 금사연둥지추출물을 발효하여 여과 한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "칼슘포스포릴올리고사카라이드",
+        "INGR_ENG_NAME": "Calcium Phosphoryl Oligosaccharides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 감자전분의 부분 가수분해로 얻은 포스포릴올리고사카라이드의 칼슘염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "하이드로플루오로카본134에이",
+        "INGR_ENG_NAME": "Hydrofluorocarbon 134a",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 할로카본이다.",
+        "INGR_SYNONYM": "하이드로플루오로카본 134a"
+    },
+    {
+        "INGR_KOR_NAME": "포도덩굴수액",
+        "INGR_ENG_NAME": "Vitis Vinifera (Grape) Vine Sap",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포도(Grape) Vitis vinifera의 덩굴에서 얻은 수액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "에스에이치-올리고펩타이드-4",
+        "INGR_ENG_NAME": "sh-Oligopeptide-4",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균을 발효하여 얻은 단일사슬 합성휴먼펩타이드이다. 출발유전자는 티모신 베타 4(Thymosin Beta 4)을 코딩하는 인간 유전자와 동일한 코드를 갖도록 합성된 것으로 그대로 사용하거나 생산숙주에 적합하게 개조된 것이다. 이것은 글라이코실화 및/또는 다이설파이드결합을 포함할 수 있는 최대 44개의 아미노산으로 구성되어 있다. 그 단백질을 구성하는 아미노산의 종류는 표준아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "에스에이치-폴리펩타이드-62",
+        "INGR_ENG_NAME": "sh-Polypeptide-62",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균을 발효하여 얻은 단일사슬 합성휴먼펩타이드이다. 출발유전자는 간세포성장인자(Hepatocyte Growth Factor)을 코딩하는 인간 유전자와 동일한 코드를 갖도록 합성된 것으로 그대로 사용하거나 생산숙주에 적합하게 개조된 것이다. 이것은 글라이코실화 및/또는 다이설파이드결합을 포함할 수 있는 최대 728개의 아미노산으로 구성되어 있다. 그 단백질을 구성하는 아미노산의 종류는 표준아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "에스에이치-폴리펩타이드-66",
+        "INGR_ENG_NAME": "sh-Polypeptide-66",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균을 발효하여 얻은 단일사슬 합성휴먼펩타이드이다. 출발유전자는 시르투인 1(Sirtuin 1)을 코딩하는 인간 유전자와 동일한 코드를 갖도록 합성된 것으로 그대로 사용하거나 생산숙주에 적합하게 개조된 것이다. 이것은 글라이코실화 및/또는 다이설파이드결합을 포함할 수 있는 최대 747개의 아미노산으로 구성되어 있다. 그 단백질을 구성하는 아미노산의 종류는 표준아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "에스에이치-폴리펩타이드-74",
+        "INGR_ENG_NAME": "sh-Polypeptide-74",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대장균을 발효하여 얻은 단일사슬 합성휴먼펩타이드이다. 출발유전자는 뉴로트로핀-3(Neurotrophin-3)을 코딩하는 인간 유전자와 동일한 코드를 갖도록 합성된 것으로 그대로 사용하거나 생산숙주에 적합하게 개조된 것이다. 이것은 글라이코실화 및/또는 다이설파이드결합을 포함할 수 있는 최대 257개의 아미노산으로 구성되어 있다. 그 단백질을 구성하는 아미노산의 종류는 표준아미노산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "푸에라린",
+        "INGR_ENG_NAME": "Puerarin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "확정세포배양액11",
+        "INGR_ENG_NAME": "Defined Cell Culture Media 11",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 알라닌, 알지닌에이치씨엘, 아스파라진에이치씨엘, 아스파틱애씨드, 비오틴, 칼슘클로라이드, 시스테인에이치씨엘, 시스테인, D-글루코오스, 다이소듐포스페이트, 페릭시트레이트, 폴릭애씨드, 글루타믹애씨드, 글루타민, 글라이신, 히스티딘, 이노시톨, 아이소류신, 류신, 리놀레익애씨드, 라이신, 마그네슘클로라이드, 마그네슘설페이트, 메티오닌, 나이아신아마이드, 올레익애씨드, 페닐알라닌, 포타슘클로라이드, 프롤린, 피리독신에이치씨엘, 리보플라빈, 세린, 소듐바이카보네이트, 소듐클로라이드, 소듐포스페이트, 소듐파이루베이트, 티아민에이치씨엘, 트레오닌, 트립토판, 타이로신, 발린 및 징크설페이트로 구성된 세포배양액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "병풀잎세포추출물",
+        "INGR_ENG_NAME": "Centella Asiatica Leaf Cell Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 병풀 Centella asiatica의 잎세포를 배양하여 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "옥시다이즈드글루타티온",
+        "INGR_ENG_NAME": "Oxidized Glutathione",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글루타티온과 산소의 반응으로 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "콩싹추출물",
+        "INGR_ENG_NAME": "Glycine Max (Soybean) Sprout Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 콩(Soybean) Glycine max의 싹에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "폴리아크릴레이트크로스폴리머-11",
+        "INGR_ENG_NAME": "Polyacrylate Crosspolymer-11",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메타크릴릭애씨드, 아크릴로일다이메틸타우레이트 및 다이메틸아크릴아마이드의 중합체가 피피지-3글리세릴트라이아크릴레이트로 가교되고, 일부가 암모니아로 중화된 것으로 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "퀼린드로테카 푸시포르미스추출물",
+        "INGR_ENG_NAME": "Cylindrotheca Fusiformis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조류의 일종인 Cylindrotheca fusiformis에서 추출한 것이다.",
+        "INGR_SYNONYM": "킬린드로테카 푸시포르미스추출물"
+    },
+    {
+        "INGR_KOR_NAME": "인삼부정근배양오일",
+        "INGR_ENG_NAME": "Panax Ginseng Adventitious Root Culture Oil",
+        "CAS_NO": "72480-62-7\r,1449115-64-3",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인삼 Panax ginseng의 부정근 뿌리세포를 배양하여 얻은 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "악어오일",
+        "INGR_ENG_NAME": "Crocodile Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 악어 지방을 가열, 여과하여 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "상어지느러미추출물",
+        "INGR_ENG_NAME": "Shark Fin Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 상어(청상아리 Isurus oxyrinchus)의 지느러미에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아르트로스피라 플라텐시스추출물",
+        "INGR_ENG_NAME": "Arthrospira Platensis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조류의 일종인 Arthrospira platensis를 배양하여 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "사이티딘",
+        "INGR_ENG_NAME": "Cytidine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로고리화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "트라이메틸사이클로헥실부틸카바메이트",
+        "INGR_ENG_NAME": "Trimethylcyclohexyl Butylcarbamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이미다졸리디논",
+        "INGR_ENG_NAME": "Imidazolidinone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "티이에이-설페이트",
+        "INGR_ENG_NAME": "TEA-Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 설퓨릭애씨드의 트라이에탄올아민염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메톡시폴리옥시메틸렌멜라민",
+        "INGR_ENG_NAME": "Methoxypolyoxymethylene Melamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메탄올과 폴리옥시메틸렌멜라민의 반응으로 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-13선플라워글리세라이즈",
+        "INGR_ENG_NAME": "PEG-13 Sunflower Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에톡실화값이 평균 13을 갖는 해바라기씨오일의 모노 및 다이글리세라이드의 폴리에틸렌글라이콜의 유도체이다.",
+        "INGR_SYNONYM": "피이지-13선플라워글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "실버위드추출물",
+        "INGR_ENG_NAME": "Potentilla Anserina Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실버위드 Potentilla anserina의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "족제비쑥꽃/잎/줄기추출물",
+        "INGR_ENG_NAME": "Matricaria Discoidea Flower/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 족제비쑥 Matricaria discoidea의 꽃, 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "효모/카엠프페리아 파르비플로라뿌리줄기발효추출여과물",
+        "INGR_ENG_NAME": "Saccharomyces/Kaempferia Parviflora Rhizome Ferment Extract Filtrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 효모로 Kaempferia parviflora의 뿌리줄기를 발효하여 추출하고 여과한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "라케모사두릅추출물",
+        "INGR_ENG_NAME": "Aralia Racemosa Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라케모사두릅 Aralia racemosa의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "벌사상자씨가루",
+        "INGR_ENG_NAME": "Cnidium Monnieri Seed Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 벌사상자 Cnidium monnieri의 씨를 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메틸올리에이트/팔미테이트/리놀리에이트/스테아레이트",
+        "INGR_ENG_NAME": "Methyl Oleate/Palmitate/Linoleate/Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익, 팔미틱, 리놀레익 및 스테아릭애씨드의 혼합물의 메틸에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸글루타레이트",
+        "INGR_ENG_NAME": "Dimethyl Glutarate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸알코올과 글루타릭애씨드의 다이에스터로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이메틸아디페이트",
+        "INGR_ENG_NAME": "Dimethyl Adipate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸알코올과 아디픽애씨드의 다이에스터로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다이소듐테트라메틸헥사데세닐석시노일시스테인",
+        "INGR_ENG_NAME": "Disodium Tetramethylhexadecenyl Succinoyl Cysteine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소듐폴리아크릴레이트크로스폴리머-1",
+        "INGR_ENG_NAME": "Sodium Polyacrylate Crosspolymer-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실리콘하이드라이드 그룹을 함유하며 말단이 메타크릴레이트로 치환된 폴리다이메틸실록세인폴리머와 피이지-18/피피지-17알릴에터의 반응으로 얻은 실리콘 코폴리머를 소듐하이드록사이드가 함유된 물에 분산시키고, 메타크릴릭애씨드 및 메타크릴로일피피지-6포스페이트와 최종 반응하여 얻은 복합교차중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "감마-운데카락톤",
+        "INGR_ENG_NAME": "Gamma-Undecalactone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로고리 화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "페닐아이소헥산올",
+        "INGR_ENG_NAME": "Phenylisohexanol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "글리세릴운데실다이메티콘",
+        "INGR_ENG_NAME": "Glyceryl Undecyl Dimethicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 실록세인중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "클로로제닉애씨드",
+        "INGR_ENG_NAME": "Chlorogenic Acids",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 3-카페오일퀴닉애씨드의 하나 이상의 이성질체이다. 이것은 쌍떡잎 식물의 열매와 잎, 볶지않은 커피콩(생두)에서 분리된 것이다. 주요 성분은 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "구름국화추출물",
+        "INGR_ENG_NAME": null,
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구름국화 Erigeron thunbergii의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "두메자운추출물",
+        "INGR_ENG_NAME": null,
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 두메자운 Oxytropis anetii의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스노베리열매추출물",
+        "INGR_ENG_NAME": "Symphoricarpos Albus Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스노베리(snowberry) Symphoricarpos albus의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "엔테로코쿠스 파에키움/덕다리버섯균사체/호장근뿌리추출물발효여과물",
+        "INGR_ENG_NAME": "Enterococcus Faecium/Laetiporus Sulphureus Mycelium/Polygonum Cuspidatum Root Extract Ferment Filtrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 미생물의 일종인 Enterococcus faecium으로 덕다리버섯 Laetiporus sulphureus의 균사체 및 호장근뿌리추출물을 발효하여 여과한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "인체치아치수줄기세포배양액",
+        "INGR_ENG_NAME": "Human Tooth Pulp Stem Cell Conditioned Media",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인간의 치아치수줄기세포를 수일간 배양한 후 제거한 성장 배지에서 추출한 것이다. 개시 배지는 Dulbecco's Modified Eagle Medium으로, fetal bovine serum을 포함할 수도 있다.",
+        "INGR_SYNONYM": "인간잇속줄기세포배양액"
+    },
+    {
+        "INGR_KOR_NAME": "현삼추출물",
+        "INGR_ENG_NAME": "Scrophularia Buergeriana Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 현삼 Scrophularia buergeriana의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "큰노랑꽃자리풀하이드록시프로필트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Trigonella Foenum-Graecum Hydroxypropyltrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급암모늄염이며 R은 큰노랑꽃자리풀 Trigonella foenum-graecum에서 유래한 검이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메틸펜탄다이올다이네오펜타노에이트",
+        "INGR_ENG_NAME": "Methylpentanediol Dineopentanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "세라마이드엔지",
+        "INGR_ENG_NAME": "Ceramide NG",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포화 또는 불포화 지방산이 결합된 D-에리스로 구조를 갖는 스핑가닌이 함유된 N-아실레이티드스핑고리피드로, 구명칭은 세라마이드2이다. 세라마이드2의 정의가 광범위하게 스핑고신 또는 다이하이드로스핑고신(스핑가닌)으로 구성된 스핑고리피드를 포함한다는 것과 달리, 이 원료는 스핑가닌으로 구성된 세라마이드로 한정한다.",
+        "INGR_SYNONYM": "세라마이드2"
+    },
+    {
+        "INGR_KOR_NAME": "줄맨드라미추출물",
+        "INGR_ENG_NAME": "Amaranthus Caudatus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 줄맨드라미 Amaranthus caudatus의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "포타슘타트레이트",
+        "INGR_ENG_NAME": "Potassium Tartrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 타타릭애씨드의 포타슘염으로 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "꽃가루",
+        "INGR_ENG_NAME": "Pollen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 꽃이 피는 식물의 꽃밥속에 들어 있는 가루모양의 생식세포이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "빅벨리해마추출물",
+        "INGR_ENG_NAME": null,
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 빅벨리해마 Hippocampus abdominalis에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "센티드제라늄잎오일",
+        "INGR_ENG_NAME": "Pelargonium Graveolens Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 센티드제라늄 Pelargonium graveolens의 잎에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "중국체이스트트리추출물",
+        "INGR_ENG_NAME": "Vitex Negundo Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 중국체이스트트리 Vitex negundo의 전체에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "목면꽃추출물",
+        "INGR_ENG_NAME": "Bombax Malabaricum Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 목면 Bombax malabaricum의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    }
+]

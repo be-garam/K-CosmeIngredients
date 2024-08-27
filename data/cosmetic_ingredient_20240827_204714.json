@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "피이지-80솔비탄라우레이트",
+        "INGR_ENG_NAME": "PEG-80 Sorbitan Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 80몰의 에틸렌옥사이드에 라우릭애씨드의 에톡실화 된 솔비탄모노머이다.",
+        "INGR_SYNONYM": "피이지-80소르비탄라우레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-6솔비탄스테아레이트",
+        "INGR_ENG_NAME": "PEG-6 Sorbitan Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 6몰인 스테아릭애씨드의 에톡실화 된 솔비탄에스터이다",
+        "INGR_SYNONYM": "피이지-6소르비탄스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-60솔비탄스테아레이트",
+        "INGR_ENG_NAME": "PEG-60 Sorbitan Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 60몰인 스테아릭애씨드의 에톡실화 된 솔비탄 에스터이다.",
+        "INGR_SYNONYM": "피이지-60소르비탄스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-6솔비탄올리에이트",
+        "INGR_ENG_NAME": "PEG-6 Sorbitan Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 6몰인 올레익애씨드의 에톡실화 된 솔비탄에스터이다.",
+        "INGR_SYNONYM": "피이지-6소르비탄올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-20솔비탄아이소스테아레이트",
+        "INGR_ENG_NAME": "PEG-20 Sorbitan Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 이소스테아릭애씨드의 에톡실화 된 솔비탄모노에스터로 에틸렌옥사이드는 평균 20 몰이다.",
+        "INGR_SYNONYM": "피이지-20소르비탄이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-20솔비탄코코에이트",
+        "INGR_ENG_NAME": "PEG-20 Sorbitan Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 코코넛애씨드의 에톡실화 된 솔비탄에스터로 에틸렌옥사이드는 평균 20몰이다.",
+        "INGR_SYNONYM": "피이지-20소르비탄코코에이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-30솔비탄테트라올리에이트",
+        "INGR_ENG_NAME": "PEG-30 Sorbitan Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 30몰인 솔비톨의 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "피이지-30소르비탄테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-40솔비탄테트라올리에이트",
+        "INGR_ENG_NAME": "PEG-40 Sorbitan Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 40몰의 에틸렌옥사이드를 갖는 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "피이지-40소르비탄테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-60솔비탄테트라올리에이트",
+        "INGR_ENG_NAME": "PEG-60 Sorbitan Tetraoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에틸렌옥사이드가 평균 60몰인 솔비톨의 폴리에틸렌글라이콜에터와 올레익애씨드의 테트라에스터이다.",
+        "INGR_SYNONYM": "피이지-60소르비탄테트라올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-160솔비탄트라이아이소스테아레이트",
+        "INGR_ENG_NAME": "PEG-160 Sorbitan Triisostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 솔비톨의 폴리에틸렌글라이콜에터와 아이소스테아릭애씨드의 트라이에스터로 에틸렌옥사이드는 평균 160몰이다.",
+        "INGR_SYNONYM": "피이지-160소르비탄트리이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-40솔비탄페롤리에이트",
+        "INGR_ENG_NAME": "PEG-40 Sorbitan Peroleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 40몰의 에틸렌옥사이드로 축합된 솔비톨의 올레익애씨드 에스터의 혼합물이다.",
+        "INGR_SYNONYM": "피이지-40소르비탄페롤리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-5소이스테롤",
+        "INGR_ENG_NAME": "PEG-5 Soy Sterol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 5몰의 에칠렌옥사이드를 함유한 콩오일에서 얻은 스테롤의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "거머리추출물",
+        "INGR_ENG_NAME": "Hirudinea Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 거머리 Hirudinea에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-10소이스테롤",
+        "INGR_ENG_NAME": "PEG-10 Soy Sterol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 10몰의 에칠렌옥사이드를 함유한 콩오일에서 얻은 스테롤의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-16소이스테롤",
+        "INGR_ENG_NAME": "PEG-16 Soy Sterol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 16몰의 에칠렌옥사이드를 함유한 콩오일에서 얻은 스테롤의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-20소이스테롤",
+        "INGR_ENG_NAME": "PEG-20 Soy Sterol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 에칠렌옥사이드가 평균 20몰인 돌콩 Glycine soja 오일에서 얻은 스테롤의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-25소이스테롤",
+        "INGR_ENG_NAME": "PEG-25 Soy Sterol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 25몰의 에칠렌옥사이드를 함유한 콩오일에서 얻은 스테롤의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-30소이스테롤",
+        "INGR_ENG_NAME": "PEG-30 Soy Sterol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 30몰의 에칠렌옥사이드를 함유한 콩오일에서 얻은 스테롤의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-5소이아민",
+        "INGR_ENG_NAME": "PEG-5 Soyamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소이애씨드의 폴리에칠렌글라이콜아민이다. x+y는 평균 5이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-75시어버터글리세라이즈",
+        "INGR_ENG_NAME": "PEG-75 Shea Butter Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 75몰의 에틸렌옥사이드를 함유한 시어버터로부터 유래된 글리세라이드의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-75쉐어버터글리세라이드,피이지-75시어버터글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-4스테아라마이드",
+        "INGR_ENG_NAME": "PEG-4 Stearamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜아마이드이다. n은 평균 4이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-2스테아라민",
+        "INGR_ENG_NAME": "PEG-2 Stearamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릴아민의 폴리에칠렌글라이콜 유도체이다. x+y는 평균 2이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-15스테아라민",
+        "INGR_ENG_NAME": "PEG-15 Stearamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릴아민의 폴리에칠렌글라이콜 유도체이다. x+y는 평균 15이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "드로메트리졸",
+        "INGR_ENG_NAME": "Drometrizole",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 가진 벤조트라이아졸 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-50스테아라민",
+        "INGR_ENG_NAME": "PEG-50 Stearamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릴아민의 폴리에칠렌글라이콜 유도체이다. x+y는 평균 50이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-2스테아레이트",
+        "INGR_ENG_NAME": "PEG-2 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 2이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-3스테아레이트",
+        "INGR_ENG_NAME": "PEG-3 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 3이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-4스테아레이트",
+        "INGR_ENG_NAME": "PEG-4 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 4이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-6스테아레이트",
+        "INGR_ENG_NAME": "PEG-6 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 6이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-7스테아레이트",
+        "INGR_ENG_NAME": "PEG-7 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 7이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-8스테아레이트",
+        "INGR_ENG_NAME": "PEG-8 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 8이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-9스테아레이트",
+        "INGR_ENG_NAME": "PEG-9 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 9이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-10스테아레이트",
+        "INGR_ENG_NAME": "PEG-10 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 10이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-12스테아레이트",
+        "INGR_ENG_NAME": "PEG-12 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 12이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "드로메트리졸트리실록산",
+        "INGR_ENG_NAME": "Drometrizole Trisiloxane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 가진 헤테로고리 화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-20스테아레이트",
+        "INGR_ENG_NAME": "PEG-20 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 20이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-23스테아레이트",
+        "INGR_ENG_NAME": "PEG-23 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 23이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-25스테아레이트",
+        "INGR_ENG_NAME": "PEG-25 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 25이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-30스테아레이트",
+        "INGR_ENG_NAME": "PEG-30 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 30이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-32스테아레이트",
+        "INGR_ENG_NAME": "PEG-32 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 32이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-40스테아레이트",
+        "INGR_ENG_NAME": "PEG-40 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 40이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-45스테아레이트",
+        "INGR_ENG_NAME": "PEG-45 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 45이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-50스테아레이트",
+        "INGR_ENG_NAME": "PEG-50 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 50이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-55스테아레이트",
+        "INGR_ENG_NAME": "PEG-55 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 55이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-75스테아레이트",
+        "INGR_ENG_NAME": "PEG-75 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 75이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "들깨오일",
+        "INGR_ENG_NAME": "Perilla Ocymoides Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 들깨 Perilla Ocymoides의 씨를 압착하여 얻은 고정유(불휘발성 오일)이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-90스테아레이트",
+        "INGR_ENG_NAME": "PEG-90 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 90이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-100스테아레이트",
+        "INGR_ENG_NAME": "PEG-100 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 100이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-150스테아레이트",
+        "INGR_ENG_NAME": "PEG-150 Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 스테아릭애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 150이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-2스테아레이트에스이",
+        "INGR_ENG_NAME": "PEG-2 Stearate SE",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소듐 및/또는 포타슘스테아레이트를 함유하는 피이지-2스테아레이트의 자기유화형이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-150/스테아릴알코올/에스엠디아이코폴리머",
+        "INGR_ENG_NAME": "PEG-150/Stearyl Alcohol/SMDI Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피이지-150, 포화메칠렌디페닐디이소시아네이트 및 스테아릴알코올모노머의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-5스테아릴암모늄락테이트",
+        "INGR_ENG_NAME": "PEG-5 Stearyl Ammonium Lactate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-5스테아릴암모늄클로라이드",
+        "INGR_ENG_NAME": "PEG-5 Stearyl Ammonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-60인카르나타시계꽃씨글리세라이즈",
+        "INGR_ENG_NAME": "PEG-60 Passiflora Incarnata Seed Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 인카르나타시계꽃 (Passiflora incarnata) 씨의 오일에서 유래된 모노 및 다이글리세라이드의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-60시계꽃씨글리세라이드,피이지-60시계초씨글리세라이드,피이지-60인카르나타시계꽃씨글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-20아몬드글리세라이즈",
+        "INGR_ENG_NAME": "PEG-20 Almond Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아몬드 기원의 모노 및 다이글리세라이드의 폴리에틸렌글라이콜유도체로 에틸렌옥사이드는 평균 20몰이다.",
+        "INGR_SYNONYM": "피이지-20아몬드글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-60아몬드글리세라이즈",
+        "INGR_ENG_NAME": "PEG-60 Almond Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 60몰의 에틸렌옥사이드를 함유한 아몬드 오일에서 얻은 모노 및 다이글리세라이드의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-60아몬드글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "들깨잎추출물",
+        "INGR_ENG_NAME": "Perilla Ocymoides Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 들깨 Perilla Ocymoides의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-192아프리코트커넬글리세라이즈",
+        "INGR_ENG_NAME": "PEG-192 Apricot Kernel Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 192몰의 에틸렌옥사이드를 갖는 행인유에서 얻은 모노- 및 다이글리세라이드의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-192아프리코트커넬글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-8/에스엠디아이코폴리머",
+        "INGR_ENG_NAME": "PEG-8/SMDI Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포화된 메칠렌디페닐디이소시아네이트(디사이클로헥실메탄디이소시아네이트)모노머와 피이지-8의 공중합체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-240/에이치디아이코폴리머비스-데실테트라데세스-20에터",
+        "INGR_ENG_NAME": "PEG-240/HDI Copolymer Bis-Decyltetradeceth-20 Ether",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피이지-240, 데실테트라데세스-20 및 헥사사메틸렌 다이아이소시아네이트 모노머의 공중합체이다.",
+        "INGR_SYNONYM": "피이지-240/에이치디아이코폴리머비스-데실테트라데세스-20에텔"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-5에틸헥사노에이트",
+        "INGR_ENG_NAME": "PEG-5 Ethylhexanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 2-에틸헥사노익애씨드의 폴리에틸렌글라이콜에스터로 다음의 구조를 갖는다. n은 평균 5이다.",
+        "INGR_SYNONYM": "피이지-5에칠헥사노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-2올레아민",
+        "INGR_ENG_NAME": "PEG-2 Oleamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜아민이다. x+y는 평균 2이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-5올레아민",
+        "INGR_ENG_NAME": "PEG-5 Oleamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜아민이다. x+y는 평균 5이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-15올레아민",
+        "INGR_ENG_NAME": "PEG-15 Oleamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜아민이다. x+y는 평균 15이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-2올레암모늄클로라이드",
+        "INGR_ENG_NAME": "PEG-2 Oleammonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-4올리베이트",
+        "INGR_ENG_NAME": "PEG-4 Olivate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올리브 오일에서 유래된 지방산의 폴리에칠렌글라이콜에스터이다. n은 평균 4이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-10올리브글리세라이즈",
+        "INGR_ENG_NAME": "PEG-10 Olive Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올리브오일과 평균 10몰의 에틸렌옥사이드의 모노 및 다이글리세라이드의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-10올리브글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "들깨추출물",
+        "INGR_ENG_NAME": "Perilla Ocymoides Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 들께 Perilla Ocymoides의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-2올리에이트",
+        "INGR_ENG_NAME": "PEG-2 Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 2이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-3올리에이트",
+        "INGR_ENG_NAME": "PEG-3 Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 3이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-4올리에이트",
+        "INGR_ENG_NAME": "PEG-4 Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 4이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-6올리에이트",
+        "INGR_ENG_NAME": "PEG-6 Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 6이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-8올리에이트",
+        "INGR_ENG_NAME": "PEG-8 Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 8이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-10올리에이트",
+        "INGR_ENG_NAME": "PEG-10 Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 10이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-12올리에이트",
+        "INGR_ENG_NAME": "PEG-12 Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 올레익애씨드의 폴리에칠렌글라이콜에스터이다. n은 평균 12이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-6아이소스테아레이트",
+        "INGR_ENG_NAME": "PEG-6 Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릭애씨드의 폴리에틸렌글라이콜에스터이다. n은 평균 6이다.",
+        "INGR_SYNONYM": "피이지-6이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-8아이소스테아레이트",
+        "INGR_ENG_NAME": "PEG-8 Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소소스테아릭애씨드의 폴리에틸렌글라이콜에스터이다. n은 평균 8이다.",
+        "INGR_SYNONYM": "피이지-8이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-10아이소스테아레이트",
+        "INGR_ENG_NAME": "PEG-10 Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소스테아릭애씨드의 폴리에틸렌글라이콜에스터이다. n은 평균 10이다.",
+        "INGR_SYNONYM": "피이지-10이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "들쭉나무열매추출물",
+        "INGR_ENG_NAME": "Vaccinium Uliginosum Berry Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 들쭉나무 Vaccinium uliginosum의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-12아이소스테아레이트",
+        "INGR_ENG_NAME": "PEG-12 Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소스테아릭애씨드의 폴리에틸렌글라이콜에스터이다. n은 평균 12이다.",
+        "INGR_SYNONYM": "피이지-12이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-12카나우바",
+        "INGR_ENG_NAME": "PEG-12 Carnauba",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 12몰의 에틸렌옥사이드를 함유한 카나우바의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-8-카프릴레이트/카프레이트",
+        "INGR_ENG_NAME": "PEG-8 Caprylate/Caprate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭과 카프릭애씨드를 혼합한 폴리에틸렌글라이콜에스터이며 주로 다음의 구조를 갖는다. RCO-는 카프릴릭과 카프릭애씨드라디칼의 혼합물이며 n의 평균값은 8이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-6카프릴릭/카프릭글리세라이즈",
+        "INGR_ENG_NAME": "PEG-6 Caprylic/Capric Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 6몰의 에칠렌옥사이드를 함유한 카프릴릭 및 카프릭애씨드의 모노, 디 및 트리글리세라이드 혼합물의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-6카프릴릭/카프릭글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-7카프릴릭/카프릭글리세라이즈",
+        "INGR_ENG_NAME": "PEG-7 Caprylic/Capric Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 7몰의 에틸렌옥사이드를 함유한 카프릴릭 및 카프릭애씨드의 모노, 다이 및 트라이글리세라이드 혼합물의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-7카프릴릭/카프릭글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-8카프릴릭/카프릭글리세라이즈",
+        "INGR_ENG_NAME": "PEG-8 Caprylic/Capric Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 8몰의 에틸렌옥사이드를 함유한 카프릴릭 및 카프릭애씨드의 모노, 다이 및 트라이글리세라이드 혼합물의 폴리에틸렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": "피이지-8카프릴릭/카프릭글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "피이지-3캐스터오일",
+        "INGR_ENG_NAME": "PEG-3 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 3몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-5캐스터오일",
+        "INGR_ENG_NAME": "PEG-5 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 5몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-9캐스터오일",
+        "INGR_ENG_NAME": "PEG-9 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 9몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-10캐스터오일",
+        "INGR_ENG_NAME": "PEG-10 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 10몰의 에칠렌옥사이와 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "등골나물아재비잎추출물",
+        "INGR_ENG_NAME": "Ageratum Conyzoides Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 등골나물아재비 Ageratum Conyzoides의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-15캐스터오일",
+        "INGR_ENG_NAME": "PEG-15 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 15몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-20캐스터오일",
+        "INGR_ENG_NAME": "PEG-20 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 20몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-25캐스터오일",
+        "INGR_ENG_NAME": "PEG-25 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 25몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-30캐스터오일",
+        "INGR_ENG_NAME": "PEG-30 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 30몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-33캐스터오일",
+        "INGR_ENG_NAME": "PEG-33 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 33몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-35캐스터오일",
+        "INGR_ENG_NAME": "PEG-35 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 35몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-36캐스터오일",
+        "INGR_ENG_NAME": "PEG-36 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 36몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-40캐스터오일",
+        "INGR_ENG_NAME": "PEG-40 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 40몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-44캐스터오일",
+        "INGR_ENG_NAME": "PEG-44 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 44몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "피이지-50캐스터오일",
+        "INGR_ENG_NAME": "PEG-50 Castor Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 평균 50몰의 에칠렌옥사이드를 함유한 피마자오일의 폴리에칠렌글라이콜 유도체이다.",
+        "INGR_SYNONYM": null
+    }
+]

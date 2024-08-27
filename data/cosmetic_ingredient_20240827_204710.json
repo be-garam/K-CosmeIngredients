@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "청동가루",
+        "INGR_ENG_NAME": "Bronze Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 가루 형태의 청동으로 이루어진 무기금속이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "청색1호",
+        "INGR_ENG_NAME": "Brilliant Blue FCF,CI 42090",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 화학적으로 다음의 구조를 갖는 트라이페닐메탄계 색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "강활뿌리추출물",
+        "INGR_ENG_NAME": "Angelica Koreana Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 강활 Angelica koreana의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "강활추출물"
+    },
+    {
+        "INGR_KOR_NAME": "능망간석추출물",
+        "INGR_ENG_NAME": "Rhodochrosite Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 능망간석의 추출물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "청색2호",
+        "INGR_ENG_NAME": "Indigo Carmine,CI 73015",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 화학적으로 다음의 구조를 갖는 인디고이드계 색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "청색201호",
+        "INGR_ENG_NAME": "Indigo,CI 73000",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 화학적으로 다음의 구조를 갖는 인디고이드계 색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "청색204호",
+        "INGR_ENG_NAME": "Carbanthrene Blue,CI 69825",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 화학적으로 다음의 구조를 갖는 안트라퀴논계 색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "청색205호",
+        "INGR_ENG_NAME": "Alphazurine FG,CI 42090",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 화학적으로 다음의 구조를 갖는 트라이페닐메탄계 색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "청색404호",
+        "INGR_ENG_NAME": "Phthalocyanine Blue,CI 74160",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 화학적으로 프탈로시아닌계 색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "개똥쑥추출물",
+        "INGR_ENG_NAME": "Artemisia Annua Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 개똥쑥 Artemisia annua의 지상부에서 추출한 것이다.",
+        "INGR_SYNONYM": "청호추출물"
+    },
+    {
+        "INGR_KOR_NAME": "스위트체스트넛로즈열매추출물",
+        "INGR_ENG_NAME": "Rosa Roxburghii Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스위트체스트넛로즈 Rosa roxburghii의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "체스트넛로즈열매추출물"
+    },
+    {
+        "INGR_KOR_NAME": "능소화꽃추출물",
+        "INGR_ENG_NAME": "Campsis Grandiflora Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 능소화 Campsis Grandiflora의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "체이스트트리추출물",
+        "INGR_ENG_NAME": "Vitex Agnus-Castus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 체이스트트리(구주좀목형) Vitex agnus-castus의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "초두구추출물",
+        "INGR_ENG_NAME": "Alpinia Katsumadai Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 초두구 Alpinia katsumadai의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": "초두구씨추출물"
+    },
+    {
+        "INGR_KOR_NAME": "초두구열매추출물",
+        "INGR_ENG_NAME": "Alpinia Katsumadae Fruit Extract,Alpinia Katsumadai Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 초두구 Alpinia katsumadae(=Alpinia hainanensis)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "초피나무열매껍질추출물",
+        "INGR_ENG_NAME": "Zanthoxylum Piperitum Peel Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 초피나무 Zanthoxylum piperitum의 열매껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": "초피나무껍질추출물"
+    },
+    {
+        "INGR_KOR_NAME": "초피나무열매추출물",
+        "INGR_ENG_NAME": "Zanthoxylum Piperitum Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 초피나무 Zanthoxylum Piperitum의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "대풍수씨오일",
+        "INGR_ENG_NAME": "Taraktogenos Kurzii Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 대풍수 Taraktogenos Kurzii 씨를 압착하여 얻은 고정유(불휘발성 오일)이다.",
+        "INGR_SYNONYM": "춀무그라씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "측백나무잎추출물",
+        "INGR_ENG_NAME": "Biota Orientalis Leaf Extract,Thuja Orientalis Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 측백나무 Biota orientalis의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "측백나무추출물",
+        "INGR_ENG_NAME": "Thuja Orientalis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 측백나무 (Thuja orientalis)의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "멕시칸치아씨오일",
+        "INGR_ENG_NAME": "Salvia Hispanica Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 멕시칸치아 Salvia hispanica의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": "치아씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "치오글라이콜릭애씨드",
+        "INGR_ENG_NAME": "Thioglycolic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "능아연석",
+        "INGR_ENG_NAME": "Smithsonite",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 징크카르보네이트로 구성된 미네랄이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "티오락틱애씨드",
+        "INGR_ENG_NAME": "Thiolactic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "치오락틱애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "티옥틱애씨드",
+        "INGR_ENG_NAME": "Thioctic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "치옥틱애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "티올란다이올",
+        "INGR_ENG_NAME": "Thiolanediol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "치올란디올"
+    },
+    {
+        "INGR_KOR_NAME": "치자나무오일",
+        "INGR_ENG_NAME": "Gardenia Florida Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 치자나무 Gardenia florida의 전초로부터 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": "치자오일"
+    },
+    {
+        "INGR_KOR_NAME": "치자추출물",
+        "INGR_ENG_NAME": "Gardenia Florida Fruit Extract,Gardenia Jasminoides Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 치자나무 (Gardenia florida)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "치즈베리뿌리추출물",
+        "INGR_ENG_NAME": "Rubus Ellipticus Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 치즈베리 (Rubus Ellipticus)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "치커리뿌리추출물",
+        "INGR_ENG_NAME": "Cichorium Intybus (Chicory) Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 치커리 (Cichorium intybus)의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "능아연석추출물",
+        "INGR_ENG_NAME": "Smithsonite Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 능아연석에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "칠레헤이즐넛오일",
+        "INGR_ENG_NAME": "Gevuina Avellana Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 칠레헤이즐(chilean hazel) Gevuina avellana의 씨에서 추출한 불휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "칠레헤이즐오일",
+        "INGR_ENG_NAME": "Gevuina Avellana Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 칠레헤이즐 (Gevuina avellana)의 열매를 압착하여 얻은 불휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "칡꽃/잎/줄기추출물",
+        "INGR_ENG_NAME": "Pueraria Thunbergiana Flower/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 칡 Pueraria lobata(=Pueraria thunbergiana)의 꽃/잎/줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카나우바왁스",
+        "INGR_ENG_NAME": "Copernicia Cerifera (Carnauba) Wax,Copernicia Cerifera Cera",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카나우바 Copernicia cerifera의 잎과 잎눈으로부터 얻은 왁스이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카네이션꽃추출물",
+        "INGR_ENG_NAME": "Dianthus Caryophyllus Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카네이션 (Dianthus caryophyllus)의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카라기난",
+        "INGR_ENG_NAME": "Carrageenan",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 돌가사리과 (Gigartinaceae) 또는 끈적살과 (Solieriaceae)에 속하는 다양한 홍조류로부터 얻은 식물성 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이리쉬모스추출물",
+        "INGR_ENG_NAME": "Chondrus Crispus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이리쉬모스 Chondrus crispus의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "카라기난추출물"
+    },
+    {
+        "INGR_KOR_NAME": "카라멜",
+        "INGR_ENG_NAME": "Caramel",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스 혹은 글루코오스 용액을 가열 농축하여 얻은 용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "스타후르츠열매추출물",
+        "INGR_ENG_NAME": "Averrhoa Carambola Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스타후르츠 Averrhoa carambola의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "카람볼라열매추출물"
+    },
+    {
+        "INGR_KOR_NAME": "니아울리나무잎오일",
+        "INGR_ENG_NAME": "Melaleuca Viridiflora Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 니아울리나무 Melaleuca Viridiflora의 잎에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": "니아울리잎오일"
+    },
+    {
+        "INGR_KOR_NAME": "스타후르츠잎추출물",
+        "INGR_ENG_NAME": "Averrhoa Carambola Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 스타후르츠Averrhoa carambola의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "카람볼라잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "포트마리골드꽃",
+        "INGR_ENG_NAME": "Calendula Officinalis Flower",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포트마리골드 Calendula Officinalis에서 얻은 꽃이다.",
+        "INGR_SYNONYM": "카렌둘라꽃"
+    },
+    {
+        "INGR_KOR_NAME": "포트마리골드꽃오일",
+        "INGR_ENG_NAME": "Calendula Officinalis Flower Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포트마리골드 Calendula Officinalis의 꽃을 증류하여 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": "카렌둘라꽃오일"
+    },
+    {
+        "INGR_KOR_NAME": "포트마리골드꽃추출물",
+        "INGR_ENG_NAME": "Calendula Officinalis Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포트마리골드 Calendula Officinalis의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "카렌둘라꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "카르노신",
+        "INGR_ENG_NAME": "Carnosine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로사이클릭아민이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카르니틴",
+        "INGR_ENG_NAME": "Carnitine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카르니틴에이치씨엘",
+        "INGR_ENG_NAME": "Carnitine HCl",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카르니틴피씨에이",
+        "INGR_ENG_NAME": "Carnitine PCA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 PCA의 카르니틴 염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카르니틴하이드록시시트레이트",
+        "INGR_ENG_NAME": "Carnitine Hydroxycitrate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카르본",
+        "INGR_ENG_NAME": "Carvone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 터펜이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "니코틴아마이드아데닌다이뉴클레오타이드",
+        "INGR_ENG_NAME": "Nicotinamide Adenine Dinucleotide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "니코틴아마이드아데닌디뉴클레오타이드"
+    },
+    {
+        "INGR_KOR_NAME": "카말라껍질추출물",
+        "INGR_ENG_NAME": "Mallotus Philippinensis Bark Extract,Mallotus Philippensis Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카말라 Mallotus philippensis의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "체키앙올레오사동백나무씨오일",
+        "INGR_ENG_NAME": "Camellia Chekiangoleosa Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 체키앙올레오사동백나무 Camellia chekiangoleosa의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": "카멜리아씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "카멜리아 키시씨오일",
+        "INGR_ENG_NAME": "Camellia Kissi Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Camellia Kissi의 씨에서 얻은 고정유(불휘발성 오일)이다.",
+        "INGR_SYNONYM": "카멜리아키시씨오일"
+    },
+    {
+        "INGR_KOR_NAME": "까무까무열매추출물",
+        "INGR_ENG_NAME": "Myrciaria Dubia Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 까무까무 Myrciaria dubia의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "카무카무추출물"
+    },
+    {
+        "INGR_KOR_NAME": "카민",
+        "INGR_ENG_NAME": "Carmine,CI 75470",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 염료 코치니얼의 알루미늄레이트이며 연지벌레 (Coccus cacti) 암컷을 건조하여 얻은 천연 색소이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카바카바잎/뿌리/줄기추출물",
+        "INGR_ENG_NAME": "Piper Methysticum Leaf/Root/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카바카바 Piper methysticum의 잎, 뿌리 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": "카바잎/뿌리/줄기추출물"
+    },
+    {
+        "INGR_KOR_NAME": "카보머",
+        "INGR_ENG_NAME": "Carbomer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 펜타에리스리톨의 알릴에텔, 수크로스의 알릴에텔 혹은 프로필렌의 알릴에텔로 가교된 아크릴릭애씨드의 호모폴리머이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카복시메틸키토산석신아마이드",
+        "INGR_ENG_NAME": "Carboxymethyl Chitosan Succinamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 키토산석신아마이드의 카복시메틸에터이다.",
+        "INGR_SYNONYM": "카복시메칠키토산석신아마이드"
+    },
+    {
+        "INGR_KOR_NAME": "카복시메틸키틴",
+        "INGR_ENG_NAME": "Carboxymethyl Chitin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 키틴의 카르복시메틸 유도체이다.",
+        "INGR_SYNONYM": "카복시메칠키틴"
+    },
+    {
+        "INGR_KOR_NAME": "카복시메틸하이드록시프로필구아",
+        "INGR_ENG_NAME": "Carboxymethyl Hydroxypropyl Guar",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카보시메틸구아의 프로필렌 글라이콜 에터 소듐염이다.",
+        "INGR_SYNONYM": "카복시메칠하이드록시프로필구아"
+    },
+    {
+        "INGR_KOR_NAME": "닉탄테스 아르보르-트리스티스잎추출물",
+        "INGR_ENG_NAME": "Nyctanthes Arbor-Tristis Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 Nyctanthes Arbor-Tristis의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카복시에틸아미노부티릭애씨드",
+        "INGR_ENG_NAME": "Carboxyethyl Aminobutyric Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "카복시에칠아미노부티릭애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "카본",
+        "INGR_ENG_NAME": "Carbon",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 원소의 비정형 형태이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카세인",
+        "INGR_ENG_NAME": "Casein",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 우유에서 얻은 포스포프로테인의 혼합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카올린",
+        "INGR_ENG_NAME": "Kaolin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 천연의 함수알루미늄실리케이트이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카우슬립추출물",
+        "INGR_ENG_NAME": "Primula Veris Extract",
+        "CAS_NO": "84787-68-8",
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 황산앵초 Primula veris의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "카우슬립추출물"
+    },
+    {
+        "INGR_KOR_NAME": "카제푸트오일",
+        "INGR_ENG_NAME": "Melaleuca Leucadendron Cajaput Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카제푸트 (Melaleuca leucadendron cajaput)에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카카두플럼추출물",
+        "INGR_ENG_NAME": "Terminalia Ferdinandiana Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카카두플럼 (Terminalia ferdinandiana)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카카오껍질가루",
+        "INGR_ENG_NAME": "Theobroma Cacao (Cocoa) Shell Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카카오 (Cacao) Theobroma cacao의 껍질을 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카카오씨버터",
+        "INGR_ENG_NAME": "Theobroma Cacao (Cocoa) Seed Butter",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카카오 (Cacao) Theobroma cacao의 씨에서 얻은 지방이다.",
+        "INGR_SYNONYM": "카카오씨드버터,코코아버터"
+    },
+    {
+        "INGR_KOR_NAME": "다래즙",
+        "INGR_ENG_NAME": "Actinidia Arguta Juice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다래 Actinidia arguta의 넝쿨을 압착하여 얻은 즙이다.",
+        "INGR_SYNONYM": "다래나무즙"
+    },
+    {
+        "INGR_KOR_NAME": "카카오씨추출물",
+        "INGR_ENG_NAME": "Theobroma Cacao (Cocoa) Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카카오 (Theobroma cacao)의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카카오열매가루",
+        "INGR_ENG_NAME": "Theobroma Cacao (Cocoa) Fruit Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카카오(Cocoa) Theobroma cacao의 열매를 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카카오추출물",
+        "INGR_ENG_NAME": "Theobroma Cacao (Cocoa) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카카오나무 (Theobroma cacao)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카테츄씨가루",
+        "INGR_ENG_NAME": "Acacia Catechu Seed Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카테츄 Acacia catechu의 씨를 건조하여 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카퍼글루코네이트",
+        "INGR_ENG_NAME": "Copper Gluconate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글루코닉애씨드의 카퍼염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카퍼설페이트",
+        "INGR_ENG_NAME": "Copper Sulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 설프릭애씨드의 카퍼염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카퍼열매추출물",
+        "INGR_ENG_NAME": "Capparis Spinosa Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카퍼 (Capparis spinosa)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카퍼클로로필",
+        "INGR_ENG_NAME": "Copper Chlorophyll",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카퍼트라이펩타이드-1",
+        "INGR_ENG_NAME": "Copper Tripeptide-1",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 트라이펩타이드-1의 구리복합체이다.",
+        "INGR_SYNONYM": "카퍼트리펩타이드-1"
+    },
+    {
+        "INGR_KOR_NAME": "카퍼피씨에이",
+        "INGR_ENG_NAME": "Copper PCA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피롤리돈카복실릭애씨드(PCA)의 구리염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "다마스크장미꽃수",
+        "INGR_ENG_NAME": "Rosa Damascena Flower Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다마스크장미꽃수에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카페익애씨드",
+        "INGR_ENG_NAME": "Caffeic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카페인",
+        "INGR_ENG_NAME": "Caffeine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로사이클릭 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릭애씨드",
+        "INGR_ENG_NAME": "Capric Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 지방산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릴로일글라이신",
+        "INGR_ENG_NAME": "Capryloyl Glycine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭애씨드클로라이드로 글라이신을 아실레이션한 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릴로일살리실릭애씨드",
+        "INGR_ENG_NAME": "Capryloyl Salicylic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 살리실릭애씨드와 카프릴릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릭애씨드",
+        "INGR_ENG_NAME": "Caprylic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 지방산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릭/카프릭글리세라이즈",
+        "INGR_ENG_NAME": "Caprylic/Capric Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭 및 카프릭애씨드의 모노, 다이 및 트라이글리세라이드의 혼합물이다.",
+        "INGR_SYNONYM": "카프릴릭/카프릭글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릭/카프릭/미리스틱/스테아릭트라이글리세라이드",
+        "INGR_ENG_NAME": "Caprylic/Capric/Myristic/Stearic Triglyceride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭애씨드, 카프릭애씨드, 미리스틱애씨드 및 스테아릭애씨드와 글리세린의 트라이에스터 혼합물이다.",
+        "INGR_SYNONYM": "카프릴릭/카프릭/미리스틱/스테아릭트리글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릭/카프릭/석시닉트라이글리세라이드",
+        "INGR_ENG_NAME": "Caprylic/Capric/Succinic Triglyceride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭애씨드, 카프릭애씨드 및 석시닉애씨드와 글리세린의 트라이에스터 혼합물이다.",
+        "INGR_SYNONYM": "카프릴릭/카프릭/석시닉트리글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릭/카프릭/스테아릭트라이글리세라이드",
+        "INGR_ENG_NAME": "Caprylic/Capric/Stearic Triglyceride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭애씨드, 카프릭애씨드 및 스테아릭애씨드와 글리세린의 트라이에스터 혼합물이다.",
+        "INGR_SYNONYM": "카프릴릭/카프릭/스테아릭트리글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "다마스크장미꽃오일",
+        "INGR_ENG_NAME": "Rosa Damascena Flower Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다마스크장미 Rosa damascena의 꽃에서 얻은 휘발성오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릭/카프릭트라이글리세라이드",
+        "INGR_ENG_NAME": "Caprylic/Capric Triglyceride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릭과 카프릭애씨드 및 글리세린의 혼합 트라이에스터이다.",
+        "INGR_SYNONYM": "카프릴릭/카프릭트리글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릭/카프릭트라이글리세라이드피이지-4에스터",
+        "INGR_ENG_NAME": "Caprylic/Capric Triglyceride PEG-4 Esters",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프필릭/카프릭트라이글리세라이드와 피이지-4의 트랜스에스터화된 혼합물이다.",
+        "INGR_SYNONYM": "카프릴릭/카프릭트리글리세라이드피이지-4에스터"
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릴글라이콜",
+        "INGR_ENG_NAME": "Caprylyl Glycol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 디올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릴글루코사이드",
+        "INGR_ENG_NAME": "Caprylyl Glucoside",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 카프릴릴알코올과 글루코스폴리머의 축합반응으로 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "카프릴릴다이메티콘에톡시글루코사이드",
+        "INGR_ENG_NAME": "Caprylyl Dimethicone Ethoxy Glucoside",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글루코오스폴리머와 카프릴릴다이메티콘을 반응하여 얻은 물질이다.",
+        "INGR_SYNONYM": "카프릴릴디메치콘에톡시글루코사이드"
+    }
+]

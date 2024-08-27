@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "필리핀오렌지껍질오일",
+        "INGR_ENG_NAME": "Citrus Nobilis (Mandarin Orange) Peel Oil,CITRUS NOBILIS PEEL OIL EXPRESSED",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 필리핀오렌지(Mandarin Orange) Citrus nobilis의 껍질에서 얻은 오일이다.",
+        "INGR_SYNONYM": "만다린껍질오일"
+    },
+    {
+        "INGR_KOR_NAME": "필리핀오렌지껍질추출물",
+        "INGR_ENG_NAME": "Citrus Nobilis (Mandarin Orange) Peel Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 필리핀오렌지(Mandarin Orange) Citrus nobilis의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": "만다린껍질추출물"
+    },
+    {
+        "INGR_KOR_NAME": "필리핀오렌지수",
+        "INGR_ENG_NAME": "Citrus Nobilis (Mandarin Orange) Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 필리핀 오렌지(Mandarin Orange) Citrus nobilis을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": "만다린수"
+    },
+    {
+        "INGR_KOR_NAME": "필리핀오렌지추출물",
+        "INGR_ENG_NAME": "Citrus Nobilis (Mandarin Orange) Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 필리핀 오렌지(Mandarin Orange) Citrus nobilis의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": "만다린추출물"
+    },
+    {
+        "INGR_KOR_NAME": "만델릭애씨드",
+        "INGR_ENG_NAME": "Mandelic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "만주곰슬껍질추출물",
+        "INGR_ENG_NAME": "Pinus Tabuliformis Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 만주곰슬 Pinus tabuliformis의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": "만주곰솔껍질추출물"
+    },
+    {
+        "INGR_KOR_NAME": "튜베로즈추출물",
+        "INGR_ENG_NAME": "Polianthes Tuberosa Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 튜베로즈 Polianthes tuberosa의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "만향옥추출물"
+    },
+    {
+        "INGR_KOR_NAME": "말굽잔나비버섯추출물",
+        "INGR_ENG_NAME": "Fomes Officinalis (Mushroom) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 말굽잔나비버섯 (Fomes officinalis)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말라카이트",
+        "INGR_ENG_NAME": "Malachite",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 카퍼카보네이트하이드록사이드로 구성된 미네랄이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "힙네아 무스키포르미스추출물",
+        "INGR_ENG_NAME": "Hypnea Musciformis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 홍조류의 일종인 Hypnea musciformis에서 추출한 것이다.",
+        "INGR_SYNONYM": "갈고리가시우무추출물"
+    },
+    {
+        "INGR_KOR_NAME": "구아하이드록시프로필트라이모늄클로라이드",
+        "INGR_ENG_NAME": "Guar Hydroxypropyltrimonium Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 하이드록시프로필구아의 4급 암모늄 유도체이다.",
+        "INGR_SYNONYM": "구아하이드록시프로필트리모늄클로라이드"
+    },
+    {
+        "INGR_KOR_NAME": "말라카이트추출물",
+        "INGR_ENG_NAME": "Malachite Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 바위를 분쇄하여 하이드로클로릭애씨드로 용해하고 소듐바이카보네이트로 중화하여 얻은 말라카이트에서 추출한 것이다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말레익애씨드",
+        "INGR_ENG_NAME": "Maleic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 시스 불포화 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "당아욱꽃/잎/줄기추출물",
+        "INGR_ENG_NAME": "Malva Sylvestris (Mallow) Flower/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 당아욱(Mallow) Malva sylvestris의 꽃, 잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": "말로우꽃/잎/줄기추출물"
+    },
+    {
+        "INGR_KOR_NAME": "당아욱잎가루",
+        "INGR_ENG_NAME": "Malva Sylvestris (Mallow) Leaf Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 당아욱(Mallow) Malva sylvestris의 잎을 건조하여 가루로 한 것이다.",
+        "INGR_SYNONYM": "말로우잎가루"
+    },
+    {
+        "INGR_KOR_NAME": "당아욱잎추출물",
+        "INGR_ENG_NAME": "Malva Sylvestris (Mallow) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 당아욱(Mallow) Malva sylvestris의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "말로우잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "당아욱추출물",
+        "INGR_ENG_NAME": "Malva Sylvestris (Mallow) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 당아욱(Mallow) Malva sylvestris의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "말로우추출물"
+    },
+    {
+        "INGR_KOR_NAME": "말리에이티드콩오일",
+        "INGR_ENG_NAME": "Maleated Soybean Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 조작된 콩오일이며, 싸이클릭 디카복실릭 애씨드를 통해 치환되어 불포화된다. 일반적으로 다음의 구조를 갖는다 : R은 반응하지 않고 남은 콩오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아라비안자스민꽃왁스",
+        "INGR_ENG_NAME": "Jasminum Sambac (Jasmine) Flower Wax",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아라비안자스민(Jasmine) Jasminum sambac 의 꽃에서 얻은 왁스이다.",
+        "INGR_SYNONYM": "말리화꽃왁스"
+    },
+    {
+        "INGR_KOR_NAME": "아라비안자스민꽃추출물",
+        "INGR_ENG_NAME": "Jasminum Sambac (Jasmine) Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아라비안자스민(Jasmine) Jasminum sambac의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "말리화꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "아라비안자스민잎세포추출물",
+        "INGR_ENG_NAME": "Jasminum Sambac (Jasmine) Leaf Cell Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아라비안자스민(Jasmine) Jasminum sambac 의 잎 세포를 배양하여 추출한 것이다.",
+        "INGR_SYNONYM": "말리화잎세포추출물"
+    },
+    {
+        "INGR_KOR_NAME": "구절초추출물",
+        "INGR_ENG_NAME": "Chrysanthemum Sibiricum Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구절초 Chrysanthemum sibiricum의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "구절초추출물"
+    },
+    {
+        "INGR_KOR_NAME": "말릭애씨드",
+        "INGR_ENG_NAME": "Malic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기산이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말미잘자포",
+        "INGR_ENG_NAME": "Sea Anemone Nematocyst",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 말미잘의 촉수에서 추출한 자포이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말토덱스트린",
+        "INGR_ENG_NAME": "Maltodextrin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 전분의 가수분해로 얻은 사카라이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말토바이오닉애씨드",
+        "INGR_ENG_NAME": "Maltobionic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말토스",
+        "INGR_ENG_NAME": "Maltose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 당이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말토실사이클로덱스트린",
+        "INGR_ENG_NAME": "Maltosyl Cyclodextrin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 말토오스와 사이클로덱스트린의 반응에 의해 얻은 물질이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말티톨",
+        "INGR_ENG_NAME": "Maltitol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 말토오스에 수소 첨가하여 얻은 디사카라이드폴리올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "말티톨라우레이트",
+        "INGR_ENG_NAME": "Maltitol Laurate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 말티톨 및 라우릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망가니즈글루코네이트",
+        "INGR_ENG_NAME": "Manganese Gluconate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 글루코닉애씨드의 마그네슘염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망가니즈다이옥사이드",
+        "INGR_ENG_NAME": "Manganese Dioxide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기산화물이다.",
+        "INGR_SYNONYM": "망가니즈디옥사이드"
+    },
+    {
+        "INGR_KOR_NAME": "망가니즈바이올렛",
+        "INGR_ENG_NAME": "Manganese Violet,Ammonium Manganese(3+) Diphosphate,CI 77742",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망가니즈클로라이드",
+        "INGR_ENG_NAME": "Manganese Chloride",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 무기염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망가니즈피씨에이",
+        "INGR_ENG_NAME": "Manganese PCA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 피롤리돈카복실릭애씨드(PCA)의 망간염이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망고스틴껍질추출물",
+        "INGR_ENG_NAME": "Garcinia Mangostana Peel Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망고스틴 (Garcinia mangostana)의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망고씨",
+        "INGR_ENG_NAME": "Mangifera Indica (Mango) Seed",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망고 (Mangifera indica)에서 얻은 씨이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망고씨버터",
+        "INGR_ENG_NAME": "Mangifera Indica (Mango) Seed Butter",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망고(Mango) Mangifera indica의 씨에서 얻은 지방이다.",
+        "INGR_SYNONYM": "망고씨드버터"
+    },
+    {
+        "INGR_KOR_NAME": "망고씨오일",
+        "INGR_ENG_NAME": "Mangifera Indica (Mango) Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망고 (Mangifera indica)의 커넬을 압착하여 얻은 불휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망고잎추출물",
+        "INGR_ENG_NAME": "Mangifera Indica (Mango) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망고 (Mangifera indica)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망고즙",
+        "INGR_ENG_NAME": "Mangifera Indica (Mango) Juice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망고 (Mangifera indica)의 즙이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "구주물푸레잎추출물",
+        "INGR_ENG_NAME": "Fraxinus Excelsior Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구주물푸레 Fraxinus excelsior의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "망고추출물",
+        "INGR_ENG_NAME": "Mangifera Indica (Mango) Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 망고 (Mangifera indica)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메도우스위트꽃추출물",
+        "INGR_ENG_NAME": "Spiraea Ulmaria Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메도우스위트 Spiraea ulmaria의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "매도우스위트꽃추출물"
+    },
+    {
+        "INGR_KOR_NAME": "메도우스위트잎추출물",
+        "INGR_ENG_NAME": "Spiraea Ulmaria Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메도우스위트 Spiraea ulmaria의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "매도우스위트잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "메도우스위트추출물",
+        "INGR_ENG_NAME": "Spiraea Ulmaria Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메도우스위트 Spiraea ulmaria에서 추출한 것이다.",
+        "INGR_SYNONYM": "매도우스위트추출물"
+    },
+    {
+        "INGR_KOR_NAME": "매생이추출물",
+        "INGR_ENG_NAME": "Capsosiphon Fulvescens Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 매생이 (Capsosiphon fulvescens)에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "매스틱검",
+        "INGR_ENG_NAME": "Pistacia Lentiscus (Mastic) Gum",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 매스틱(Mastic) Pistacia lentiscus 나무에서 얻은 검이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "매실수",
+        "INGR_ENG_NAME": "Prunus Mume Fruit Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 매실나무 (Prunus mume)의 열매를 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "매실추출물",
+        "INGR_ENG_NAME": "Prunus Mume Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 매실나무 (Prunus mume)의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "매실나무꽃수",
+        "INGR_ENG_NAME": "Prunus Mume Flower Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 매실나무 Prunus mume의 꽃을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": "매화수"
+    },
+    {
+        "INGR_KOR_NAME": "매실나무꽃추출물",
+        "INGR_ENG_NAME": "Prunus Mume Flower Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 매실나무 Prunus mume의 꽃에서 추출한 것이다.",
+        "INGR_SYNONYM": "매화추출물"
+    },
+    {
+        "INGR_KOR_NAME": "구주소나무껍질추출물",
+        "INGR_ENG_NAME": "Pinus Sylvestris Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구주소나무 Pinus sylvestris의 껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "소엽맥문동뿌리추출물",
+        "INGR_ENG_NAME": "Ophiopogon Japonicus Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 소엽맥문동 Ophiopogon japonica 또는 백합과 다른 종의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": "맥문동추출물"
+    },
+    {
+        "INGR_KOR_NAME": "맥아추출물",
+        "INGR_ENG_NAME": "Malt Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 부분적으로 발아된 그리고 건조된 보리 씨의 수용성 추출물을 증발하여 얻은 거무스름한 시럽이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "머위뿌리추출물",
+        "INGR_ENG_NAME": "Petasites Japonicus Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 머위 Petasites japonicus의 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "머위잎/줄기추출물",
+        "INGR_ENG_NAME": "Petasites Japonicus Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 머위 (Petasites japonicus)의 줄기 및 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "우단담배풀추출물",
+        "INGR_ENG_NAME": "Verbascum Thapsus Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 우단담배풀 Verbascum thapsus에서 추출한 것이다.",
+        "INGR_SYNONYM": "멀런추출물"
+    },
+    {
+        "INGR_KOR_NAME": "멍석딸기추출물",
+        "INGR_ENG_NAME": "Rubus Parvifolius Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 멍석딸기 (Rubus parvifolius)의 딸기에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메도우폼델타-락톤",
+        "INGR_ENG_NAME": "Meadowfoam Delta-Lactone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 메도우폼씨오일 지방산에서 형성된 락톤이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메도우폼씨오일",
+        "INGR_ENG_NAME": "Limnanthes Alba (Meadowfoam) Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메도우폼 (Limnanthes alba)의 씨에서 추출한 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메밀씨추출물",
+        "INGR_ENG_NAME": "Polygonum Fagopyrum (Buckwheat) Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메밀 (Polygonum fagopyrum)의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메밀잎추출물",
+        "INGR_ENG_NAME": "Polygonum Fagopyrum (Buckwheat) Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메밀(Buckwheat) Polygonum fagopyrum 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "구주소나무솔방울추출물",
+        "INGR_ENG_NAME": "Pinus Sylvestris Cone Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구주소나무 Pinus sylvestris의 솔방울에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메티오닌",
+        "INGR_ENG_NAME": "Methionine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": "메치오닌"
+    },
+    {
+        "INGR_KOR_NAME": "메티콘",
+        "INGR_ENG_NAME": "Methicone",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 선형의 모노메틸폴리실록세인이다. 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "메치콘"
+    },
+    {
+        "INGR_KOR_NAME": "메틸글루세스-10",
+        "INGR_ENG_NAME": "Methyl Gluceth-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 메틸글루코오스의 폴리에틸렌글라이콜에터며 n은 평균 10이다.",
+        "INGR_SYNONYM": "메칠글루세스-10"
+    },
+    {
+        "INGR_KOR_NAME": "메틸글루세스-20",
+        "INGR_ENG_NAME": "Methyl Gluceth-20",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 메틸글루코오스의 폴리에틸렌글라이콜에터며 n은 평균 20이다.",
+        "INGR_SYNONYM": "메칠글루세스-20"
+    },
+    {
+        "INGR_KOR_NAME": "메틸글루세스-20벤조에이트",
+        "INGR_ENG_NAME": "Methyl Gluceth-20 Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸글루세스-20과 벤조익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "메칠글루세스-20벤조에이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸글루카민",
+        "INGR_ENG_NAME": "Methylglucamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "메칠글루카민"
+    },
+    {
+        "INGR_KOR_NAME": "메틸글루코오스다이올리에이트",
+        "INGR_ENG_NAME": "Methyl Glucose Dioleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸글루코사이드와 올레익애씨드의 다이에스터이다.",
+        "INGR_SYNONYM": "메칠글루코오스디올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸글루코오스세스퀴스테아레이트",
+        "INGR_ENG_NAME": "Methyl Glucose Sesquistearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸글루코사이드와 스테아릭애씨드의 모노- 혹은 다이에스터의 혼합물이다.",
+        "INGR_SYNONYM": "메칠글루코오스세스퀴스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸니코티네이트",
+        "INGR_ENG_NAME": "Methyl Nicotinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸알코올 및 니코티닉애씨드의 에스터이다. 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "메칠니코티네이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸다이-t-부틸하이드록시하이드로신나메이트",
+        "INGR_ENG_NAME": "Methyl Di-t-butyl Hydroxyhydrocinnamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "메칠디-t-부틸하이드록시하이드로신나메이트"
+    },
+    {
+        "INGR_KOR_NAME": "구주소나무싹추출물",
+        "INGR_ENG_NAME": "Pinus Sylvestris Bud Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구주소나무 Pinus sylvestris의 싹에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메틸다이아이소프로필프로피온아마이드",
+        "INGR_ENG_NAME": "Methyl Diisopropyl Propionamide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "메칠디이소프로필프로피온아마이드"
+    },
+    {
+        "INGR_KOR_NAME": "메틸다이하이드로자스모네이트",
+        "INGR_ENG_NAME": "Methyldihydrojasmonate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "메칠디하이드로자스모네이트"
+    },
+    {
+        "INGR_KOR_NAME": "2-메틸레조시놀",
+        "INGR_ENG_NAME": "2-Methylresorcinol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 화합물이다.",
+        "INGR_SYNONYM": "2-메칠레조시놀"
+    },
+    {
+        "INGR_KOR_NAME": "메칠렌비스-벤조트리아졸릴테트라메칠부틸페놀",
+        "INGR_ENG_NAME": "Methylene Bis-Benzotriazolyl Tetramethylbutylphenol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 헤테로사이클릭 화합물이다",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메틸3-메틸레조실레이트",
+        "INGR_ENG_NAME": "Methyl 3-Methylresorcylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "메칠3-메칠레조실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸메타크릴레이트/글라이콜다이메타크릴레이트크로스폴리머",
+        "INGR_ENG_NAME": "Methyl Methacrylate/Glycol Dimethacrylate Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸메타크릴레이트와 에틸글라이콜다이메타크릴레이트모노머의 교차공중합체이다.",
+        "INGR_SYNONYM": "메칠메타크릴레이트/글라이콜디메타크릴레이트크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "메틸메타크릴레이트/아크릴로나이트릴코폴리머",
+        "INGR_ENG_NAME": "Methyl Methacrylate/Acrylonitrile Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸메타크릴레이트 및 아크릴로나이트릴모노머의 공중합체이다.",
+        "INGR_SYNONYM": "메칠메타크릴레이트/아크릴로나이트릴코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "메틸메타크릴레이트크로스폴리머",
+        "INGR_ENG_NAME": "Methyl Methacrylate Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 글라이콜다이메타크릴레이트와 가교된 메틸메타크릴레이트의 공중합체이다.",
+        "INGR_SYNONYM": "메칠메타크릴레이트크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "메틸벤조에이트",
+        "INGR_ENG_NAME": "Methyl Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 메틸알코올과 벤조익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "메칠벤조에이트"
+    },
+    {
+        "INGR_KOR_NAME": "구주소나무잎오일",
+        "INGR_ENG_NAME": "Pinus Sylvestris Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구주소나무 Pinus sylvestris의 바늘잎에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "4-메틸벤즈알데하이드",
+        "INGR_ENG_NAME": "4-Methylbenzaldehyde",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "4-메칠벤즈알데하이드"
+    },
+    {
+        "INGR_KOR_NAME": "4-메칠벤질리덴캠퍼",
+        "INGR_ENG_NAME": "4-Methylbenzylidene Camphor",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 방향족 유기화합물이다.",
+        "INGR_SYNONYM": "4-메틸벤질리덴캠퍼"
+    },
+    {
+        "INGR_KOR_NAME": "메틸사이클로덱스트린",
+        "INGR_ENG_NAME": "Methyl Cyclodextrin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 사이클로덱스트린을 메틸화하여 얻은 생성물이다.",
+        "INGR_SYNONYM": "메칠사이클로덱스트린"
+    },
+    {
+        "INGR_KOR_NAME": "메틸살리실레이트",
+        "INGR_ENG_NAME": "Methyl Salicylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 메틸알코올과 살리실릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "메칠살리실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸세린",
+        "INGR_ENG_NAME": "Methylserine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "메칠세린"
+    },
+    {
+        "INGR_KOR_NAME": "메틸셀룰로오스",
+        "INGR_ENG_NAME": "Methylcellulose",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 셀룰로오스의 메틸에터이다.",
+        "INGR_SYNONYM": "메칠셀룰로오스"
+    },
+    {
+        "INGR_KOR_NAME": "메틸소이에이트",
+        "INGR_ENG_NAME": "Methyl Soyate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸알코올과 소이애씨드의 에스터이다. 주로 다음의 구조를 갖으며 RCO-는 콩오일에서 얻은 지방산이다.",
+        "INGR_SYNONYM": "메칠소이에이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸스타이렌/비닐톨루엔코폴리머",
+        "INGR_ENG_NAME": "Methylstyrene/Vinyltoluene Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸스타이렌과 비닐톨루엔 모노머들의 중합체이다.",
+        "INGR_SYNONYM": "메칠스타이렌/비닐톨루엔코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "메틸실란올만누로네이트",
+        "INGR_ENG_NAME": "Methylsilanol Mannuronate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 모노메틸실란올 및 올리고머릭만누로닉애씨드의 에스터이다. 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "메칠실라놀만누로네이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸실란올카복시메틸테오필린알지네이트",
+        "INGR_ENG_NAME": "Methylsilanol Carboxymethyl Theophylline Alginate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸실란올카복시메틸테오필린과 알지닉애씨드의 반응물이다.",
+        "INGR_SYNONYM": "메칠실라놀카복시메칠테오필린알지네이트"
+    },
+    {
+        "INGR_KOR_NAME": "구주소나무잎추출물",
+        "INGR_ENG_NAME": "Pinus Sylvestris Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 구주소나무 (Pinus sylvestris)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "메틸실란올피이지-7글리세릴코코에이트",
+        "INGR_ENG_NAME": "Methylsilanol PEG-7 Glyceryl Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 에톡실화된 에스터이며 RCO-는 코코넛오일로 부터 얻은 지방산 라디칼이다.",
+        "INGR_SYNONYM": "메칠실라놀피이지-7글리세릴코코에이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸실란올하이드록시프롤린아스파테이트",
+        "INGR_ENG_NAME": "Methylsilanol Hydroxyproline Aspartate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 메틸실란올 하이드록시프롤린과 아스파틱애씨드의 반응물이다.",
+        "INGR_SYNONYM": "메칠실라놀하이드록시프롤린아스파테이트"
+    },
+    {
+        "INGR_KOR_NAME": "메틸실란올/실리케이트크로스폴리머",
+        "INGR_ENG_NAME": "Methylsilanol/Silicate Crosspolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 실리카와 메틸실란올의 반응에 의해 얻은 크로스폴리머이다.",
+        "INGR_SYNONYM": "메칠실란올/실리케이트크로스폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "메틸실란올트라이-피이지-8글리세릴코코에이트",
+        "INGR_ENG_NAME": "Methylsilanol Tri-PEG-8 Glyceryl Cocoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 에톡실화된 에스터다. RCO-는 코코넛오일에서 얻은 지방산 라디칼이다.",
+        "INGR_SYNONYM": "메칠실란올트리-피이지-8글리세릴코코에이트"
+    }
+]

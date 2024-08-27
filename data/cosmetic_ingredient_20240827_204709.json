@@ -1,0 +1,702 @@
+[
+    {
+        "INGR_KOR_NAME": "디베스유카리잎/잔가지오일",
+        "INGR_ENG_NAME": "Eucalyptus Dives Leaf/Twig Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 디베스유카리 Eucalyptus dives의 잎 및 잔가지에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": "유칼립투스디베스잎/잔가지오일"
+    },
+    {
+        "INGR_KOR_NAME": "유칼립투스잎수",
+        "INGR_ENG_NAME": "Eucalyptus Globulus Leaf Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유칼립투스 (Eucalyptus globulus)의 잎을 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "유칼립투스잎오일",
+        "INGR_ENG_NAME": "Eucalyptus Globulus Leaf Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유칼립투스 (Eucalyptus globulus) 및 다른 Eucalyptus 종의 신선한 잎에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "유칼립투스잎추출물",
+        "INGR_ENG_NAME": "Eucalyptus Globulus Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유칼립투스 (Eucalyptus globulus)의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "유향",
+        "INGR_ENG_NAME": "Olibanum",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유향나무 (Boswellia carterii)에서 얻은 고무수지이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "유향나무껍질가루",
+        "INGR_ENG_NAME": "Boswellia Carterii Bark Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유향나무 (Boswellia carterii)의 껍질을 건조시켜 분쇄하여 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "유향나무오일",
+        "INGR_ENG_NAME": "Boswellia Carterii Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유향나무 Boswellia carterii에서 얻은 휘발성 오일이다.",
+        "INGR_SYNONYM": "유향유"
+    },
+    {
+        "INGR_KOR_NAME": "유향나무수지추출물",
+        "INGR_ENG_NAME": "Boswellia Carterii Resin Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 유향나무 Boswellia carterii의 수지에서 추출한 것이다.",
+        "INGR_SYNONYM": "유향추출물"
+    },
+    {
+        "INGR_KOR_NAME": "육계나무껍질추출물",
+        "INGR_ENG_NAME": "Cinnamomum Cassia Bark Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 육계 Cinnamomum cassia 의 건조한 나무껍질에서 추출한 것이다.",
+        "INGR_SYNONYM": "육계껍질추출물,육계추출물"
+    },
+    {
+        "INGR_KOR_NAME": "육두구가루",
+        "INGR_ENG_NAME": "Myristica Fragrans (Nutmeg) Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 육두구 (Myristica fragrans)를 건조하여 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "육두구열매가루",
+        "INGR_ENG_NAME": "Myristica Fragrans (Nutmeg) Fruit Powder",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 육두구 (Myristica fragrans)의 열매를 건조시켜 얻은 가루이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "육두구추출물",
+        "INGR_ENG_NAME": "Myristica Fragrans (Nutmeg) Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 육두구(Nutmeg) Myristica Fragrans에서 추출한 것이다.",
+        "INGR_SYNONYM": "육두구추출물"
+    },
+    {
+        "INGR_KOR_NAME": "육두구커넬오일",
+        "INGR_ENG_NAME": "Myristica Fragrans (Nutmeg) Kernel Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 육두구 (Myristica fragrans)의 커넬에서 추출한 오일이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "은방울꽃비늘줄기/뿌리추출물",
+        "INGR_ENG_NAME": "Convallaria Majalis Bulb/Root Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 은방울꽃 (Convallaria majalis)의 비늘줄기 및 뿌리에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "은행나무잎추출물",
+        "INGR_ENG_NAME": "Ginkgo Biloba Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 은행나무 Ginkgo biloba의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "은행나무잎출물,은행잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "은행추출물",
+        "INGR_ENG_NAME": "Ginkgo Biloba Nut Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 은행나무 Ginkgo biloba의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "삼지구엽초꽃/잎/줄기추출물",
+        "INGR_ENG_NAME": "Epimedium Grandiflorum Flower/Leaf/Stem Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 삼지구엽초 Epimedium grandiflorum 의 꽃,잎 및 줄기에서 추출한 것이다.",
+        "INGR_SYNONYM": "음양곽추출물"
+    },
+    {
+        "INGR_KOR_NAME": "의성개나리열매추출물",
+        "INGR_ENG_NAME": "Forsythia Viridissima Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 의성개나리 Forsythia viridissima의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "율무씨수",
+        "INGR_ENG_NAME": "Coix Lacryma-Jobi Ma-yuen Seed Water,Coix Lacryma-Jobi (Job's Tears) Seed Water",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 율무 Coix lacryma-jobi의 씨를 수증기 증류하여 얻은 수용액이다.",
+        "INGR_SYNONYM": "의이인수"
+    },
+    {
+        "INGR_KOR_NAME": "율무씨오일",
+        "INGR_ENG_NAME": "Coix Lacryma-Jobi Ma-yuen (Job's Tears) Seed Oil,Coix Lacryma-Jobi (Job's Tears) Seed Oil",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 율무 (Coix lacryma-jobi var. ma-yuen)의 씨를 압착하여 얻은 오일이다.",
+        "INGR_SYNONYM": "의이인오일"
+    },
+    {
+        "INGR_KOR_NAME": "율무씨추출물",
+        "INGR_ENG_NAME": "Coix Lacryma-Jobi Ma-yuen Seed Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 율무 Coix lacryma-jobi ma-yuen의 씨에서 추출한 것이다.",
+        "INGR_SYNONYM": "의이인추출물"
+    },
+    {
+        "INGR_KOR_NAME": "이노시톨",
+        "INGR_ENG_NAME": "Inositol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 사이클릭폴리올이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이눌린",
+        "INGR_ENG_NAME": "Inulin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 폴리사카라이드이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이눌린라우릴카바메이트",
+        "INGR_ENG_NAME": "Inulin Lauryl Carbamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라우릴이소시아네이트와 이눌린의 반응으로 얻은 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이디티에이",
+        "INGR_ENG_NAME": "EDTA",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 디아민이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이미다졸",
+        "INGR_ENG_NAME": "Imidazole",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이미다졸리디닐우레아",
+        "INGR_ENG_NAME": "Imidazolidinyl Urea",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 치환된 헤테로사이클릭 우레아이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이삭물수세미추출물",
+        "INGR_ENG_NAME": "Myriophyllum Spicatum Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 이삭물수세미 Myriophyllum Spicatum에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "이산화탄소",
+        "INGR_ENG_NAME": "Carbon Dioxide",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 가스이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이소노닐아이소노나노에이트",
+        "INGR_ENG_NAME": "Isononyl Isononanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음과 같은 구조를 갖는 가지사슬형 노나노익애씨드와 가지사슬형 노닐알코올의 에스터이다.",
+        "INGR_SYNONYM": "이소노닐이소노나노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소데세스-6",
+        "INGR_ENG_NAME": "Isodeceth-6",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 가지사슬형 데실알코올의 폴리에틸렌글라이콜에터이다. n은 평균 6이다.",
+        "INGR_SYNONYM": "이소데세스-6"
+    },
+    {
+        "INGR_KOR_NAME": "아이소데실네오펜타노에이트",
+        "INGR_ENG_NAME": "Isodecyl Neopentanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 가지사슬형 데실알코올과 네오펜타노익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소데실네오펜타노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "노니열매즙",
+        "INGR_ENG_NAME": "Morinda Citrifolia Fruit Juice",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 노니 Morinda citrifolia의 열매를 압착하여 얻은 즙이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이소데실살리실레이트",
+        "INGR_ENG_NAME": "Isodecyl Salicylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 가지사슬형 데실알코올과 살리실릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소데실살리실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소데실에틸헥사노에이트",
+        "INGR_ENG_NAME": "Isodecyl Ethylhexanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 분지형 사슬 데실알코올과 2-에틸헥사노익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소데실에칠헥사노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소데실올리에이트",
+        "INGR_ENG_NAME": "Isodecyl Oleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 가지사슬형 데실알코올과 올레익애씨드의 에스터이다. 구조는 다음과 같다.",
+        "INGR_SYNONYM": "이소데실올리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소데실아이소노나노에이트",
+        "INGR_ENG_NAME": "Isodecyl Isononanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음과 같은 구조를 갖는 가지사슬형 노나노익애씨드와 가지사슬형 노닐알코올의 에스터이다.",
+        "INGR_SYNONYM": "이소데실이소노나노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소도데케인",
+        "INGR_ENG_NAME": "Isododecane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 12개의 가지사슬형 지방족 탄화수소이다.",
+        "INGR_SYNONYM": "이소도데칸"
+    },
+    {
+        "INGR_KOR_NAME": "아이소라우레스-6",
+        "INGR_ENG_NAME": "Isolaureth-6",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 탄소 12개의 분지형 지방족 알코올의 폴리에틸렌글라이콜 에터이다.",
+        "INGR_SYNONYM": "이소라우레스-6"
+    },
+    {
+        "INGR_KOR_NAME": "아이소라우레스-4포스페이트",
+        "INGR_ENG_NAME": "Isolaureth-4 Phosphate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 포스포릭애씨드와 이소라우레스-4의 에스터의 복합 혼합물이다.",
+        "INGR_SYNONYM": "이소라우레스-4포스페이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소류신",
+        "INGR_ENG_NAME": "Isoleucine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아미노산이다.",
+        "INGR_SYNONYM": "이소류신"
+    },
+    {
+        "INGR_KOR_NAME": "아이소말트",
+        "INGR_ENG_NAME": "Isomalt",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 수크로오스의 효소적 재배열로 얻은 폴리사카라이드의 혼합물이며 주로 1-O-α-D-글루코피라노실-D-만니톨디하이드레이트와 6-O-α-D-글루코피라노실-D-솔비톨로 구성되어 있다.",
+        "INGR_SYNONYM": "이소말트"
+    },
+    {
+        "INGR_KOR_NAME": "노니열매추출물",
+        "INGR_ENG_NAME": "Morinda Citrifolia Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 노니 Morinda citrifolia의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이소머라이즈드리놀레익애씨드",
+        "INGR_ENG_NAME": "Isomerized linoleic acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 리놀레익애씨드에 조건화 수소첨가반응을 하여 얻은 것이다.",
+        "INGR_SYNONYM": "이소머라이즈드리놀레익애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "아이소머라이즈드사플라워글리세라이즈",
+        "INGR_ENG_NAME": "Isomerized Safflower Glycerides",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소머라이즈드사플라워애씨드와 글리세린의 에스터화로 얻은 물질이다.",
+        "INGR_SYNONYM": "이소머라이즈드사플라워글리세라이드"
+    },
+    {
+        "INGR_KOR_NAME": "아이소보닐아세테이트",
+        "INGR_ENG_NAME": "Isobornyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "이소보닐아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부탄",
+        "INGR_ENG_NAME": "Isobutane",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 탄화수소 가스이다.",
+        "INGR_SYNONYM": "이소부탄"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸렌/소듐말리에이트코폴리머",
+        "INGR_ENG_NAME": "Isobutylene/Sodium Maleate Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소부틸렌과 소듐말리에이트 모노머의 공중합체이다.",
+        "INGR_SYNONYM": "이소부틸렌/소듐말리에이트코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸렌/에틸말레이미드/하이드록시에틸말레이미드코폴리머",
+        "INGR_ENG_NAME": "Isobutylene/Ethylmaleimide/Hydroxyethylmaleimide Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소부틸렌에틸말레이미드와 아이소부틸렌하이드록시에틸말레이미드 모노머의 공중합체이다.",
+        "INGR_SYNONYM": "이소부틸렌/에칠말레이미드/하이드록시에칠말레이미드코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸메타크릴레이트/비스-하이드록시프로필다이메티콘아크릴레이트코폴리머",
+        "INGR_ENG_NAME": "Isobutylmethacrylate/Bis-Hydroxypropyl Dimethicone Acrylate Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소부틸메타크릴레이트와 비스-하이드록시프로필다이메티콘아크릴레이트 모노머의 공중합체이다.",
+        "INGR_SYNONYM": "이소부틸메타크릴레이트/비스-하이드록시프로필디메치콘아크릴레이트코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸메타크릴레이트/트라이플루오로에틸메타크릴레이트/비스-하이드록시프로필다이메티콘아크릴레이트코폴리머",
+        "INGR_ENG_NAME": "Isobutylmethacrylate/Trifluoroethylmethacrylate/Bis-Hydroxypropyl Dimethicone Acrylate Copolymer",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소부틸메타크릴레이트와 트라이플루오로에틸메타크릴레이트, 비스-하이드록시프로필다이메티콘아크릴레이트 모노머의 공중합체이다.",
+        "INGR_SYNONYM": "이소부틸메타크릴레이트/트리플루오로에칠메타크릴레이트/비스-하이드록시프로필디메치콘아크릴레이트코폴리머"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸벤조에이트",
+        "INGR_ENG_NAME": "Isobutyl Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소부틸알코올과 벤조익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소부틸벤조에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸스테아레이트",
+        "INGR_ENG_NAME": "Isobutyl Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소부틸알코올과 스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소부틸스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "노니잎추출물",
+        "INGR_ENG_NAME": "Morinda Citrifolia Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 노니 Morinda citrifolia의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸아세테이트",
+        "INGR_ENG_NAME": "Isobutyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소부틸알코올과 아세틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소부틸아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸파라벤",
+        "INGR_ENG_NAME": "Isobutylparaben",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소부틸과 p-하이드록시벤조익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소부틸파라벤"
+    },
+    {
+        "INGR_KOR_NAME": "아이소부틸페녹시에폭시수지",
+        "INGR_ENG_NAME": "Isobutylphenoxy Epoxy Resin",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다이메틸에틸페놀과 4,4'-아이소프로필리딘다이페놀,에피클로로하이드린 공중합체의 중합반응으로 생성된 수지이다.",
+        "INGR_SYNONYM": "이소부틸페녹시에폭시수지"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세테스-10",
+        "INGR_ENG_NAME": "Isoceteth-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소세틸알코올의 폴리에틸렌글라이콜에터이다. n은 평균 10이다.",
+        "INGR_SYNONYM": "이소세테스-10"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세테스-20",
+        "INGR_ENG_NAME": "Isoceteth-20",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소세틸알코올의 폴리에틸렌글라이콜에터이다. n은 평균 20이다.",
+        "INGR_SYNONYM": "이소세테스-20"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세틸미리스테이트",
+        "INGR_ENG_NAME": "Isocetyl Myristate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소세틸알코올과 미리스틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소세틸미리스테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세틸살리케이트",
+        "INGR_ENG_NAME": "Isocetyl Salicylate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소세텔알코올과 스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소세틸살리실레이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세틸스테아레이트",
+        "INGR_ENG_NAME": "Isocetyl Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소세틸알코올과 스테아릭애씨드의 에스터이다. 주로 다음의 구조를 갖는다.",
+        "INGR_SYNONYM": "이소세틸스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세틸스테아로일스테아레이트",
+        "INGR_ENG_NAME": "Isocetyl Stearoyl Stearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 에스터이다.",
+        "INGR_SYNONYM": "이소세틸스테아로일스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세틸알코올",
+        "INGR_ENG_NAME": "Isocetyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 16개인 지방족 알코올의 혼합물이다.",
+        "INGR_SYNONYM": "이소세틸알코올"
+    },
+    {
+        "INGR_KOR_NAME": "노니추출물",
+        "INGR_ENG_NAME": "Morinda Citrifolia Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 노니 Morinda citrifolia의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이소세틸아이소스테아레이트",
+        "INGR_ENG_NAME": "Isocetyl Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소세틸알코올과 아이소스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소세틸이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소세틸팔미테이트",
+        "INGR_ENG_NAME": "Isocetyl Palmitate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소세틸알코올과 팔미틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소세틸팔미테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아라미도프로필다이메틸아민",
+        "INGR_ENG_NAME": "Isostearamidopropyl Dimethylamine",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아미도아민이다.",
+        "INGR_SYNONYM": "이소스테아라미도프로필디메칠아민"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아라미도프로필다이메틸아민락테이트",
+        "INGR_ENG_NAME": "Isostearamidopropyl Dimethylamine Lactate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 락틱애씨드의 아이소스테아라미도프로필다이메틸아민염이다.",
+        "INGR_SYNONYM": "이소스테아라미도프로필디메칠아민락테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아라미도프로필모폴린락테이트",
+        "INGR_ENG_NAME": "Isostearamidopropyl Morpholine Lactate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 락틱애씨드의 아이소스테아라미도프로필모르폴린염이다.",
+        "INGR_SYNONYM": "이소스테아라미도프로필모폴린락테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아라미도프로필에틸다이모늄에토설페이트",
+        "INGR_ENG_NAME": "Isostearamidopropyl Ethyldimonium Ethosulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "이소스테아라미도프로필에칠디모늄에토설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아레스-10",
+        "INGR_ENG_NAME": "Isosteareth-10",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소스테아릴알코올의 폴리에틸렌글라이콜에터이다. n은 평균 10이다.",
+        "INGR_SYNONYM": "이소스테아레스-10"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아레스-15",
+        "INGR_ENG_NAME": "Isosteareth-15",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소스테아릴알코올의 폴리에틸렌글라이콜 에터이다. n은 평균 15이다.",
+        "INGR_SYNONYM": "이소스테아레스-15"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아레스-20",
+        "INGR_ENG_NAME": "Isosteareth-20",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소스테아릴알코올의 폴리에틸렌글라이콜 에터이다. n은 평균 20이다. .",
+        "INGR_SYNONYM": "이소스테아레스-20"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아로일하이드롤라이즈드실크",
+        "INGR_ENG_NAME": "Isostearoyl Hydrolyzed Silk",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릭애씨드클로라이드와 하이드롤라이즈드실크의 축합물이다.",
+        "INGR_SYNONYM": "이소스테아로일하이드롤라이즈드실크"
+    },
+    {
+        "INGR_KOR_NAME": "노랑만병초잎추출물",
+        "INGR_ENG_NAME": "Rhododendron Chrysanthum Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 노랑만병초 Rhododendron chrysanthum의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": "노란만병초잎추출물"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아로일하이드롤라이즈드콜라겐",
+        "INGR_ENG_NAME": "Isostearoyl Hydrolyzed Collagen",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릭애씨드클로라이드와 가수분해 된 콜라겐의 축합반응물이다.",
+        "INGR_SYNONYM": "이소스테아로일하이드롤라이즈드콜라겐"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릭애씨드",
+        "INGR_ENG_NAME": "Isostearic Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 18개인 분지형 지방족 애씨드의 혼합물이다.",
+        "INGR_SYNONYM": "이소스테아릭애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴네오펜타노에이트",
+        "INGR_ENG_NAME": "Isostearyl Neopentanoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 아이소스테아릴알코올과 네오펜타노익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴네오펜타노에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴다이글리세릴석시네이트",
+        "INGR_ENG_NAME": "Isostearyl Diglyceryl Succinate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릴알코올 및 평균 2몰의 글리세린폴리머와 석시닉애씨드와의 혼합 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴디글리세릴석시네이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴락테이트",
+        "INGR_ENG_NAME": "Isostearyl Lactate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소스테아릴알코올과 락틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴락테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴리놀리에이트",
+        "INGR_ENG_NAME": "Isostearyl Linoleate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릴알코올과 리놀레익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴리놀리에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴베헤네이트",
+        "INGR_ENG_NAME": "Isostearyl Behenate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소스테아릴알코올과 베헤닉애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴베헤네이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴벤조에이트",
+        "INGR_ENG_NAME": "Isostearyl Benzoate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소스테아릴알코올과 벤조익애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴벤조에이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴세바케이트",
+        "INGR_ENG_NAME": "Isostearyl Sebacate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소스테아릴알코올과 세바식애씨드의 하프에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴세바케이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴아세틸글루타미네이트",
+        "INGR_ENG_NAME": "Isostearyl Acetyl Glutaminate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릴알콜과 아세틸글루타민의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴아세틸글루타미네이트"
+    },
+    {
+        "INGR_KOR_NAME": "감추출물",
+        "INGR_ENG_NAME": "Diospyros Kaki Fruit Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 감나무 Diospyros kaki의 열매에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "노랑수련잎추출물",
+        "INGR_ENG_NAME": "Nuphar Luteum Leaf Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 노랑수련 Nuphar luteum의 잎에서 추출한 것이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴알코올",
+        "INGR_ENG_NAME": "Isostearyl Alcohol",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 18개인 가지사슬형 지방족 알코올의 혼합물이다.",
+        "INGR_SYNONYM": "이소스테아릴알코올"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴에틸이미다졸리늄에토설페이트",
+        "INGR_ENG_NAME": "Isostearyl Ethylimidazolinium Ethosulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다.",
+        "INGR_SYNONYM": "이소스테아릴에칠이미다졸리늄에토설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴아이소스테아레이트",
+        "INGR_ENG_NAME": "Isostearyl Isostearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 아이소스테아릴알코올과 아이소스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴이소스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴팔미테이트",
+        "INGR_ENG_NAME": "Isostearyl Palmitate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 아이소스테아릴알코올과 팔미틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴팔미테이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소스테아릴하이드록시스테아레이트",
+        "INGR_ENG_NAME": "Isostearyl Hydroxystearate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 아이소스테아릴알코올과 하이드록시스테아릭애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소스테아릴하이드록시스테아레이트"
+    },
+    {
+        "INGR_KOR_NAME": "이소아밀p-메톡시신나메이트",
+        "INGR_ENG_NAME": "Isoamyl p-Methoxycinnamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 이소아밀알코올과 p-메톡시신나믹애씨드의 에스터이다.",
+        "INGR_SYNONYM": null
+    },
+    {
+        "INGR_KOR_NAME": "아이소아밀신나메이트",
+        "INGR_ENG_NAME": "Isoamyl Cinnamate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 유기화합물이다.",
+        "INGR_SYNONYM": "이소아밀신나메이트"
+    },
+    {
+        "INGR_KOR_NAME": "아이소아밀아세테이트",
+        "INGR_ENG_NAME": "Isoamyl Acetate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 다음의 구조를 갖는 아이소아밀알코올과 아세틱애씨드의 에스터이다.",
+        "INGR_SYNONYM": "이소아밀아세테이트"
+    },
+    {
+        "INGR_KOR_NAME": "C10-40아이소알킬아미도프로필에틸디모늄에토설페이트",
+        "INGR_ENG_NAME": "C10-40 Isoalkylamidopropylethyldimonium Ethosulfate",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 주로 다음의 구조를 갖는 4급 암모늄염이다. R은 C10-40의 아이소알킬 그룹이다.",
+        "INGR_SYNONYM": "C10-40이소알킬아미도프로필에칠디모늄에토설페이트"
+    },
+    {
+        "INGR_KOR_NAME": "C10-40아이소알킬애씨드",
+        "INGR_ENG_NAME": "C10-40 Isoalkyl Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 라놀린애씨드로부터 분리된 탄소 10-40개인 알킬 사슬을 갖는 분지,포화지방산의 혼합물이다.",
+        "INGR_SYNONYM": "C10-40이소알킬애씨드"
+    },
+    {
+        "INGR_KOR_NAME": "옐로우스위트클로버추출물",
+        "INGR_ENG_NAME": "Melilotus Officinalis Extract",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 노랑스위트클로버 Melilotus officinalis의 전초에서 추출한 것이다.",
+        "INGR_SYNONYM": "노랑스위트클로버추출물"
+    },
+    {
+        "INGR_KOR_NAME": "C14-28아이소알킬애씨드",
+        "INGR_ENG_NAME": "C14-28 Isoalkyl Acid",
+        "CAS_NO": null,
+        "ORIGIN_MAJOR_KOR_NAME": "이 원료는 탄소 14-28개인 알킬사슬을 갖는 가지사슬형, 포화지방산의 혼합물이다.",
+        "INGR_SYNONYM": "C14-28이소알킬애씨드"
+    }
+]
